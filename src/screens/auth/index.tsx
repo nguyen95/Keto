@@ -136,20 +136,29 @@ const AuthView: React.FC<AuthProps> = observer(
     const introAppOnpress = async (user: User) => {
       uiStore.hideNativeAds();
       uiStore.showLoading('login');
-      const isEnteredInfo = await getDataLocal(ENTERED_INFORMATION_KEY);
-      if (isEnteredInfo === ENTERED_INFOMATION.entered) {
+      // const isEnteredInfo = await getDataLocal(ENTERED_INFORMATION_KEY);
+      // if (isEnteredInfo === ENTERED_INFOMATION.entered) {
+      //   rootNavigation.navigate('BottomTabbar');
+      // } else {
+      //   let data = await getDataDoc(`${FIR_KEY_DB}/${user && user.uid}`);
+      //   if (data) {
+      //     rootNavigation.navigate('BottomTabbar');
+      //     saveDataLocal(ENTERED_INFORMATION_KEY, ENTERED_INFOMATION.entered);
+      //   } else {
+      //     navigation.navigate('InputInformation');
+      //   }
+      // }
+      let data = await getDataDoc(`${FIR_KEY_DB}/${user && user.uid}`);
+      console.log('introAppOnpress data: ', data);
+
+      if (data) {
         rootNavigation.navigate('BottomTabbar');
+        saveDataLocal(ENTERED_INFORMATION_KEY, ENTERED_INFOMATION.entered);
       } else {
-        let data = await getDataDoc(`${FIR_KEY_DB}/${user && user.uid}`);
-        if (data) {
-          rootNavigation.navigate('BottomTabbar');
-          saveDataLocal(ENTERED_INFORMATION_KEY, ENTERED_INFOMATION.entered);
-        } else {
-          navigation.navigate('InputInformation');
-        }
+        navigation.navigate('InputInformation');
       }
       uiStore.hideLoading();
-      rootNavigation.navigate('BottomTabbar');
+      // rootNavigation.navigate('BottomTabbar');
     };
 
     if (loginStatus === 0) {

@@ -7,9 +7,9 @@ async function getDataCollection(collection: string) {
   await firestore()
     .collection(collection)
     .get()
-    .then((querySnapshot) => {
+    .then(querySnapshot => {
       querySnapshot &&
-        querySnapshot.forEach((documentSnapshot) => {
+        querySnapshot.forEach(documentSnapshot => {
           data.push(documentSnapshot.data());
         });
     });
@@ -18,10 +18,14 @@ async function getDataCollection(collection: string) {
 
 async function getDataDoc(doc: string) {
   let data: FirebaseFirestoreTypes.DocumentData | undefined;
+  console.log('getDataDoc', doc);
+
   await firestore()
     .doc(doc)
     .get()
-    .then((documentSnapshot) => {
+    .then(documentSnapshot => {
+      console.log('getDataDoc', documentSnapshot);
+
       if (documentSnapshot.exists) {
         data = documentSnapshot.data();
       }

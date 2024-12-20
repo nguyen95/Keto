@@ -173,7 +173,7 @@ const BmrUpdateScreen: React.FC<BmrProps> = observer(
         backAction,
       );
       return () => {
-        backHandler.remove();
+        backHandler?.remove();
       };
     }, []);
 

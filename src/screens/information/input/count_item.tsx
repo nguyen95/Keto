@@ -89,5 +89,6 @@ const styles = StyleSheet.create({
     width: Dimensions.get('window').width / 11,
     height: Dimensions.get('window').width / 11,
     resizeMode: 'contain',
+    tintColor: AppStyle.Color.Main,
   },
 });

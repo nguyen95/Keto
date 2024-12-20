@@ -150,7 +150,7 @@ const HomeScreen: React.FC<HomeProps> = observer(
       setupEatingNotification();
       return () => {
         unsubscribe;
-        backHandler.remove();
+        backHandler?.remove();
         unsubscribeIn;
         unsubscribeOut;
       };
