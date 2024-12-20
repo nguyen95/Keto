@@ -1,0 +1,1136 @@
+[
+  {
+    "calo": 100,
+    "date": "",
+    "key": "0",
+    "mins": 30,
+    "name": "100 calo"
+  },
+  {
+    "calo": 138,
+    "date": "",
+    "key": "1",
+    "mins": 30,
+    "name": "Yoga"
+  },
+  {
+    "calo": 260,
+    "date": "",
+    "key": "2",
+    "mins": 30,
+    "name": "Leo cầu thang"
+  },
+  {
+    "calo": 297,
+    "date": "",
+    "key": "3",
+    "mins": 30,
+    "name": "Chạy bộ"
+  },
+  {
+    "calo": 111,
+    "date": "",
+    "key": "4",
+    "mins": 30,
+    "name": "Khiêu vũ"
+  },
+  {
+    "calo": 372,
+    "date": "",
+    "key": "5",
+    "mins": 30,
+    "name": "Nhảy dây"
+  },
+  {
+    "calo": 297,
+    "date": "",
+    "key": "6",
+    "mins": 30,
+    "name": "Chống đẩy"
+  },
+  {
+    "calo": 111,
+    "date": "",
+    "key": "7",
+    "mins": 30,
+    "name": "Cử tạ"
+  },
+  {
+    "calo": 186,
+    "date": "",
+    "key": "8",
+    "mins": 30,
+    "name": "Đạp xe"
+  },
+  {
+    "calo": 335,
+    "date": "",
+    "key": "9",
+    "mins": 30,
+    "name": "Boxing"
+  },
+  {
+    "calo": 638,
+    "date": "",
+    "key": "10",
+    "mins": 60,
+    "name": "Trượt ván"
+  },
+  {
+    "calo": 728,
+    "date": "",
+    "key": "11",
+    "mins": 60,
+    "name": "Bóng rổ"
+  },
+  {
+    "calo": 728,
+    "date": "",
+    "key": "12",
+    "mins": 60,
+    "name": "Bóng bầu dục giật cờ (Flag football)"
+  },
+  {
+    "calo": 728,
+    "date": "",
+    "key": "13",
+    "mins": 60,
+    "name": "Tennis đơn"
+  },
+  {
+    "calo": 937,
+    "date": "",
+    "key": "14",
+    "mins": 60,
+    "name": "Taekwondo"
+  },
+  {
+    "calo": 93,
+    "date": "",
+    "key": "15",
+    "mins": 30,
+    "name": "Chơi bida"
+  },
+  {
+    "calo": 111,
+    "date": "",
+    "key": "16",
+    "mins": 30,
+    "name": "Chơi bowling"
+  },
+  {
+    "calo": 111,
+    "date": "",
+    "key": "17",
+    "mins": 30,
+    "name": "Khiêu vũ(slow, waltz, foxtrot)"
+  },
+  {
+    "calo": 111,
+    "date": "",
+    "key": "18",
+    "mins": 30,
+    "name": "Ném đĩa (Frisbee)"
+  },
+  {
+    "calo": 111,
+    "date": "",
+    "key": "19",
+    "mins": 30,
+    "name": "Bóng chuyền (không mang tính chất thi đấu đối kháng)"
+  },
+  {
+    "calo": 111,
+    "date": "",
+    "key": "20",
+    "mins": 30,
+    "name": "Bóng chuyền nước"
+  },
+  {
+    "calo": 130,
+    "date": "",
+    "key": "21",
+    "mins": 30,
+    "name": "Bắn cung (không phải để săn bắn)"
+  },
+  {
+    "calo": 130,
+    "date": "",
+    "key": "22",
+    "mins": 30,
+    "name": "Golf (sử dụng xe điện)"
+  },
+  {
+    "calo": 130,
+    "date": "",
+    "key": "23",
+    "mins": 30,
+    "name": "Dù lượn"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "24",
+    "mins": 30,
+    "name": "Ném tạ hoặc bi đá trên băng"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "25",
+    "mins": 30,
+    "name": "Thể dục dụng cụ (nói chung)"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "26",
+    "mins": 30,
+    "name": "Cưỡi ngựa (nói chung)"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "27",
+    "mins": 30,
+    "name": "Thái cực quyền (Tai Chi)"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "28",
+    "mins": 30,
+    "name": "Bóng chuyền (thi đấu)"
+  },
+  {
+    "calo": 186,
+    "date": "",
+    "key": "30",
+    "mins": 30,
+    "name": "Chèo thuyền Kayak"
+  },
+  {
+    "calo": 186,
+    "date": "",
+    "key": "31",
+    "mins": 30,
+    "name": "Lướt ván"
+  },
+  {
+    "calo": 186,
+    "date": "",
+    "key": "32",
+    "mins": 30,
+    "name": "Lặn"
+  },
+  {
+    "calo": 186,
+    "date": "",
+    "key": "33",
+    "mins": 30,
+    "name": "Bóng chày"
+  },
+  {
+    "calo": 186,
+    "date": "",
+    "key": "34",
+    "mins": 30,
+    "name": "Bóng chày"
+  },
+  {
+    "calo": 112,
+    "date": "",
+    "key": "35",
+    "mins": 30,
+    "name": "Tập tạ (nói chung)"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "36",
+    "mins": 30,
+    "name": "Aerobics dưới nước"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "37",
+    "mins": 30,
+    "name": "Stretching, Hatha Yoga"
+  },
+  {
+    "calo": 167,
+    "date": "",
+    "key": "38",
+    "mins": 30,
+    "name": "Tập xà (ở mức độ vừa phải)"
+  },
+  {
+    "calo": 186,
+    "date": "",
+    "key": "39",
+    "mins": 30,
+    "name": "Đi xe đạp (nói chung)"
+  },
+  {
+    "calo": 205,
+    "date": "",
+    "key": "40",
+    "mins": 30,
+    "name": "Aerobics (mức độ thấp)"
+  },
+  {
+    "calo": 223,
+    "date": "",
+    "key": "41",
+    "mins": 30,
+    "name": "Tập máy leo cầu thang (nói chung)"
+  },
+  {
+    "calo": 223,
+    "date": "",
+    "key": "42",
+    "mins": 30,
+    "name": "Dạy aerobics"
+  },
+  {
+    "calo": 223,
+    "date": "",
+    "key": "43",
+    "mins": 30,
+    "name": "Tập tạ (mức cao)"
+  },
+  {
+    "calo": 260,
+    "date": "",
+    "key": "44",
+    "mins": 30,
+    "name": "Aerobics, đi bộ (chậm)"
+  },
+  {
+    "calo": 260,
+    "date": "",
+    "key": "45",
+    "mins": 30,
+    "name": "Aerobics (cường độ cao)"
+  },
+  {
+    "calo": 260,
+    "date": "",
+    "key": "46",
+    "mins": 30,
+    "name": "Đi xe đạp trên máy tập (mức trung bình)"
+  },
+  {
+    "calo": 260,
+    "date": "",
+    "key": "47",
+    "mins": 30,
+    "name": "Chèo thuyền trên máy tập (mức trung bình)"
+  },
+  {
+    "calo": 298,
+    "date": "",
+    "key": "48",
+    "mins": 30,
+    "name": "Tập xà (cường độ cao)"
+  },
+  {
+    "calo": 298,
+    "date": "",
+    "key": "49",
+    "mins": 30,
+    "name": "Bài tập aerobics tổng hợp cường độ cao (nói chung)"
+  },
+  {
+    "calo": 316,
+    "date": "",
+    "key": "50",
+    "mins": 30,
+    "name": "Chèo thuyền trên máy (cường độ cao)"
+  },
+  {
+    "calo": 335,
+    "date": "",
+    "key": "51",
+    "mins": 30,
+    "name": "Chạy trên máy tập (nói chung)"
+  },
+  {
+    "calo": 353,
+    "date": "",
+    "key": "52",
+    "mins": 30,
+    "name": "Trượt tuyết trên máy (nói chung)"
+  },
+  {
+    "calo": 372,
+    "date": "",
+    "key": "53",
+    "mins": 30,
+    "name": "Aerobics, Step (cường độ cao)"
+  },
+  {
+    "calo": 391,
+    "date": "",
+    "key": "54",
+    "mins": 30,
+    "name": "Đạp xe trên máy tập (cường độ cao)"
+  },
+  {
+    "calo": 93,
+    "date": "",
+    "key": "56",
+    "mins": 30,
+    "name": "Chơi bida"
+  },
+  {
+    "calo": 112,
+    "date": "",
+    "key": "57",
+    "mins": 30,
+    "name": "Chơi bowling"
+  },
+  {
+    "calo": 112,
+    "date": "",
+    "key": "58",
+    "mins": 30,
+    "name": "Khiêu vũ: slow, waltz, foxtrot"
+  },
+  {
+    "calo": 112,
+    "date": "",
+    "key": "59",
+    "mins": 30,
+    "name": "Ném đĩa (Frisbee)"
+  },
+  {
+    "calo": 112,
+    "date": "",
+    "key": "60",
+    "mins": 30,
+    "name": "Bóng chuyền (không mang tính chất thi đấu đối kháng"
+  },
+  {
+    "calo": 112,
+    "date": "",
+    "key": "61",
+    "mins": 30,
+    "name": "Bóng chuyền nước"
+  },
+  {
+    "calo": 130,
+    "date": "",
+    "key": "62",
+    "mins": 30,
+    "name": "Bắn cung (không phải để săn bắn)"
+  },
+  {
+    "calo": 130,
+    "date": "",
+    "key": "63",
+    "mins": 30,
+    "name": "Golf (sử dụng xe điện)"
+  },
+  {
+    "calo": 130,
+    "date": "",
+    "key": "64",
+    "mins": 30,
+    "name": "Dù lượn"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "65",
+    "mins": 30,
+    "name": "Ném tạ hoặc bi đá trên băng"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "66",
+    "mins": 30,
+    "name": "Thể dục dụng cụ (nói chung)"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "67",
+    "mins": 30,
+    "name": "Cưỡi ngựa (nói chung)"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "68",
+    "mins": 30,
+    "name": "Thái cực quyền (Tai Chi)"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "69",
+    "mins": 30,
+    "name": "Bóng chuyền (thi đấu)"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "70",
+    "mins": 30,
+    "name": "Đi bộ (khoảng 6 km/giờ) "
+  },
+  {
+    "calo": 167,
+    "date": "",
+    "key": "71",
+    "mins": 30,
+    "name": "Cầu lông (nói chung)"
+  },
+  {
+    "calo": 167,
+    "date": "",
+    "key": "72",
+    "mins": 30,
+    "name": "Đi bộ (khoảng 7 km/giờ)"
+  },
+  {
+    "calo": 186,
+    "date": "",
+    "key": "73",
+    "mins": 30,
+    "name": "Chèo thuyền Kayak"
+  },
+  {
+    "calo": 186,
+    "date": "",
+    "key": "74",
+    "mins": 30,
+    "name": "Lướt ván"
+  },
+  {
+    "calo": 186,
+    "date": "",
+    "key": "75",
+    "mins": 30,
+    "name": "Lặn"
+  },
+  {
+    "calo": 186,
+    "date": "",
+    "key": "76",
+    "mins": 30,
+    "name": "Bóng chày (softball)"
+  },
+  {
+    "calo": 186,
+    "date": "",
+    "key": "77",
+    "mins": 30,
+    "name": "Đi bộ (khoảng 7,7 km/giờ)"
+  },
+  {
+    "calo": 186,
+    "date": "",
+    "key": "78",
+    "mins": 30,
+    "name": "Chèo thuyền kayak trên thác nước"
+  },
+  {
+    "calo": 205,
+    "date": "",
+    "key": "79",
+    "mins": 30,
+    "name": "Khiêu vũ: disco, ballroom, square"
+  },
+  {
+    "calo": 205,
+    "date": "",
+    "key": "80",
+    "mins": 30,
+    "name": "Golf (tự mang gậy, đi bộ)"
+  },
+  {
+    "calo": 223,
+    "date": "",
+    "key": "81",
+    "mins": 30,
+    "name": "Khiêu vũ: Fast, ballet, twist"
+  },
+  {
+    "calo": 223,
+    "date": "",
+    "key": "82",
+    "mins": 30,
+    "name": "Đấu kiếm"
+  },
+  {
+    "calo": 223,
+    "date": "",
+    "key": "83",
+    "mins": 30,
+    "name": "Đi bộ đường dài"
+  },
+  {
+    "calo": 223,
+    "date": "",
+    "key": "84",
+    "mins": 30,
+    "name": "Trượt tuyết (lao dốc)"
+  },
+  {
+    "calo": 223,
+    "date": "",
+    "key": "85",
+    "mins": 30,
+    "name": "Bơi lội"
+  },
+  {
+    "calo": 223,
+    "date": "",
+    "key": "86",
+    "mins": 30,
+    "name": "Đi bộ, chạy bộ tốc độ chậm"
+  },
+  {
+    "calo": 223,
+    "date": "",
+    "key": "87",
+    "mins": 30,
+    "name": "Lướt ván nước"
+  },
+  {
+    "calo": 223,
+    "date": "",
+    "key": "88",
+    "mins": 30,
+    "name": "Đấu vật"
+  },
+  {
+    "calo": 242,
+    "date": "",
+    "key": "89",
+    "mins": 30,
+    "name": "Bóng rổ (trên xe lăn)"
+  },
+  {
+    "calo": 242,
+    "date": "",
+    "key": "90",
+    "mins": 30,
+    "name": "Đi bộ điền kinh"
+  },
+  {
+    "calo": 260,
+    "date": "",
+    "key": "91",
+    "mins": 30,
+    "name": "Trượt băng (nói chung)"
+  },
+  {
+    "calo": 260,
+    "date": "",
+    "key": "92",
+    "mins": 30,
+    "name": "Chơi racquetball"
+  },
+  {
+    "calo": 260,
+    "date": "",
+    "key": "93",
+    "mins": 30,
+    "name": "Trượt patanh"
+  },
+  {
+    "calo": 260,
+    "date": "",
+    "key": "94",
+    "mins": 30,
+    "name": "Lặn"
+  },
+  {
+    "calo": 260,
+    "date": "",
+    "key": "95",
+    "mins": 30,
+    "name": "Xe trượt tuyết"
+  },
+  {
+    "calo": 260,
+    "date": "",
+    "key": "96",
+    "mins": 30,
+    "name": "Bóng đá (nói chung)"
+  },
+  {
+    "calo": 260,
+    "date": "",
+    "key": "97",
+    "mins": 30,
+    "name": "Tennis (nói chung)"
+  },
+  {
+    "calo": 298,
+    "date": "",
+    "key": "98",
+    "mins": 30,
+    "name": "Bóng rổ (chơi một trận)"
+  },
+  {
+    "calo": 298,
+    "date": "",
+    "key": "99",
+    "mins": 30,
+    "name": "Đi xe đạp (từ 20 km - 23,5 km/giờ)"
+  },
+  {
+    "calo": 298,
+    "date": "",
+    "key": "100",
+    "mins": 30,
+    "name": "Bóng bầu dục"
+  },
+  {
+    "calo": 298,
+    "date": "",
+    "key": "101",
+    "mins": 30,
+    "name": "Hockey (trên cỏ và trên băng)"
+  },
+  {
+    "calo": 298,
+    "date": "",
+    "key": "102",
+    "mins": 30,
+    "name": "Leo núi"
+  },
+  {
+    "calo": 298,
+    "date": "",
+    "key": "103",
+    "mins": 30,
+    "name": "Chạy (khoảng 8,5 km/giờ)"
+  },
+  {
+    "calo": 298,
+    "date": "",
+    "key": "104",
+    "mins": 30,
+    "name": "Chạy (bằng xe lăn)"
+  },
+  {
+    "calo": 298,
+    "date": "",
+    "key": "105",
+    "mins": 30,
+    "name": "Trượt tuyết đường trường"
+  },
+  {
+    "calo": 298,
+    "date": "",
+    "key": "106",
+    "mins": 30,
+    "name": "Đi bộ trên tuyết"
+  },
+  {
+    "calo": 298,
+    "date": "",
+    "key": "107",
+    "mins": 30,
+    "name": "Bơi (bơi ngửa)"
+  },
+  {
+    "calo": 298,
+    "date": "",
+    "key": "108",
+    "mins": 30,
+    "name": "Bóng chuyền bãi biển"
+  },
+  {
+    "calo": 316,
+    "date": "",
+    "key": "109",
+    "mins": 30,
+    "name": "Đi xe đạp leo núi"
+  },
+  {
+    "calo": 335,
+    "date": "",
+    "key": "110",
+    "mins": 30,
+    "name": "Đấm bốc (tập luyện)"
+  },
+  {
+    "calo": 335,
+    "date": "",
+    "key": "111",
+    "mins": 30,
+    "name": "Bóng bầu dục (thi đấu)"
+  },
+  {
+    "calo": 335,
+    "date": "",
+    "key": "112",
+    "mins": 30,
+    "name": "Chạy định hướng"
+  },
+  {
+    "calo": 335,
+    "date": "",
+    "key": "113",
+    "mins": 30,
+    "name": "Chạy bộ (khoảng 9 km/giờ)"
+  },
+  {
+    "calo": 335,
+    "date": "",
+    "key": "114",
+    "mins": 30,
+    "name": "Chạy bộ đường trường"
+  },
+  {
+    "calo": 372,
+    "date": "",
+    "key": "115",
+    "mins": 30,
+    "name": "Đạp xe (từ 24 km - 27 km/giờ)"
+  },
+  {
+    "calo": 372,
+    "date": "",
+    "key": "116",
+    "mins": 30,
+    "name": "Võ thuật: judo, karate, kickbox"
+  },
+  {
+    "calo": 372,
+    "date": "",
+    "key": "117",
+    "mins": 30,
+    "name": "Chơi racquetball (thi đấu)"
+  },
+  {
+    "calo": 372,
+    "date": "",
+    "key": "118",
+    "mins": 30,
+    "name": "Nhảy dây"
+  },
+  {
+    "calo": 372,
+    "date": "",
+    "key": "119",
+    "mins": 30,
+    "name": "Chạy bộ (khoảng 10km/giờ)"
+  },
+  {
+    "calo": 372,
+    "date": "",
+    "key": "120",
+    "mins": 30,
+    "name": "Bơi ếch"
+  },
+  {
+    "calo": 372,
+    "date": "",
+    "key": "121",
+    "mins": 30,
+    "name": "Bơi nhiều vòng, cường độ cao"
+  },
+  {
+    "calo": 372,
+    "date": "",
+    "key": "122",
+    "mins": 30,
+    "name": "Nhảy tại chỗ trong nước (cường độ cao)"
+  },
+  {
+    "calo": 372,
+    "date": "",
+    "key": "123",
+    "mins": 30,
+    "name": "Bóng nước"
+  },
+  {
+    "calo": 409,
+    "date": "",
+    "key": "124",
+    "mins": 30,
+    "name": "Leo núi (leo lên)"
+  },
+  {
+    "calo": 409,
+    "date": "",
+    "key": "125",
+    "mins": 30,
+    "name": "Chạy bộ (tốc độ 11,4km/giờ)"
+  },
+  {
+    "calo": 409,
+    "date": "",
+    "key": "126",
+    "mins": 30,
+    "name": "Bơi bướm"
+  },
+  {
+    "calo": 409,
+    "date": "",
+    "key": "127",
+    "mins": 30,
+    "name": "Bơi kiểu bò trườn"
+  },
+  {
+    "calo": 446,
+    "date": "",
+    "key": "128",
+    "mins": 30,
+    "name": "Đạp xe (tốc độ 27 km - 32km/giờ)"
+  },
+  {
+    "calo": 446,
+    "date": "",
+    "key": "129",
+    "mins": 30,
+    "name": "Bóng ném (nói chung)"
+  },
+  {
+    "calo": 465,
+    "date": "",
+    "key": "130",
+    "mins": 30,
+    "name": "Chạy bộ (tốc độ 12,5 km/giờ)"
+  },
+  {
+    "calo": 539,
+    "date": "",
+    "key": "131",
+    "mins": 30,
+    "name": "Chạy bộ (tốc độ 14,5 km/giờ) "
+  },
+  {
+    "calo": 614,
+    "date": "",
+    "key": "132",
+    "mins": 30,
+    "name": "Đạp xe (tốc độ dưới 34 km/giờ)"
+  },
+  {
+    "calo": 614,
+    "date": "",
+    "key": "133",
+    "mins": 30,
+    "name": "Chạy bộ (tốc độ 16,5 km/giờ)"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "135",
+    "mins": 30,
+    "name": "Gieo trồng"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "136",
+    "mins": 30,
+    "name": "Cắt cỏ"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "137",
+    "mins": 30,
+    "name": "Dọn vườn"
+  },
+  {
+    "calo": 167,
+    "date": "",
+    "key": "138",
+    "mins": 30,
+    "name": "Làm vườn (nói chung)"
+  },
+  {
+    "calo": 167,
+    "date": "",
+    "key": "139",
+    "mins": 30,
+    "name": "Trồng cây"
+  },
+  {
+    "calo": 172,
+    "date": "",
+    "key": "140",
+    "mins": 30,
+    "name": "Nhổ cỏ trong vườn"
+  },
+  {
+    "calo": 23,
+    "date": "",
+    "key": "142",
+    "mins": 30,
+    "name": "Ngủ"
+  },
+  {
+    "calo": 28,
+    "date": "",
+    "key": "143",
+    "mins": 30,
+    "name": "Xem TV"
+  },
+  {
+    "calo": 42,
+    "date": "",
+    "key": "144",
+    "mins": 30,
+    "name": "Đọc sách (ngồi)"
+  },
+  {
+    "calo": 47,
+    "date": "",
+    "key": "145",
+    "mins": 30,
+    "name": "Đứng xếp hàng"
+  },
+  {
+    "calo": 93,
+    "date": "",
+    "key": "146",
+    "mins": 30,
+    "name": "Nấu ăn"
+  },
+  {
+    "calo": 130,
+    "date": "",
+    "key": "147",
+    "mins": 30,
+    "name": "Chăm sóc trẻ em"
+  },
+  {
+    "calo": 130,
+    "date": "",
+    "key": "148",
+    "mins": 30,
+    "name": "Đi siêu thị (dùng xe đẩy hàng)"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "149",
+    "mins": 30,
+    "name": "Chơi với trẻ em (mức độ trung bình)"
+  },
+  {
+    "calo": 167,
+    "date": "",
+    "key": "150",
+    "mins": 30,
+    "name": "Lau dọn "
+  },
+  {
+    "calo": 186,
+    "date": "",
+    "key": "151",
+    "mins": 30,
+    "name": "Chơi trò chơi với trẻ em"
+  },
+  {
+    "calo": 186,
+    "date": "",
+    "key": "152",
+    "mins": 30,
+    "name": "Chơi với trẻ em (ở cường độ cao)"
+  },
+  {
+    "calo": 51,
+    "date": "",
+    "key": "154",
+    "mins": 30,
+    "name": "Làm việc bằng máy tính"
+  },
+  {
+    "calo": 56,
+    "date": "",
+    "key": "155",
+    "mins": 30,
+    "name": "Việc văn phòng nhẹ nhàng"
+  },
+  {
+    "calo": 60,
+    "date": "",
+    "key": "156",
+    "mins": 30,
+    "name": "Ngồi họp"
+  },
+  {
+    "calo": 65,
+    "date": "",
+    "key": "157",
+    "mins": 30,
+    "name": "Làm việc tại bàn"
+  },
+  {
+    "calo": 65,
+    "date": "",
+    "key": "158",
+    "mins": 30,
+    "name": "Ngồi học"
+  },
+  {
+    "calo": 74,
+    "date": "",
+    "key": "159",
+    "mins": 30,
+    "name": "Lái xe tải"
+  },
+  {
+    "calo": 93,
+    "date": "",
+    "key": "160",
+    "mins": 30,
+    "name": "Phục vụ/nhân viên quầy bar"
+  },
+  {
+    "calo": 93,
+    "date": "",
+    "key": "161",
+    "mins": 30,
+    "name": "Vận hành các máy móc hạng nặng"
+  },
+  {
+    "calo": 93,
+    "date": "",
+    "key": "162",
+    "mins": 30,
+    "name": "Cảnh sát"
+  },
+  {
+    "calo": 112,
+    "date": "",
+    "key": "163",
+    "mins": 30,
+    "name": "Thợ hàn"
+  },
+  {
+    "calo": 130,
+    "date": "",
+    "key": "164",
+    "mins": 30,
+    "name": "Thợ mộc"
+  },
+  {
+    "calo": 149,
+    "date": "",
+    "key": "165",
+    "mins": 30,
+    "name": "Huấn luyện viên thể thao"
+  },
+  {
+    "calo": 205,
+    "date": "",
+    "key": "166",
+    "mins": 30,
+    "name": "Xây dựng (nói chung)"
+  }
+]

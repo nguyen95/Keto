@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Thói quen sinh hoạt",
+    "questions": [
+      "Tập thể dục 3 lần một tuần",
+      "Thích ăn trái cây và rau của quả thường xuyên",
+      "Nuôi thú cưng, con vật trong nhà",
+      "Hút thuốc nhiều hơn 2 gói/ngày",
+      "Hút thuốc 1 ~ 2 gói/ngày",
+      "Hút thuốc 20 điếu hoặc ít hơn mỗi ngày",
+      "Ngủ quá 10 tiếng hoặc ít hơn 5 tiếng/ngày",
+      "Béo phì",
+      "Tư thế đứng/ngồi sai cách",
+      "Đã có bệnh mãn tính hoặc thường xuyên mắc các bệnh nhẹ"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Trạng thái tinh thần, tâm lý",
+    "questions": [
+      "Hầu hết thời gian đều cảm thấy hạnh phúc và hài lòng",
+      "Lạc quan",
+      "Có những người bạn để chia sẻ khó khăn, vui buồn",
+      "Theo đuổi tín ngưỡng một cách kiên định",
+      "Tự ti",
+      "Cố chấp",
+      "Ưa mạo hiểm (chẳng hạn như đi xe phân khối lớn)",
+      "Trầm cảm"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Tình trạng hôn nhân",
+    "questions": [
+      "Đã kết hôn",
+      "Nam giới đã ly hôn và sống một mình",
+      "Phụ nữ đã ly hôn và sống một mình",
+      "Phụ nữ không sinh con hoặc không có con sau tuổi 40"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Tình trạng nghề nghiệp",
+    "questions": [
+      "Nhà nghiên cứu chuyên nghiệp",
+      "60 tuổi vẫn đang làm việc",
+      "65 tuổi vẫn đang làm việc",
+      "Làm việc ở thành phố lớn (hoặc dành phần lớn thời gian sống của cuộc đời sống ở thành phố lớn)",
+      "Làm việc ở các thị trấn ngoại thành, nông thôn (hoặc dành phần lớn thời gian sống ở đây)"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Môi trường, điều kiện sống",
+    "questions": [
+      "Sống ở khu vực thoáng đãng, có tầm nhìn rộng mở, không khí trong lành",
+      "Sống ở nơi ồn ào trong thời gian dài"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Yếu tố di truyền",
+    "questions": [
+      "Mẹ đẻ sống thọ 80 tuổi trở lên",
+      "Cha đẻ sống thọ 80 tuổi trở lên",
+      "Ông bà nội ngoại sống thọ 80 tuổi trở lên",
+      "Có thành viên trong gia đình chết vì bệnh tim trước 50 tuổi",
+      "Có thành viên trong gia đình chết vì bệnh ung thư dạ dày",
+      "Có thành viên trong gia đình chết vì bệnh ung thư vú",
+      "Có thành viên trong gia đình chết trước 60 tuổi vì tự tử hoặc có bệnh bất kỳ"
+    ]
+  }
+]

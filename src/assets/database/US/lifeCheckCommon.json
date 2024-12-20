@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Living habits",
+    "questions": [
+      "Exercise 3 times a week",
+      "Enjoys to eat fruits and vegetables of the fruit regularly",
+      "Pet, domestic animal",
+      "Smoking more than 2 packs / day",
+      "Smoking 1 ~ 2 packs / day",
+      "Smoke 20 or less a day",
+      "Sleep more than 10 hours or less than 5 hours a day",
+      "Fat",
+      "Correct standing / sitting posture",
+      "Have a chronic illness or have frequent mild illnesses"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Mental, psychological state",
+    "questions": [
+      "Most of the time, feeling happy and satisfied",
+      "Optimistic",
+      "There are friends to share difficulties, joys and sorrows",
+      "Pursue beliefs firmly",
+      "Self-esteem",
+      "Stubborn",
+      "Adventurous preferences (such as high-displacement riding)",
+      "Depression"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Marital status",
+    "questions": [
+      "Married",
+      "Men are divorced and live alone",
+      "Women are divorced and live alone",
+      "Women who do not give birth or have no children after age 40"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Occupational status",
+    "questions": [
+      "Professional researcher",
+      "60 years old is still working",
+      "65 years old is still working",
+      "Work in the big city (or spend most of your big city life)",
+      "Work in rural, suburban towns (or spend most of your time here)"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Environment, living conditions",
+    "questions": [
+      "Living in an open area, with an open view, fresh air",
+      "Live in a noisy place for a long time"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Genetic factors",
+    "questions": [
+      "The biological mother lives at least 80 years old",
+      "The biological father lives at least 80 years old",
+      "Grandparents live at least 80 years old",
+      "Some family member died of heart disease before age 50",
+      "Some family member died of stomach cancer",
+      "Some family member died of breast cancer",
+      "Have a family member died before age 60 from suicide or had any illness"
+    ]
+  }
+]

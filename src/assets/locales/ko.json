@@ -1,0 +1,464 @@
+{
+   "title": "건강 식품",
+   "custom": {
+      "backToNow": "지금으로 돌아가",
+      "back": "돌아와",
+      "next": " 다음",
+      "cancel": "취소",
+      "lipid": "체지방률",
+      "estimatedLifespan": "예상 수명",
+      "estimatedLifespanSub": "예상 수명을 계산 해보세요!",
+      "lifeCheckTitle": "기대 수명 계산",
+      "lifeCheckSub": "생활 습관, 심리적 상태, 결혼 상태, 상황 작업, 환경 조건 및 유전 적 소인을 포함하여 아래 6 개 범주의 질문에 따라 습관과 특성에 따라 나이를 계산하십시오. 질문을 진지하게 받아 들일 때 정직하십시오."
+   },
+   "sub": {
+      "title": "Premium",
+      "des": "Upgrade to Premium User with",
+      "benefit1": "Remove all ads",
+      "benefit2": "Use all features in app",
+      "perMonth": "per month",
+      "upgrade": "Upgrade Now!",
+      "term": "Terms & Conditions",
+      "policy": "Privacy policy"
+   },
+   "user": {
+      "title": "사용자",
+      "tabbarTitle": "나를",
+      "statisticsWeekly": "칼로리 추적",
+      "currentlyPlan": "현재 계획",
+      "recentRecipes": "최근 조리법",
+      "savedReceipes": "저장된 조리법",
+      "yourSavedRecipes": "저장 한 조리법",
+      "view": "전망",
+      "logoutTitle": "로그 아웃하다",
+      "logoutMsg": "당신은 당신이 로그 아웃 하시겠습니까?",
+      "ok": "확인",
+      "shoppingList": "쇼핑리스트",
+      "viewShoppingList": "장바구니 목록",
+      "weekday": {
+         "monday": "월요일",
+         "tuesday": "화요일",
+         "wednesday": "수요일",
+         "thursday": "목요일",
+         "friday": "금요일",
+         "saturday": "토요일",
+         "sunday": "일요일"
+      },
+      "weekdayShorten": {
+         "monday": "모",
+         "tuesday": "부엉",
+         "wednesday": "우리",
+         "thursday": "일",
+         "friday": "FR",
+         "saturday": "사",
+         "sunday": "스와"
+      },
+      "time": {
+         "tomorrow": "내일",
+         "nextTime": "다음에",
+         "yesterday": "어제",
+         "dayAgo": "며칠 전에",
+         "lastWeek": "지난주",
+         "weeksAgo": "몇주 전에",
+         "lastMonth": "지난 달",
+         "monthsAgo": "몇달 전",
+         "lastYear": "작년",
+         "yearsAgo": "여러 해 전에"
+      }
+   },
+   "statistics": {
+      "title": "활동 그래프",
+      "caloriesChartTitle": "칼로리 섭취",
+      "nutritionAverage": "이번 주에 영양 평균",
+      "waterChartTitle": "물 섭취",
+      "thisweek": "이번 주",
+      "prevweek": "칠일 전",
+      "week": {
+         "title": "매일",
+         "nutritionAverage": "이번 주에 영양 평균",
+         "currentstate": "이번 주",
+         "prevstate": "칠일 전"
+      },
+      "two_weeks": {
+         "title": "주간",
+         "nutritionAverage": "이 2 주 영양 평균",
+         "currentstate": "최근 14 일",
+         "prevstate": "십사일 전"
+      },
+      "month": {
+         "title": "월차",
+         "nutritionAverage": "이 달에 영양 평균",
+         "currentstate": "지난 30 일",
+         "prevstate": "삼십일 전"
+      }
+   },
+   "plan": {
+      "title": "계획",
+      "tabbarTitle": "계획",
+      "yourPlan": "계획",
+      "viewPlan": "보기 계획",
+      "detailPlan": "상세 계획",
+      "startPlan": "시작 계획",
+      "msgSelectPlan": "당신의 계획을 업데이트",
+      "detail_plan": {
+         "onThisPlan": "이 계획에",
+         "about": "대한",
+         "whatYouEat": "당신은 식사를 할 수있는 것들",
+         "benefits": "혜택"
+      }
+   },
+   "tabbar": {
+      "home": "집",
+      "yourMeal": "네 음식",
+      "user": "나를"
+   },
+   "recipes": {
+      "title": "조리법",
+      "tabbarTitle": "레시피",
+      "msgAddRecipe": "최근의 조리법에 추가",
+      "clickMore": "자세히>",
+      "detailRecipe": "상세 조리법",
+      "iHavedTryThis": "나는이 시도했다",
+      "ingredients": "성분",
+      "instruction": "명령",
+      "textNumberPeople": "사용 불가",
+      "recipeName": {
+         "breakfast": "아침밥",
+         "lunch": "점심",
+         "dinner": "공식 만찬",
+         "others": "기타"
+      }
+   },
+   "login": {
+      "signinWithGoogle": "구글에 로그인",
+      "signinWithEmail": "이메일에 로그인",
+      "signinWithFacebook": "페이스 북으로 로그인",
+      "signinWithApple": "애플에 로그인",
+      "loginErrorMsg": "로그인 오류",
+      "loginSignupEmail": {
+         "title": "이메일로 로그인",
+         "email": "이메일",
+         "password": "암호",
+         "login": "로그인",
+         "createAnAccount": "계정 만들기",
+         "createAccount": "계정 만들기",
+         "haveAnAccount": "계정을 갖고있다? 로그인",
+         "verifyYourAccount": "계정 확인",
+         "msgLinkVerifySent": "계정을 확인하는 링크가 이메일로 발송되었습니다",
+         "dismiss": "버리다",
+         "passNotEmpty": "암호는 비워 둘 수 없습니다",
+         "enterInvalidEmail": "잘못된 이메일을 입력",
+         "enterInvalidEmailFormat": "잘못된 이메일 형식"
+      },
+      "signInByEmailErrMesg": {
+         "ERROR_INVALID_EMAIL": "귀하의 이메일 주소의 형식이 잘못 것으로 보인다.",
+         "ERROR_WRONG_PASSWORD": "암호가 잘못되었습니다.",
+         "ERROR_USER_NOT_FOUND": "이 이메일을 가지고있는 사용자가 존재하지 않습니다.",
+         "ERROR_USER_DISABLED": "이 이메일을 가지고있는 사용자가 비활성화되었습니다.",
+         "ERROR_TOO_MANY_REQUESTS": "너무 많은 요청. 나중에 다시 시도하십시오.",
+         "ERROR_OPERATION_NOT_ALLOWED": "이메일과 비밀번호로 로그인이 활성화되지 않습니다.",
+         "UNKNOWN": "정의되지 않은 오류가 발생했습니다."
+      },
+      "signUpByEmailErrMesg": {
+         "ERROR_INVALID_EMAIL": "이메일이 잘못되었습니다",
+         "ERROR_OPERATION_NOT_ALLOWED": "익명 계정은 사용할 수 없습니다",
+         "UNKNOWN": "정의되지 않은 오류가 발생했습니다.",
+         "ERROR_WEAK_PASSWORD": "암호가 너무 약합니다",
+         "ERROR_EMAIL_ALREADY_IN_USE": "이메일은 다른 계정에서 이미 사용 중입니다",
+         "ERROR_INVALID_CREDENTIAL": "이메일이 잘못되었습니다"
+      }
+   },
+   "nutritions": {
+      "title": "영양물 섭취",
+      "subTitle": "(인분)",
+      "kcal": "킬로 칼로리",
+      "carbs": "탄수화물",
+      "protein": "단백질",
+      "fat": "지방",
+      "fiber": "섬유",
+      "sugar": "설탕"
+   },
+   "shoppingList": {
+      "title": "쇼핑리스트",
+      "delete": "지우다",
+      "done": "끝난",
+      "removeItem": "이 조리법을 제거",
+      "doneMsg": "끝났다",
+      "linkToRecipe": "레시피로 이동>",
+      "addAllToShoppingList": "+ 쇼핑 목록"
+   },
+   "BMR": {
+      "title": "BMR",
+      "titleUpdateBRM": "업데이트 BMR",
+      "buttonChangeGoals": "당신의 목표 변경",
+      "BMI": "BMI",
+      "male": "남성",
+      "female": "여자",
+      "height": "신장",
+      "weight": "무게",
+      "age": "나이",
+      "gender": "성별",
+      "activityLevel": "활동 수준",
+      "calories": "칼로리",
+      "tdee": "총 일일 에너지 지출 (TDEE)",
+      "today": "오늘",
+      "kCalDay": "킬로 칼로리 / 일",
+      "kCalLeft": "킬로 칼로리 왼쪽",
+      "caculateBMR": "계산 BMR",
+      "yourResult": "귀하의 결과",
+      "reCaculate": "다시 계산하기",
+      "gotIt": "알았다",
+      "continue": "계속하다",
+      "personal": "개인적인",
+      "howToContinue": "오른쪽 버튼 (+)에 눌러 검색을 계속",
+      "howToContinueMeal": "오른쪽 버튼 (+)에 눌러 검색을 계속",
+      "tipOfTheDay": "오늘의 팁",
+      "dateUpdateWeight": "바디 스마트 규모",
+      "save": "저장",
+      "nutritionSettings": "영양 설정",
+      "nutritionSettingsTitle": "올바르지 않은 비율",
+      "nutritionSettingsError": "총 영양 비율이 동일하지 않은 100 %",
+      "bmiComment": {
+         "UNDERWEIGHT": "아래에서 무게",
+         "NORMAL": "건강한 체중.",
+         "OVERWEIGHT": "초과 중량.",
+         "OBESE": "뚱뚱한."
+      },
+      "activityLevelMsg": {
+         "littleOrNoExercise": {
+            "title": "매우 낮은",
+            "subtitle": "어떤 일상 생활 리틀. 은행 창구, 책상 작업. 여가 시간에 TV를 시청하는 비디오 게임, 독서 재생"
+         },
+         "lightExercise": {
+            "title": "낮은",
+            "subtitle": "가벼운 일상 생활 1-3 시간 / 주"
+         },
+         "moderateExercise": {
+            "title": "보통의",
+            "subtitle": "가벼운 일상 생활 3-5 시간 / 주"
+         },
+         "veryActive": {
+            "title": "높은",
+            "subtitle": "하루 동안 신체 활동. 우체국 직원, waitstaff. 여가 시간에 활동적인"
+         },
+         "extraActive": {
+            "title": "매우 높음",
+            "subtitle": "물리적으로 일상적인 활동을 요구. 건설 공사, 자전거 메신저. 여가 시간에 강렬한 일상 활동"
+         }
+      },
+      "trackingActivity": {
+         "title": "주 활동",
+         "spentTime1DayAmout": "분 / 일",
+         "spentTime1Day": "분",
+         "spentTimes1WeekAmount": "일 / 주",
+         "spentTimes1Week": "일",
+         "validateMinsError": "정확하지 (분)",
+         "validateDaysError": "정확하지 일"
+      },
+      "drinkWater": {
+         "dailyGoal": "매일 목표 음료 물",
+         "lastDrink": "마지막 음료",
+         "weWillNoti": "해제 통지",
+         "enableNoti": "알림을 활성화",
+         "mlDay": "㎖ / 일",
+         "needToDrink": "물",
+         "title": "물을 마셔",
+         "notificationTitle": "음료 물",
+         "notificationSub": "음료 물 시간",
+         "requirePermissions": "이 기능을 사용하려면 알림 권한을 수락하세요."
+      },
+      "eating": {
+         "notificationTitle": "7:00에 아침 식사 준비",
+         "notificationSub": "에너지로 가득 찬 좋은 하루 되세요!"
+      },
+      "yourGoals": {
+         "title": "네 목표",
+         "recommendTitle": "권하다",
+         "question": "당신의 목표는 무엇인가?",
+         "loseWeightTitle": "살을 빼다",
+         "loseWeightSubTitle": "스마트 먹고 체중 관리",
+         "maintainWeightTitle": "체중을 유지",
+         "maintainWeightSubTitle": "웰빙 최적화",
+         "gainWeightTitle": "살 찌다",
+         "gainWeightSubTitle": "고 단백질 음식 빌드 강도",
+         "errMsgTitle": "당신의 목표 오류",
+         "gainWeightErrMsg": "현재 체중를 통해 목표 체중해야",
+         "loseWeightErrMsg": "목표 체중은 현재의 무게를 절감해야한다",
+         "suggestMeal": "추천 메뉴"
+      },
+      "weightStat": {
+         "popupTitle": "트랙 무게",
+         "popupBtnTitle": "최신 정보",
+         "popupBtnSkipeTitle": "건너 뛰기",
+         "history": "역사",
+         "dailyStaticTitle": "지난 30 일",
+         "weeklyStaticTitle": "최근 28 일",
+         "monhtlyStaticTitle": "지난 60 일",
+         "startingWeight": "시작 무게",
+         "currentWeight": "흐름",
+         "gapWeight": "갭"
+      },
+      "greetings": {
+         "morning": "좋은 아침",
+         "afternoon": "안녕하세요",
+         "evening": "안녕하세요"
+      }
+   },
+   "calo": {
+      "measurement": "칼로리",
+      "searchHint": "검색...",
+      "howtoBurn": "어떻게 구울하는 방법",
+      "addToDiary": "일기에 추가",
+      "updateToDiary": "일기에 업데이트",
+      "kcalRemaining": "나머지",
+      "caloEaten": "먹을",
+      "caloBurned": "불",
+      "dailyGoals": "매일 목표",
+      "time": "시각",
+      "simpleCalo": {
+         "title": "간단한 칼로리를 추가",
+         "defaultName": "간단한 칼로리",
+         "hintTitle": "타일",
+         "hintkcal": "킬로 칼로리 (필수)",
+         "hintCarbs": "탄수화물",
+         "hintFat": "지방",
+         "hintPro": "단백질"
+      }
+   },
+   "food": {
+      "cannotFoundFoodTitle": "찾을 수 없음",
+      "cannotFoundFoodSubTitle": "식품 버튼을 클릭하면 새로운 간단한 음식을 만드십시오!",
+      "simpleFood": {
+         "title": "간단한 음식을 추가",
+         "defaultName": "간단한 음식",
+         "hintTitle": "음식 이름",
+         "hintkcal": "킬로 칼로리 (필수)",
+         "hintCarbs": "탄수화물",
+         "hintFat": "지방",
+         "hintPro": "단백질"
+      },
+      "new": {
+         "title": "새로운 음식 만들기",
+         "basic": {
+            "title": "기본 정보",
+            "nameTitle": "음식의 이름",
+            "barcodeTitle": "바코드"
+         },
+         "servingSize": {
+            "title": "피복재",
+            "defaultServing": "기본 서빙",
+            "customServing": "사용자 정의 게재",
+            "name": "서빙의 이름"
+         },
+         "contentPerServing": {
+            "gram": "그램 (g)",
+            "ml": "밀리리터"
+         },
+         "nutrition": {
+            "title": "영양 정보",
+            "additionTitle": "추가 정보"
+         }
+      },
+      "barCode": {
+         "barCodeBtn": "스캔 바코드",
+         "popupCoonfirmTitle": "요청 된 바코드는 우리의 데이터베이스에없는",
+         "popupCoonfirmContent": "도움말 기존 항목에 스캔 한 바코드를 연결"
+      }
+   },
+   "favMeal": {
+      "title": "네 음식",
+      "buttonTracking": "새로운 음식을 만들기",
+      "canotFoundTitle": "찾을 수 없음",
+      "canotFoundSubTitle": "좋아하는 버튼을 클릭 (💙) 당신을 위해 새로운 음식을 만드십시오!",
+      "msgConfirm": "당신은 새로운 음식을 만들고 싶으 셨나요?",
+      "msgDeleteConfirm": "당신은 식사를 삭제하고자 했습니까?",
+      "new": {
+         "title": "식사 만들기",
+         "info": {
+            "title": "식사 정보",
+            "name": "식사의 이름",
+            "photo": "식사의 사진",
+            "hintRequired": "필요",
+            "hintOptional": "선택 과목",
+            "validateMsg": "값은 비워 둘 수 없습니다",
+            "validateInfo": "필요한 정보를 입력하세요"
+         },
+         "content": {
+            "title": "식사 내용",
+            "buttonTitle": "식사에 음식을 추가"
+         }
+      },
+      "tracking": {
+         "title": "상세 식사",
+         "infoHeader": "식사 정보"
+      },
+      "cell": {
+         "serving": "피복재"
+      },
+      "addButtonTitle": "새로운 식사 추가",
+      "addFoodButtonTitle": "식사에 음식을 추가"
+   },
+   "activityBurnCalo": {
+      "swimming": "수영",
+      "walking": "보행",
+      "running": "달리는",
+      "riding": "승마",
+      "time": "분"
+   },
+   "exercise": {
+      "title": "운동",
+      "deleteMsg": "삭제 운동",
+      "addMsg": "추가 운동",
+      "canotFoundTitle": "찾을 수 없음",
+      "canotFoundSubTitle": "아차! 우리는 검색을 찾을 수 없습니다. 당신은 운동을 할 우리와 함께 공유 할 수 있습니다"
+   },
+   "setting": {
+      "title": "설정",
+      "restorePurchase": "구매 복원",
+      "dataLocale": "당신을 위해 설정 데이터베이스",
+      "updateBMR": "업데이트 BMR",
+      "nutrition": "영양 설정",
+      "help": "도움",
+      "feedBack": "피드백",
+      "moreApp": "더 많은 애플 리케이션",
+      "inviteFriend": "친구를 초대하다",
+      "inviteFriendMsg": "청소를 먹기위한 최고의 애플 리케이션",
+      "rateTheApp": "응용 프로그램을 평가",
+      "term": "이용 약관",
+      "policy": "개인 정보 정책",
+      "signOut": "어"
+   },
+   "ratingPopup": {
+      "title": "당신은 우리의 응용 프로그램에 대해 어떻게 생각하십니까",
+      "message": "평점을 남겨주세요",
+      "child": "확인"
+   },
+   "showcase": {
+      "todayPage": {
+         "nextButton": {
+            "title": "다음날",
+            "subtitle": "다음 날에 가서 눌러"
+         },
+         "todayButton": {
+            "title": "오늘",
+            "subtitle": "재 장전 다시 오늘 탭"
+         },
+         "floatingButton": {
+            "title": "칼로리를 추적",
+            "subtitle": "탭은 칼로리를 추적 시작"
+         }
+      },
+      "mealPage": {
+         "addMeal": {
+            "title": "새로운 음식을 만들기",
+            "subtitle": "당신을 위해 새 사용자 지정 식사를 만들 수 누릅니다"
+         }
+      }
+   },
+   "measurement": {
+      "gram": "그램",
+      "calo": "칼로리",
+      "kg": "킬로그램",
+      "cm": "센티미터"
+   }
+}

@@ -1,0 +1,459 @@
+{
+   "title": "Makanan sehat",
+   "custom": {
+      "backToNow": "Về hiện tại",
+      "cancel": "Cancel",
+      "lifeCheckTitle": "Tính tuổi thọ",
+      "lifeCheckSub": "Bắt đầu tính tuổi của mình dựa trên thói quen và đặc điểm riêng của cá nhân theo các câu hỏi ở 6 hạng mục dưới đây, bao gồm: Thói quen sinh hoạt, trạng thái tâm lý tinh thần, tình trạng hôn nhân, tình hình công việc, điều kiện môi trường sống và yếu tố di truyền. Hãy tính thật chuẩn dựa trên việc trả lời câu hỏi một cách nghiêm túc."
+   },
+   "sub": {
+      "title": "Premium",
+      "des": "Upgrade to Premium User with",
+      "benefit1": "Remove all ads",
+      "benefit2": "Use all features in app",
+      "perMonth": "per month",
+      "upgrade": "Upgrade Now!",
+      "term": "Terms & Conditions",
+      "policy": "Privacy policy"
+   },
+   "user": {
+      "title": "pemakai",
+      "tabbarTitle": "Saya",
+      "statisticsWeekly": "pelacakan kalori",
+      "currentlyPlan": "rencana saat ini",
+      "recentRecipes": "resep baru-baru ini",
+      "savedReceipes": "resep disimpan",
+      "yourSavedRecipes": "resep yang disimpan",
+      "view": "Melihat",
+      "logoutTitle": "Keluar",
+      "logoutMsg": "Apakah Anda yakin Anda ingin logout?",
+      "ok": "baik",
+      "shoppingList": "Daftar belanja",
+      "viewShoppingList": "Lihat daftar belanja",
+      "weekday": {
+         "monday": "Senin",
+         "tuesday": "Selasa",
+         "wednesday": "Rabu",
+         "thursday": "Kamis",
+         "friday": "Jumat",
+         "saturday": "Sabtu",
+         "sunday": "Minggu"
+      },
+      "weekdayShorten": {
+         "monday": "mo",
+         "tuesday": "tu",
+         "wednesday": "kita",
+         "thursday": "th",
+         "friday": "fr",
+         "saturday": "sa",
+         "sunday": "su"
+      },
+      "time": {
+         "tomorrow": "Besok",
+         "nextTime": "Lain kali",
+         "yesterday": "Kemarin",
+         "dayAgo": "beberapa hari yang lalu",
+         "lastWeek": "Minggu lalu",
+         "weeksAgo": "minggu yang lalu",
+         "lastMonth": "Bulan lalu",
+         "monthsAgo": "bulan yang lalu",
+         "lastYear": "tahun lalu",
+         "yearsAgo": "bertahun-tahun lalu"
+      }
+   },
+   "statistics": {
+      "title": "kegiatan Grafik",
+      "caloriesChartTitle": "asupan kalori",
+      "nutritionAverage": "Nutrisi rata-rata di minggu ini",
+      "waterChartTitle": "asupan air",
+      "thisweek": "Minggu ini",
+      "prevweek": "7 hari sebelum",
+      "week": {
+         "title": "harian",
+         "nutritionAverage": "Nutrisi rata-rata di minggu ini",
+         "currentstate": "Minggu ini",
+         "prevstate": "7 hari sebelum"
+      },
+      "two_weeks": {
+         "title": "mingguan",
+         "nutritionAverage": "Nutrisi rata-rata dalam 2-minggu",
+         "currentstate": "14 hari terakhir",
+         "prevstate": "14 hari sebelum"
+      },
+      "month": {
+         "title": "bulanan",
+         "nutritionAverage": "Nutrisi rata-rata di bulan ini",
+         "currentstate": "30 hari terakhir",
+         "prevstate": "30 hari sebelum"
+      }
+   },
+   "plan": {
+      "title": "Rencana",
+      "tabbarTitle": "Rencana",
+      "yourPlan": "Rencanamu",
+      "viewPlan": "Lihat Rencana",
+      "detailPlan": "Detil rencana",
+      "startPlan": "rencana awal",
+      "msgSelectPlan": "Memperbarui rencana Anda",
+      "detail_plan": {
+         "onThisPlan": "Pada rencana ini",
+         "about": "Tentang",
+         "whatYouEat": "Apa yang Anda akan makan",
+         "benefits": "manfaat"
+      }
+   },
+   "tabbar": {
+      "home": "Rumah",
+      "yourMeal": "Makanan Anda",
+      "user": "Saya"
+   },
+   "recipes": {
+      "title": "resep",
+      "tabbarTitle": "resep",
+      "msgAddRecipe": "Ditambahkan ke resep baru-baru ini",
+      "clickMore": "lebih>",
+      "detailRecipe": "Detil resep",
+      "iHavedTryThis": "Saya sudah mencoba ini",
+      "ingredients": "Bahan",
+      "instruction": "instruksi",
+      "textNumberPeople": "Tidak tersedia",
+      "recipeName": {
+         "breakfast": "Sarapan",
+         "lunch": "Makan siang",
+         "dinner": "Makan malam",
+         "others": "Lainnya"
+      }
+   },
+   "login": {
+      "signinWithGoogle": "Masuk dengan Google",
+      "signinWithEmail": "Masuk dengan Email",
+      "signinWithFacebook": "Masuk melalui Facebook",
+      "signinWithApple": "Masuk dengan Apple",
+      "loginErrorMsg": "Login Kesalahan",
+      "loginSignupEmail": {
+         "title": "Login dengan email",
+         "email": "Surel",
+         "password": "Kata sandi",
+         "login": "Gabung",
+         "createAnAccount": "Buat sebuah akun",
+         "createAccount": "Buat Akun",
+         "haveAnAccount": "Punya akun? Masuk",
+         "verifyYourAccount": "verifikasi akun anda",
+         "msgLinkVerifySent": "Link untuk memverifikasi akun telah dikirimkan ke email Anda",
+         "dismiss": "Memberhentikan",
+         "passNotEmpty": "Sandi tidak boleh kosong",
+         "enterInvalidEmail": "Masukkan valid Email",
+         "enterInvalidEmailFormat": "format email salah"
+      },
+      "signInByEmailErrMesg": {
+         "ERROR_INVALID_EMAIL": "Alamat email Anda tampaknya mengalami kelainan bentuk.",
+         "ERROR_WRONG_PASSWORD": "password Anda salah.",
+         "ERROR_USER_NOT_FOUND": "Pengguna dengan email ini tidak ada.",
+         "ERROR_USER_DISABLED": "Pengguna dengan email ini telah dinonaktifkan.",
+         "ERROR_TOO_MANY_REQUESTS": "Terlalu banyak permintaan. Coba lagi nanti.",
+         "ERROR_OPERATION_NOT_ALLOWED": "Masuk dengan Email dan Password tidak diaktifkan.",
+         "UNKNOWN": "Sebuah Kesalahan terdefinisi terjadi."
+      },
+      "signUpByEmailErrMesg": {
+         "ERROR_INVALID_EMAIL": "Email Anda tidak valid",
+         "ERROR_OPERATION_NOT_ALLOWED": "account anonim tidak diaktifkan",
+         "UNKNOWN": "Sebuah Kesalahan terdefinisi terjadi.",
+         "ERROR_WEAK_PASSWORD": "password Anda terlalu lemah",
+         "ERROR_EMAIL_ALREADY_IN_USE": "Email sudah digunakan pada account yang berbeda",
+         "ERROR_INVALID_CREDENTIAL": "Email Anda tidak valid"
+      }
+   },
+   "nutritions": {
+      "title": "makanan",
+      "subTitle": "(Per porsi)",
+      "kcal": "kkal",
+      "carbs": "karbohidrat",
+      "protein": "protein",
+      "fat": "Lemak",
+      "fiber": "Serat",
+      "sugar": "Gula"
+   },
+   "shoppingList": {
+      "title": "Daftar belanja",
+      "delete": "Menghapus",
+      "done": "selesai",
+      "removeItem": "Hapus resep ini",
+      "doneMsg": "Selesai",
+      "linkToRecipe": "Pergi ke resep>",
+      "addAllToShoppingList": "+ Daftar belanja"
+   },
+   "BMR": {
+      "title": "BMR",
+      "titleUpdateBRM": "Perbarui BMR",
+      "buttonChangeGoals": "Ubah tujuan Anda",
+      "BMI": "BMI",
+      "male": "Pria",
+      "female": "Perempuan",
+      "height": "Tinggi",
+      "weight": "Bobot",
+      "age": "Usia",
+      "gender": "Jenis kelamin",
+      "activityLevel": "Tingkat aktifitas",
+      "calories": "kalori",
+      "tdee": "Pengeluaran Jumlah Energi Harian (TDEE)",
+      "today": "Hari ini",
+      "kCalDay": "Kkal / hari",
+      "kCalLeft": "kiri kkal",
+      "caculateBMR": "Hitung BMR",
+      "yourResult": "hasil Anda",
+      "reCaculate": "Re menghitung",
+      "gotIt": "Oke",
+      "continue": "Terus",
+      "personal": "Pribadi",
+      "howToContinue": "Tap tombol (+) di sebelah kanan dan di lanjutkan pencarian",
+      "howToContinueMeal": "Tap tombol (+) di sebelah kanan dan di lanjutkan pencarian",
+      "tipOfTheDay": "Tips OF THE DAY",
+      "dateUpdateWeight": "Dalam Tubuh Cerdas Skala",
+      "save": "Menyimpan",
+      "nutritionSettings": "pengaturan gizi",
+      "nutritionSettingsTitle": "Rasio tidak benar",
+      "nutritionSettingsError": "Jumlah persentase gizi tidak sama 100%",
+      "bmiComment": {
+         "UNDERWEIGHT": "Di bawah Berat",
+         "NORMAL": "berat badan yang sehat.",
+         "OVERWEIGHT": "Kegemukan.",
+         "OBESE": "Gendut."
+      },
+      "activityLevelMsg": {
+         "littleOrNoExercise": {
+            "title": "Sangat rendah",
+            "subtitle": "Sedikit atau tidak ada aktivitas sehari-hari. Bank teller, meja kerja. Membaca, bermain video game menonton tv di waktu luang"
+         },
+         "lightExercise": {
+            "title": "Rendah",
+            "subtitle": "kegiatan sehari-hari cahaya 1-3 kali / minggu"
+         },
+         "moderateExercise": {
+            "title": "Moderat",
+            "subtitle": "kegiatan sehari-hari cahaya 3-5 kali / minggu"
+         },
+         "veryActive": {
+            "title": "Tinggi",
+            "subtitle": "Aktivitas fisik sepanjang hari. pekerja pos, pelayan. Menjadi aktif di waktu luang"
+         },
+         "extraActive": {
+            "title": "Sangat tinggi",
+            "subtitle": "Secara fisik menuntut aktivitas sehari-hari. pekerjaan konstruksi, sepeda messenger. kegiatan sehari-hari yang intens di waktu luang"
+         }
+      },
+      "trackingActivity": {
+         "title": "aktivitas Anda di minggu",
+         "spentTime1DayAmout": "menit / hari",
+         "spentTime1Day": "menit",
+         "spentTimes1WeekAmount": "hari / minggu",
+         "spentTimes1Week": "hari-hari",
+         "validateMinsError": "Menit tidak benar",
+         "validateDaysError": "Hari tidak benar"
+      },
+      "drinkWater": {
+         "dailyGoal": "air minum tujuan harian",
+         "lastDrink": "minum terakhir",
+         "weWillNoti": "pemberitahuan Nonaktifkan",
+         "enableNoti": "aktifkan notifikasi",
+         "mlDay": "ml / hari",
+         "needToDrink": "air",
+         "title": "Minum air",
+         "notificationTitle": "Minum air",
+         "notificationSub": "Waktu untuk air minum",
+         "requirePermissions": "Please accept notification permission to use this feature."
+      },
+      "eating": {
+         "notificationTitle": "Prepare for breakfast at 7:00",
+         "notificationSub": "Have a great day full of energy!"
+      },
+      "yourGoals": {
+         "title": "Tujuan Anda",
+         "recommendTitle": "sarankan",
+         "question": "Apa tujuanmu?",
+         "loseWeightTitle": "Menurunkan berat badan",
+         "loseWeightSubTitle": "Mengelola berat badan Anda dengan makan lebih pintar",
+         "maintainWeightTitle": "Menjaga berat badan",
+         "maintainWeightSubTitle": "Optimalkan kesejahteraan Anda",
+         "gainWeightTitle": "Bertambah berat",
+         "gainWeightSubTitle": "kekuatan membangun dengan makanan tinggi protein",
+         "errMsgTitle": "Kesalahan tujuan Anda",
+         "gainWeightErrMsg": "Must Tujuan berat badan lebih berat badan Anda saat",
+         "loseWeightErrMsg": "Berat Tujuan harus menurunkan berat badan Anda saat",
+         "suggestMeal": "Recommended menu"
+      },
+      "weightStat": {
+         "popupTitle": "track berat badan",
+         "popupBtnTitle": "Memperbarui",
+         "popupBtnSkipeTitle": "Melewatkan",
+         "history": "Sejarah",
+         "dailyStaticTitle": "30 hari terakhir",
+         "weeklyStaticTitle": "28 Hari Terakhir",
+         "monhtlyStaticTitle": "60 Hari Terakhir",
+         "startingWeight": "mulai berat badan",
+         "currentWeight": "Arus",
+         "gapWeight": "Celah"
+      },
+      "greetings": {
+         "morning": "Selamat pagi",
+         "afternoon": "Selamat sore",
+         "evening": "Selamat malam"
+      }
+   },
+   "calo": {
+      "measurement": "kalori",
+      "searchHint": "Cari...",
+      "howtoBurn": "Bagaimana untuk membakar",
+      "addToDiary": "Tambah ke diary",
+      "updateToDiary": "Update untuk diary",
+      "kcalRemaining": "yang tersisa",
+      "caloEaten": "DIMAKAN",
+      "caloBurned": "DIBAKAR",
+      "dailyGoals": "Gol harian",
+      "time": "Waktu",
+      "simpleCalo": {
+         "title": "Menambahkan kalori sederhana",
+         "defaultName": "kalori sederhana",
+         "hintTitle": "Ubin",
+         "hintkcal": "kkal (wajib)",
+         "hintCarbs": "karbohidrat",
+         "hintFat": "lemak",
+         "hintPro": "protein"
+      }
+   },
+   "food": {
+      "cannotFoundFoodTitle": "TIDAK DITEMUKAN",
+      "cannotFoundFoodSubTitle": "Silakan klik pada tombol makanan dan membuat makanan sederhana baru untuk Anda!",
+      "simpleFood": {
+         "title": "Tambahkan makanan sederhana",
+         "defaultName": "makanan sederhana",
+         "hintTitle": "nama makanan",
+         "hintkcal": "kkal (wajib)",
+         "hintCarbs": "karbohidrat",
+         "hintFat": "lemak",
+         "hintPro": "protein"
+      },
+      "new": {
+         "title": "Buat makanan baru",
+         "basic": {
+            "title": "Informasi dasar",
+            "nameTitle": "Nama makanan",
+            "barcodeTitle": "barcode"
+         },
+         "servingSize": {
+            "title": "Porsi",
+            "defaultServing": "porsi standar",
+            "customServing": "porsi kustom",
+            "name": "Nama porsi"
+         },
+         "contentPerServing": {
+            "gram": "gram (g)",
+            "ml": "mililiter (ml)"
+         },
+         "nutrition": {
+            "title": "informasi gizi",
+            "additionTitle": "Data tambahan"
+         }
+      },
+      "barCode": {
+         "barCodeBtn": "barcode Pindai",
+         "popupCoonfirmTitle": "barcode yang diminta tidak ada dalam database kami",
+         "popupCoonfirmContent": "Bantuan menghubungkan barcode dipindai untuk item yang sudah ada"
+      }
+   },
+   "favMeal": {
+      "title": "Makanan Anda",
+      "buttonTracking": "Buat makan baru",
+      "canotFoundTitle": "TIDAK DITEMUKAN",
+      "canotFoundSubTitle": "Silakan klik pada tombol favorit (💙) dan membuat makanan baru untuk Anda!",
+      "msgConfirm": "Apakah Anda ingin membuat makanan baru?",
+      "msgDeleteConfirm": "Apakah Anda ingin menghapus makan?",
+      "new": {
+         "title": "Buat Meal",
+         "info": {
+            "title": "informasi makan",
+            "name": "Nama makan",
+            "photo": "Foto makan",
+            "hintRequired": "yg dibutuhkan",
+            "hintOptional": "pilihan",
+            "validateMsg": "Nilai tidak dapat mengosongkan",
+            "validateInfo": "Silahkan isi informasi yang diperlukan"
+         },
+         "content": {
+            "title": "Konten makan",
+            "buttonTitle": "Menambahkan makanan untuk Meal"
+         }
+      },
+      "tracking": {
+         "title": "Detil makan",
+         "infoHeader": "informasi makan"
+      },
+      "cell": {
+         "serving": "Porsi"
+      },
+      "addButtonTitle": "Menambahkan makanan baru",
+      "addFoodButtonTitle": "Menambahkan makanan untuk makan"
+   },
+   "activityBurnCalo": {
+      "swimming": "Renang",
+      "walking": "Berjalan",
+      "running": "menjalankan",
+      "riding": "Kuda",
+      "time": "menit"
+   },
+   "exercise": {
+      "title": "Olahraga",
+      "deleteMsg": "latihan Delete",
+      "addMsg": "add latihan",
+      "canotFoundTitle": "TIDAK DITEMUKAN",
+      "canotFoundSubTitle": "Ups! Kami tidak dapat menemukan pencarian Anda. Anda dapat berbagi dengan kami Anda berolahraga"
+   },
+   "setting": {
+      "title": "pengaturan",
+      "dataLocale": "Database setup untuk Anda",
+      "restorePurchase": "Restore purchase",
+      "updateBMR": "Perbarui BMR",
+      "nutrition": "pengaturan gizi",
+      "help": "Tolong",
+      "feedBack": "Masukan",
+      "moreApp": "Aplikasi tambahan lainnya",
+      "inviteFriend": "Mengundang teman",
+      "inviteFriendMsg": "aplikasi terbaik untuk makan Bersih",
+      "rateTheApp": "Menilai aplikasi",
+      "term": "Terms & Conditions",
+      "policy": "Privacy policy",
+      "signOut": "Keluar"
+   },
+   "ratingPopup": {
+      "title": "Apa pendapat Anda tentang App kami",
+      "message": "Silakan tinggalkan rating",
+      "child": "baik"
+   },
+   "showcase": {
+      "todayPage": {
+         "nextButton": {
+            "title": "Hari berikutnya",
+            "subtitle": "Tekan untuk pergi ke hari berikutnya"
+         },
+         "todayButton": {
+            "title": "Hari ini",
+            "subtitle": "Tekan untuk isi ulang kembali hari ini"
+         },
+         "floatingButton": {
+            "title": "pelacakan kalori",
+            "subtitle": "Tekan untuk mulai melacak kalori"
+         }
+      },
+      "mealPage": {
+         "addMeal": {
+            "title": "Buat makan baru",
+            "subtitle": "Ketuk untuk membuat makanan kustom baru untuk Anda"
+         }
+      }
+   },
+   "measurement": {
+      "gram": "gram",
+      "calo": "kalori",
+      "kg": "kg",
+      "cm": "cm"
+   }
+}

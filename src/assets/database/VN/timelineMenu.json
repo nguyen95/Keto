@@ -1,0 +1,1833 @@
+[
+  {
+    "key": 0,
+    "samples": [
+      {
+        "id": 0,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 bát hoa quả tươi trộn sữa chua không đường tách kem"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "1 quả cam hoặc các loại trái cây khác ít đường"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "½ tô cơm gạo lứt+100gr rau luộc+150gr ức gà áp chảo"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 quả chuối"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "150gr cá hoặc tôm hấp+100gr rau luộc"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 củ khoai luộc+rau cải luộc+thịt gà luộc"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "1 quả chuối"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "½ tô cơm gạo lứt+100gr bắp cải luộc+150gr thịt bò áp chảo"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 quả cam/quýt hoặc ½ quả bưởi cỡ vừa"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "1 tô salad rau+100gr cá nướng"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 hộp sữa chua tách kem+không đường trộn với yến mạch quaker oats+1 bát trái cây tươi"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "1 quả táo hoặc lê"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "1 củ khoai tây+½ bắp ngô+100gr thịt gà luộc xé phay+100gr su hào và cà rốt luộc"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "Dâu tây hoặc trái cây mọng như việt quất, mâm xôi,..."
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "150gr cá hấp+100gr rau cải luộc"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 củ khoai luộc+1 quả trứng gà luộc+1 bát rau bắp cải luộc"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "½ tô các loại hạt (hạt hạnh nhân, hạt óc chó…)"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "½ tô cơm gạo lứt+100gr gà xào nấm hương và hành tây"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "½ tô các loại hạt"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "150gr cá nướng+1 tô salad rau củ"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "100gr ức gà luộc+1 cốc sữa tươi tách kem không đường"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "1 quả táo hoặc 1 bát dưa hấu"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "1 tô cơm gạo lứt+100gr thịt lợn thăn luộc+1 bát rau cải bó xôi luộc"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 quả quýt hoặc ½ quả bưởi vừa"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "1 tô salad rau củ trộn ức gà xé nhỏ"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "2 quả trứng gà luộc+1 tô salad trộn tùy thích"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "1 quả dưa chuột"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "1 củ khoai luộc+½  bắp ngô luộc (loại nhỏ)+100gr thịt bò luộc+1 bát nhỏ rau luộc"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 bát trái cây mọng như việt quất, mâm xôi, nam việt quất"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "150gr cá hồi áp chảo+100gr su hào và cà rốt hấp"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 lát bánh mì nguyên cám+1 quả trứng gà ta ốp la+1 bát salad rau tùy thích"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "1 quả quýt hoặc cam"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "100gr  thịt lợn luộc+1 tô salad dưa chuột và cà chua"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 tô salad trái cây"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "150gr thịt bò áp chảo+100gr rau luộc"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Trứng chưng cà chua+Thịt xông khói"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Salad rau củ trộn với thịt gà (bỏ da) xé phay và dầu oliu+1 miếng phô mai từ sữa dê"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Cá hồi măng tây áp chảo sốt cam"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Trứng chưng cà chua+Pho mai từ sữa dê"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Cá hồi nướng+1 tô bông cải xanh luộc"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Thịt viên chiên+1 bát rau xanh luộc+1 miếng phô mai"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 cốc sữa bò tươi hoặc sữa hạt"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "1 tô salad trộn giữa quả bơ, tôm và dầu oliu"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Thăn heo chiên bơ+1 bát salad rau củ+1 miếng phô mai"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 quả trứng gà luộc+2 miếng pho mai từ sữa dê"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Thăn gà chiên bơ+1 bát salad rau+1 cốc sữa hạnh nhân"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Thăn heo bọc phô mai chiên bơ+1 bát rau củ luộc"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 hũ sữa chua không đường trộn với bột cacao và bơ đậu phộng"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "1 đĩa thịt bò xào rau cải sử dụng dầu dừa hoặc dầu oliu"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "150gr Phile cá hồi với măng tây áp chảo"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "100gr cá hồi áp chảo,1 - 2 miếng phô mai dê"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "1 tô salad tôm trộn quả bơ và dầu oliu"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 quả trứng gà ốp la+1 cốc sữa hạt hạnh nhân hoặc hạt óc chó"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 quả trứng ốp la+Thịt xông khói,Nấm"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "1 tô thịt thăn bò hầm với bí đỏ và hạt sen"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Cá sốt cà chua+1 tô rau cải bó xôi luộc"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "3 quả trứng gà ốp la+1 ly trà nhài"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "1 quả dưa leo"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "1 đĩa ức gà chiên (không cho gia vị)+1 bát canh rau cải với thịt băm"
+              },
+              {
+                "timeline": "Bữa phụ",
+                "description": "1 quả dưa leo"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "1 tô thịt bò luộc+1 tô salad rau trộn+1 lát phomai+1 lon diet coke"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "2 lát sườn nướng (không gia vị)+1 quả trứng gà ốp la+1 lon diet coke"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "1 tô tôm kho với thịt (cho ít gia vị)+1 bát bát canh rau mồng tơi với cua"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "1 cốc rau củ ép (cà rốt,rau má hoặc dưa chuột…)"
+              },
+              {
+                "timeline": "Bữa phụ",
+                "description": "3 miếng cá chiên+1 tô canh bí xanh với tôm"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 miếng phomai hoặc bơ lạt"
+              }
+            ]
+         },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "2 miếng chả trứng hấp+1 miếng sườn heo luộc"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "2 miếng đùi gà luộc+1 bát canh su hào với cà rốt nấu thịt"
+              },
+              {
+                "timeline": "Bữa phụ",
+                "description": "1 lon diet coke"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "1 bát măng tươi xào thịt bò+1 đĩa giá đỗ xào+1 bát canh rong biển"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 quả trứng gà ốp la+1 phần ức gà+1 ly cà chua ép"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "1 tô mực xào dứa+1 đĩa rau mướp xào+1 tô canh cải xanh"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "1 tô thịt gà xào nấm+1 tô canh bắp cải cà chua với thịt băm"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 quả dưa chuột"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 tô salad rau trộn nấm linh chi, cà chua+1 tách trà atiso"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "2 quả trứng gà luộc+1 đĩa măng xào thịt bò+1 tô canh rong biển"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 miếng cá kho tộ+1 đĩa cà tím xào với gan+1 tô canh bí xanh với tôm"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 lon diet coke"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "2 miếng sườn bò nướng+1 quả dưa chuột+1 ly trà xanh"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "2 miếng đùi gà+1 quả trứng gà ốp la+1 bát canh bí đỏ"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "1 đĩa cá hấp+1 đĩa rau muống xào thịt bò+bát canh su hào và cà rốt với thịt băm"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 đĩa thịt lợn xay xào với giá"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 tô cháo lươn hoặc cháo cá+1 ly nước chanh mật ong"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "1 đĩa cơm tấm sườn bì và chả+1 tô canh cải xanh nấu thịt băm"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "1 tô bún riêu cua+1 bát súp rau củ+1 ly nước cam không đường"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 phần ức gà áp chảo sốt chanh leo"
+              }
+            ]
+          }
+        ]
+      }
+    ] 
+  },
+  {
+    "key": 2,
+    "samples": [
+      {
+        "id": 0,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "½ ổ bánh mì+1 tô bún bò+1 ly sữa đậu nành+1 trái chuối"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Trái cây"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "3 bát cơm+1 bát canh mướp đắng+100g thịt bò xào hành tây+1 con cá trê kho+1 ly sữa"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "Sữa chua"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "3 bát cơm+100g thịt kho trứng+1 bát canh chua+trái cây tùy chọn"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 ly sữa tươi"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 tô cháo bò+1 ly sữa+1 trái chuối"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Trái cây"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "3 bát cơm+1 bát xương hầm bí đỏ+100g thịt bò xào tiêu+trái cây tùy chọn"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "Sữa chua"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Bánh mì chấm cà ri gà+1 bát canh rau ngót+1 ly sữa+1 lát cá chiên+trái cây tùy chọn"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "Khoai lang"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 tô phở+1 ly sữa+1 trái chuối"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Sữa chua"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "3 bát cơm+1 bát canh rau+2 quả trứng luộc+2 lát cá kho+100g thịt bò xào thơm+trái cây tùy chọn"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 ly sữa tươi"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "3 bát cơm+1 bát canh chua+2 lát cá thu chiên+1 dĩa rau muống xào tỏi+100g thịt heo luộc+trái cây tùy chọn"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "Trái cây"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 dĩa cơm tấm sườn bì+1 ly sữa+2 trái chuối"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Sữa chua"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "3 bát cơm+1 tô canh bí hầm xương+1 dĩa mực xào+1 dĩa cá kho+trái cây tùy chọn"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 ly sữa tươi"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "3 bát cơm+1 dĩa trứng chiên+1 dĩa thịt gà quay+1 lát cá chiên+1 tô canh mướp đắng"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "Trái cây"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 ổ bánh mì kẹp trứng+1 ly sữa+1 trái chuối"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Sữa chua"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "3 bát cơm+1 bát canh khổ qua+1 lát cá chiên+trái cây tùy chọn"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "Trái cây"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "1 tô bún bò, rau sống+1 ly sinh tố trái cây+1 ly sữa"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "Khoai lang"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 đĩa bánh ướt thịt heo luộc+1 ly sữa+2 trái chuối"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Sữa chua"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "3 bát cơm+1 bát canh xương hầm đu đủ+100g thịt bò xào tiêu+1 lát cá thu chiên+trái cây tùy chọn"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 bát trái cây mọng như việt quất, mâm xôi, nam việt quất"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "3 bát cơm+1 bát canh bí đỏ hầm xương+1 lát cá ngừ kho+trái cây tùy chọn"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "Trái cây"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 tô hủ tiếu bò+1 ly sữa+1 trái chuối"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Sữa chua"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "3 bát cơm+1 dĩa tôm rang+1 bát canh rau muống nấu tôm+trái cây tùy chọn"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "Khoai lang"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "3 bát cơm+1 bát canh chua cá lóc+1 lát cá ngừ chiên+100g thịt heo xào hành tây+trái cây tùy chọn"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 ly sữa tươi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 tô phở bò+1 quả trứng+1 ly sữa (cách 20 phút thêm 1 trái chuối)"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "1 gói ngũ cốc dinh dưỡng"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "2 bát cơm+canh bí đỏ nấu thịt+100g thịt bò xào+1 trái chuối"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 đĩa trái cây"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 bát cơm+khổ qua nhồi thịt+100g thịt heo ba chỉ+nước ép hoa quả"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 tô miến gà+1 trái chuối"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Bánh cuốn thịt+1 quả chuối+1ly sữa"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "1 cốc sinh tố,bánh ngọt"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "2 bát cơm+cá sốt cà+canh mồng tơi nấu cua+1 trái chuối"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 bát súp gà"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 bát cơm+đậu hủ nhồi thịt+canh rau thịt+1 trái chuối"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "Bún thịt bằm nấu cà chua"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 tô bún cá+1 ly sữa+2 trái chuối"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "1 gói ngũ cốc dinh dưỡng"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "2 bát cơm+cá biển kho hoặc chiên+1 bát canh hầm xương+100g thịt bò+1 trái chuối"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 bánh mì ngọt,1 hộp sữa"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 bát cơm+Cá lóc kho tộ+100g thịt bò+canh rau nấu tôm+1 trái chuối"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 tô miến"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 tô bún bò giò+1 quả trứng+1 ly sữa tươi"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "1 bát cháo+1 trái chuối"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "2 bát cơm+canh chua cá+thị bằm sốt cà chua+1 trái chuối"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 ly nước cam"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 bát cơm+100g thịt bò+canh gà+1 đĩa rau nhỏ+1 trái chuối"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 bát súp gà hoặc tôm"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 đĩa cơm sườn+1 trái chuối+1 ly sữa"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "1 gói ngũ cốc dinh dưỡng"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "2 bát cơm+200g thịt tôm kho+canh cá nấu cà chua+1 trái chuối"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 bánh mì ngọt+1 ly sữa"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 bát cơm+200g thịt bò xào+canh rau mùng tơi nấu thịt+100g nho mỹ"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 bánh mì ngọt+1 trái chuối"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Bánh mì kẹp trứng,1 trái chuối,1 ly sữa"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "2 quả chuối"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "2 bát cơm+200g thịt heo+1 quả trứng+1 bát canh rau ngót nấu noãn tôm"
+              },
+              {
+                "timeline": "Bữa phụ",
+                "description": "1 ly sữa"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 bát cơm+đuôi bò hầm tiêu+1 bát canh rau thịt+trái cây"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "Mì tôm trứng thịt bò"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 tô bún riêu cua giò heo+1 trái chuối"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "1 trái chuối+1 ly sữa"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "2 bát cơm+100g thịt bò xào+canh cá nấu chua+100g nho mỹ"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "2 lát bánh mì+1 ly sữa"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 bát cơm+chân giò heo nấu chua+1 tô canh rau thịt+1 trái chuối"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 đĩa trái cây+sữa chua"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 bát phở bò+1 ly nước cam+1 quả chuối"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "3 bát cơm+canh măng nấu xương+nấm xào thịt bò+đậu phụ chiên giòn"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 bánh ngọt+1 hộp sữa chua+trái cây"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 bát cơm+canh cá nấu chua+thịt kho tiêu+trái cây tráng miệng"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 ly sữa nóng hoặc ngũ cốc nóng"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 đĩa cơm tấm sườn+1 quả chuối+1 sữa đậu nành"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "2 bát cơm+canh xương+cá rán+rau luộc+1 quả chuối"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 cốc sữa chua đá+trái cây"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 bát cơm+bồ câu hầm hạt sen+canh rau ngót nấu thịt+trái cây tráng miệng"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 ly sữa nguyên kem"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [              
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 bát phở bò+1 cốc sữa+1 trái chuối"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "3 bát cơm+thịt kho tàu+canh đu đủ hầm giò heo+1 quả táo"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "Khoai lang+sữa chua+trái cây"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "1 bát cơm+cà ri gà+canh khoai tây nấu xương+rau luộc"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 cốc sữa nguyên kem"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Bánh mỳ trứng ốp la+1 cốc sữa tươi+1 quả chuối"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "3 bát cơm,mực xào+cá rán+súp lơ luộc+dưa leo"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 ly sinh tố đu đủ"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 bát cơm+thịt gà kho+cá hấp+canh khổ qua+salat rau củ"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 cốc sữa nóng+1 hộp sữa chua"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "bánh cuốn nóng+1 cốc sữa tươi+2 quả chuối"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "3 bát cơm,bắp cải luộc,cá hấp,chuối"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 ly chè hạt sen"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 bát cơm+canh bầu nấu tôm+bò nướng tảng+su su luộc"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 ly sữa ngũ cốc"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 bánh canh ghẹ+trái cây+1 cốc sữa tươi"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "3 bát cơm+tôm rang+đỗ luộc+cá sốt chua ngọt+trái cây"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 cốc bơ dầm+bánh flan"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 bát cơm+thịt heo rang cháy cạnh+bắp cải luộc+trái cây"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 ly kem+1 cốc sữa"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 bát bún thịt nướng+1 cốc sữa tươi+2 miếng dưa hấu"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "3 bát cơm+thịt bò kho+cá rán+rau muống luộc+trái cây tráng miệng"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "1 ly sữa tươi+trái cây"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "2 bát cơm+đậu nhồi thịt+canh bí đỏ nấu xương"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Bữa phụ",
+                "description": "1 ly sữa béo"
+              }
+            ]
+          }
+        ]
+      }
+    ] 
+  },
+  {
+    "key": 1,
+    "samples": [
+      {
+        "id": 0,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "2 quả trứng luộc+2 lát bánh mì nướng nguyên hạt+1 cốc sữa hạnh nhân+một ít bưởi"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "1 cốc sữa chua+1 quả chuối"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Ức gà nướng ăn kèm salad với dầu olive"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "1 bát cơm gạo lứt+cá ngừ sốt cà chua+bông cải hấp+salad rau"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Yến mạch,sữa hạnh nhân+trái cây khô+nước ép cam"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Bánh quy"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Bánh mì+bò hầm"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "Ngô luộc"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Súp gà ngô nấm"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Phở gạo lứt nấu bò+thanh long ruột đỏ"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Bánh quy"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Cơm gạo lứt+cá tuyết hấp nước tương (xì dầu)"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Cá ngừ sốt cà ăn kèm súp lơ hấp"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Trứng ốp la ăn kèm bánh mì nguyên hạt+1 quả chuối"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Các loại trái cây sấy"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Mì Ý ăn kèm sốt cà chua+salad trộn dầu olive"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "Khoai lang luộc"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Cơm gạo lứt+bạch tuộc nướng chấm sa tế+rau luộc"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Bánh mì nướng ăn kèm thịt xông khói+trứng ốp la+trái cây tươi tùy chọn"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Bánh quy"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Miến gà+trái cây ăn kèm tùy chọn"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Cháo nghêu+trái cây tươi"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Yến mạch+sữa hạnh nhân+trái cây sấy khô"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Hạt điều"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Ức gà áp chảo+salad cà chua"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "Sữa chua"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Cơm gạo lứt+bát đậu đen hấp+thịt nạc xào măng tây"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Bánh mì nguyên hạt+trứng luộc+sữa hạnh nhân"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Trái cây sấy khô"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Nui nấu xương+trái cây tùy chọn"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Cơm gạo lứt ăn kèm thịt gà kho+trái cây tùy chọn"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "2 quả trứng luộc+2 lát bánh mì nướng ăn với mứt hoa quả+sữa đậu nành+bưởi da xanh tráng miệng"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Ức gà nướng ăn kèm salad với dầu olive+một bát cơm trắng để chống đói+chuối chín"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "1 bát cơm gạo lứt+cá ngừ sốt cà chua+su su luộc+hoa quả tráng miệng"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 bát bột yến mạch+1 quả trứng gà luộc+sữa chua hạnh nhân+chuối tây"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Bánh mì ăn kèm bò sốt vang+salad rau trộn+củ quả luộc+nước ép hoa quả"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Súp gà ngô nấm+1 bắp ngô luộc+hoa súp lơ hấp"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Phở bò+1 quả chuối tây"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Cơm gạo lứt+su hào luộc+cá tuyết hấp nước tương+hoa quả tráng miệng"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Cá ngừ sốt cà+1 lát bánh mì nướng+salad rau trộn+hoa quả tráng miệng"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Trứng ốp la ăn kèm bánh mì nguyên hạt+sữa ngô ít đường+1 quả chuối"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Mì Ý ăn kèm sốt cà chua+1 bát cơm gạo lứt đỏ+salad trộn dầu olive"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Cơm gạo lứt+rau luộc+bạch tuộc hấp xì dầu+thanh long tráng miệng"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Bánh mì nướng ăn kèm thịt xông khói+1 quả trứng luộc+trái cây tươi tùy chọn"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Miến gà+rau luộc+ức gà áp chảo+hoa quả tráng miệng+nước ép cà chua"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Cháo nghêu+khoai tây chiên+dưa lưới tráng miệng"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Yến mạch+trái cây khô+sữa đậu nành hạt sen"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Ức gà áp chảo+bánh mì nướng ăn kèm bơ đậu phộng+súp lơ luộc"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Cơm gạo lứt+thịt nạc xào măng tây+sữa chua tráng miệng"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Bánh mì nguyên hạt+sữa hạnh nhân+hoa quả tươi"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Nui nấu xương+2 lát bánh mì ăn kèm bơ đậu phộng+rau luộc+hoa quả tươi"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Cơm gạo lứt ăn kèm thịt bò kho+trái cây tươi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 cốc yến mạch+1 cốc sữa tươi+1 quả chuối"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Hạt điều+Trái cây sấy"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "2 bát cơm+cá ngừ sốt cà chua+xà lách trộn bò+trái cây tự chọn"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "Việt quất"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Cơm gạo lứt+cá hồi áp chảo+5 ngọn măng tây hấp trộn dầu oliu"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 cốc sinh tố sữa chua"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Trái cây sấy khô+Sữa hạnh nhân"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Cơm trắng+1 phần ức gà chiên+cải bó xôi luộc rưới thêm dầu mè+tráng miệng bằng táo đỏ hữu cơ"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "Bánh gạo"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Bít tết bò+1 củ khoai tây nướng+bông cải xanh"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "Yến mạch+sữa hạnh nhân+1 quả chuối+1 ít trái cây sấy khô tùy chọn"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Bánh quy hạt chia"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Mì Spaghetti+bò sốt cà chua+ít quả olive ngâm muối"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "Socola đen hữu cơ"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "1 phần ức gà+½ cốc (84g) quinoa+⅓ cốc (85g) đậu Hà Lan"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "3 quả trứng ốp la ăn kèm ớt chuông đỏ+hành tây áp chảo+480ml sữa hạnh nhân"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Bánh mì que hạt bí ngô ăn kèm bơ đậu phộng hoặc sữa"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "226g cá ngừ phile+¼ bát đậu lăng+salad trộn với hạt điều"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "2 quả trứng luộc"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "gà hầm rượu vang ăn kèm bánh mì"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "3 quả trứng+1 quả táo+1 cốc (80g) bột yến mạch ăn kèm 1 cốc sữa hạnh nhân"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Sinh tố bơ"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Ức gà (168g) áp chảo+1 củ khoai lang hấp+các loại hạt+chè đậu xanh tráng miệng"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "Sữa đậu nành đen"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Bít tết bò+½ bát đậu đen+1 bát cơm+1 bát rau bó xôi xào cùng dầu mè"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "1 cốc sinh tố sữa chua"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Trái cây sấy khô+Sữa hạnh nhân"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "Cơm trắng+1 phần ức gà chiên+cải bó xôi luộc rưới thêm dầu mè+tráng miệng bằng táo đỏ hữu cơ"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "Bánh gạo"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Bít tết bò+1 củ khoai tây nướng+bông cải xanh"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Bữa sáng",
+                "description": "3 quả trứng ốp la ăn kèm ớt chuông đỏ+hành tây áp chảo+480ml sữa hạnh nhân"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Bữa phụ",
+                "description": "Bánh mì que hạt bí ngô ăn kèm bơ đậu phộng hoặc sữa"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Bữa trưa",
+                "description": "226g cá ngừ phile+¼ bát đậu lăng+salad trộn với hạt điều"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Bữa phụ",
+                "description": "2 quả trứng luộc"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Bữa tối",
+                "description": "Gà hầm rượu vang ăn kèm bánh mì"
+              }
+            ]
+          }
+        ]
+      }
+    ] 
+  }
+]

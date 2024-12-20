@@ -1,0 +1,122 @@
+[{
+		"calo": 110,
+		"key": "2",
+		"mins": 15,
+		"name": "Aerobic"
+	},{
+		"calo": 148,
+		"key": "3",
+		"mins": 15,
+		"name": "Aqua-Fitness"
+	},{
+		"calo": 110,
+		"key": "4",
+		"mins": 15,
+		"name": "Badminton"
+	},{
+		"calo": 153,
+		"key": "5",
+		"mins": 15,
+		"name": "Basketball"
+	},{
+		"calo": 110,
+		"key": "6",
+		"mins": 15,
+		"name": "Bowling"
+	},{
+		"calo": 113,
+		"key": "7",
+		"mins": 15,
+		"name": "Frisbee"
+	},{
+		"calo": 154,
+		"key": "8",
+		"mins": 15,
+		"name": "Fußball"
+	},{
+		"calo": 96,
+		"key": "9",
+		"mins": 15,
+		"name": "Golf"
+	},{
+		"calo": 72,
+		"key": "10",
+		"mins": 15,
+		"name": "Gymnastik"
+	},{
+		"calo": 152,
+		"key": "11",
+		"mins": 15,
+		"name": "Jogging, langsam"
+	},{
+		"calo": 241,
+		"key": "12",
+		"mins": 15,
+		"name": "Jogging, schnell"
+	},{
+		"calo": 162,
+		"key": "13",
+		"mins": 15,
+		"name": "Mountain Biking"
+	},{
+		"calo": 113,
+		"key": "14",
+		"mins": 15,
+		"name": "Radfahren 15km/h"
+	},{
+		"calo": 183,
+		"key": "15",
+		"mins": 15,
+		"name": "Schwimmen, Brust"
+	},{
+		"calo": 174,
+		"key": "16",
+		"mins": 15,
+		"name": "Schwimmen, Kraulen"
+	},{
+		"calo": 132,
+		"key": "17",
+		"mins": 15,
+		"name": "Skaten"
+	},{
+		"calo": 66,
+		"key": "18",
+		"mins": 15,
+		"name": "Segeln"
+	},{
+		"calo": 71,
+		"key": "19",
+		"mins": 15,
+		"name": "Spazieren gehen"
+	},{
+		"calo": 191,
+		"key": "20",
+		"mins": 15,
+		"name": "Spinning"
+	},{
+		"calo": 239,
+		"key": "21",
+		"mins": 15,
+		"name": "Squash"
+	},{
+		"calo": 124,
+		"key": "22",
+		"mins": 15,
+		"name": "Tennis"
+	},{
+		"calo": 56,
+		"key": "23",
+		"mins": 15,
+		"name": "Volleyball"
+	},{
+		"calo": 84,
+		"key": "24",
+		"mins": 15,
+		"name": "Walking, leicht"
+	},{
+		"calo": 71,
+		"key": "25",
+		"mins": 15,
+		"name": "Yoga"
+	}
+]

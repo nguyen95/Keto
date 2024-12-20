@@ -1,0 +1,464 @@
+{
+   "title": "La nourriture saine",
+   "custom": {
+      "backToNow": "Retour à maintenant",
+      "back": "Revenir",
+      "next": " Suivant",
+      "cancel": "Annuler",
+      "lipid": "Pourcentage de graisse corporelle",
+      "estimatedLifespan": "Durée de vie estimée",
+      "estimatedLifespanSub": "Essayez de calculer votre durée de vie estimée!",
+      "lifeCheckTitle": "Calcul de l'espérance de vie",
+      "lifeCheckSub": "Commencez à calculer votre âge sur la base de vos habitudes et de vos caractéristiques en répondant aux questions des 6 catégories ci-dessous, notamment : Les habitudes de vie, l'état psychologique, l'état civil, la situation professionnelle, les conditions environnementales et la prédisposition génétique. Soyez honnête en prenant les questions au sérieux."
+   },
+   "sub": {
+      "title": "Premium",
+      "des": "Upgrade to Premium User with",
+      "benefit1": "Remove all ads",
+      "benefit2": "Use all features in app",
+      "perMonth": "per month",
+      "upgrade": "Upgrade Now!",
+      "term": "Terms & Conditions",
+      "policy": "Privacy policy"
+   },
+   "user": {
+      "title": "Utilisateur",
+      "tabbarTitle": "Moi",
+      "statisticsWeekly": "Suivi des calories",
+      "currentlyPlan": "plan en cours",
+      "recentRecipes": "recettes récentes",
+      "savedReceipes": "recettes enregistrées",
+      "yourSavedRecipes": "Vos recettes enregistrées",
+      "view": "Vue",
+      "logoutTitle": "Déconnecter",
+      "logoutMsg": "Êtes-vous sûr de vouloir vous déconnecter?",
+      "ok": "D'accord",
+      "shoppingList": "Liste de courses",
+      "viewShoppingList": "Voir la liste d'achats",
+      "weekday": {
+         "monday": "Lundi",
+         "tuesday": "Mardi",
+         "wednesday": "Mercredi",
+         "thursday": "Jeudi",
+         "friday": "Vendredi",
+         "saturday": "samedi",
+         "sunday": "dimanche"
+      },
+      "weekdayShorten": {
+         "monday": "mo",
+         "tuesday": "tu",
+         "wednesday": "nous",
+         "thursday": "e",
+         "friday": "fr",
+         "saturday": "sa",
+         "sunday": "su"
+      },
+      "time": {
+         "tomorrow": "Demain",
+         "nextTime": "La prochaine fois",
+         "yesterday": "Hier",
+         "dayAgo": "il y a quelques jours",
+         "lastWeek": "La semaine dernière",
+         "weeksAgo": "il y a des semaines",
+         "lastMonth": "Le mois dernier",
+         "monthsAgo": "il y a des mois",
+         "lastYear": "L'année dernière",
+         "yearsAgo": "il y a des années"
+      }
+   },
+   "statistics": {
+      "title": "activité Graphique",
+      "caloriesChartTitle": "l'apport en calories",
+      "nutritionAverage": "moyenne de la nutrition dans cette semaine",
+      "waterChartTitle": "prise d'eau",
+      "thisweek": "Cette semaine",
+      "prevweek": "7 jours avant",
+      "week": {
+         "title": "du quotidien",
+         "nutritionAverage": "moyenne de la nutrition dans cette semaine",
+         "currentstate": "Cette semaine",
+         "prevstate": "7 jours avant"
+      },
+      "two_weeks": {
+         "title": "hebdomadaire",
+         "nutritionAverage": "moyenne de la nutrition dans ce 2 semaines",
+         "currentstate": "Les 14 derniers jours",
+         "prevstate": "14 jours avant"
+      },
+      "month": {
+         "title": "mensuel",
+         "nutritionAverage": "moyenne de la nutrition dans ce mois-ci",
+         "currentstate": "Les 30 derniers jours",
+         "prevstate": "30 jours avant"
+      }
+   },
+   "plan": {
+      "title": "Des plans",
+      "tabbarTitle": "Plan",
+      "yourPlan": "Votre plan",
+      "viewPlan": "Voir le plan",
+      "detailPlan": "Plan détaillé",
+      "startPlan": "Plan de départ",
+      "msgSelectPlan": "Mettez à jour votre plan",
+      "detail_plan": {
+         "onThisPlan": "Sur ce plan",
+         "about": "À propos de",
+         "whatYouEat": "Qu'est-ce que vous allez manger",
+         "benefits": "Avantages"
+      }
+   },
+   "tabbar": {
+      "home": "Accueil",
+      "yourMeal": "Ton repas",
+      "user": "Moi"
+   },
+   "recipes": {
+      "title": "Recettes",
+      "tabbarTitle": "Recette",
+      "msgAddRecipe": "Ajouté aux recettes récentes",
+      "clickMore": "plus>",
+      "detailRecipe": "Recette détaillée",
+      "iHavedTryThis": "J'ai essayé ce",
+      "ingredients": "Ingrédients",
+      "instruction": "Instructions",
+      "textNumberPeople": "Pas disponible",
+      "recipeName": {
+         "breakfast": "Petit-déjeuner",
+         "lunch": "Le déjeuner",
+         "dinner": "Dîner",
+         "others": "Autres"
+      }
+   },
+   "login": {
+      "signinWithGoogle": "Connectez-vous avec Google",
+      "signinWithEmail": "Connectez-vous avec Email",
+      "signinWithFacebook": "Connectez-vous avec Facebook",
+      "signinWithApple": "Connectez-vous avec Apple",
+      "loginErrorMsg": "Erreur d'identification",
+      "loginSignupEmail": {
+         "title": "Se connecter avec email",
+         "email": "E-mail",
+         "password": "Mot de passe",
+         "login": "Connexion",
+         "createAnAccount": "Créer un compte",
+         "createAccount": "Créer un compte",
+         "haveAnAccount": "Avoir un compte? S'identifier",
+         "verifyYourAccount": "Vérifiez votre compte",
+         "msgLinkVerifySent": "Lien pour vérifier compte a été envoyé à votre e-mail",
+         "dismiss": "Rejeter",
+         "passNotEmpty": "Mot de passe ne peut pas être vide",
+         "enterInvalidEmail": "Entrez E-mail non valide",
+         "enterInvalidEmailFormat": "Format d'email invalide"
+      },
+      "signInByEmailErrMesg": {
+         "ERROR_INVALID_EMAIL": "Votre adresse e-mail semble être malformé.",
+         "ERROR_WRONG_PASSWORD": "Votre mot de passe est erroné.",
+         "ERROR_USER_NOT_FOUND": "L'utilisateur avec cet e-mail n'existe pas.",
+         "ERROR_USER_DISABLED": "L'utilisateur avec cet e-mail a été désactivé.",
+         "ERROR_TOO_MANY_REQUESTS": "Trop de demandes. Réessayez plus tard.",
+         "ERROR_OPERATION_NOT_ALLOWED": "La signature avec E-mail et mot de passe n'est pas activé.",
+         "UNKNOWN": "Une erreur non définie est arrivé."
+      },
+      "signUpByEmailErrMesg": {
+         "ERROR_INVALID_EMAIL": "Votre email est invalide",
+         "ERROR_OPERATION_NOT_ALLOWED": "Les comptes anonymes ne sont pas activés",
+         "UNKNOWN": "Une erreur non définie est arrivé.",
+         "ERROR_WEAK_PASSWORD": "Votre mot de passe est trop faible",
+         "ERROR_EMAIL_ALREADY_IN_USE": "Le courrier électronique est déjà utilisé sur un autre compte",
+         "ERROR_INVALID_CREDENTIAL": "Votre email est invalide"
+      }
+   },
+   "nutritions": {
+      "title": "Nutrition",
+      "subTitle": "(par portion)",
+      "kcal": "kcal",
+      "carbs": "Crabes",
+      "protein": "Protéine",
+      "fat": "Gros",
+      "fiber": "Fibre",
+      "sugar": "Sucre"
+   },
+   "shoppingList": {
+      "title": "Liste de courses",
+      "delete": "Effacer",
+      "done": "Fait",
+      "removeItem": "Retirer recette",
+      "doneMsg": "C'est fait",
+      "linkToRecipe": "Voir la recette>",
+      "addAllToShoppingList": "+ Liste d'achats"
+   },
+   "BMR": {
+      "title": "BMR",
+      "titleUpdateBRM": "Mise à jour BMR",
+      "buttonChangeGoals": "Changer votre objectif",
+      "BMI": "IMC",
+      "male": "Homme",
+      "female": "Femme",
+      "height": "Hauteur",
+      "weight": "Poids",
+      "age": "Âge",
+      "gender": "Le genre",
+      "activityLevel": "Niveau d'activité",
+      "calories": "calories",
+      "tdee": "Dépenses totales d'énergie quotidienne (TDEE)",
+      "today": "Aujourd'hui",
+      "kCalDay": "Kcal / jour",
+      "kCalLeft": "gauche kcal",
+      "caculateBMR": "Calculer BMR",
+      "yourResult": "Ton résultat",
+      "reCaculate": "Re calculate",
+      "gotIt": "J'ai compris",
+      "continue": "Continuez",
+      "personal": "Personnel",
+      "howToContinue": "Tap sur le bouton (+) à droite et continuer la recherche",
+      "howToContinueMeal": "Tap sur le bouton (+) à droite et continuer la recherche",
+      "tipOfTheDay": "Conseils DU JOUR",
+      "dateUpdateWeight": "Dans Smart Body Balance",
+      "save": "Sauvegarder",
+      "nutritionSettings": "réglage de la nutrition",
+      "nutritionSettingsTitle": "Rapport incorrect",
+      "nutritionSettingsError": "Le pourcentage total de la nutrition pas égale à 100%",
+      "bmiComment": {
+         "UNDERWEIGHT": "sous Poids",
+         "NORMAL": "poids santé.",
+         "OVERWEIGHT": "En surpoids.",
+         "OBESE": "Obèse."
+      },
+      "activityLevelMsg": {
+         "littleOrNoExercise": {
+            "title": "Très lent",
+            "subtitle": "Peu à aucune activité quotidienne. caissier banque, travail de bureau. Lire, jouer à des jeux vidéo à regarder la télévision dans le temps libre"
+         },
+         "lightExercise": {
+            "title": "Faible",
+            "subtitle": "Lumière activité quotidienne 1-3 fois / semaine"
+         },
+         "moderateExercise": {
+            "title": "Modérer",
+            "subtitle": "Lumière activité quotidienne 3-5 fois / semaine"
+         },
+         "veryActive": {
+            "title": "Haut",
+            "subtitle": "L'activité physique tout au long de la journée. postier, waitstaff. Être actif dans le temps libre"
+         },
+         "extraActive": {
+            "title": "Très haut",
+            "subtitle": "Physiquement exigeant activité quotidienne. Travaux de construction, messager de vélo. activité quotidienne intense dans le temps libre"
+         }
+      },
+      "trackingActivity": {
+         "title": "Votre activité semaine",
+         "spentTime1DayAmout": "minutes / jour",
+         "spentTime1Day": "minutes",
+         "spentTimes1WeekAmount": "jours / semaine",
+         "spentTimes1Week": "jours",
+         "validateMinsError": "Mins pas correct",
+         "validateDaysError": "Les jours non correctes"
+      },
+      "drinkWater": {
+         "dailyGoal": "l'eau de boisson objectif quotidien",
+         "lastDrink": "dernier verre",
+         "weWillNoti": "Désactiver la notification",
+         "enableNoti": "activer la notification",
+         "mlDay": "ml / jour",
+         "needToDrink": "L'eau",
+         "title": "Bois de l'eau",
+         "notificationTitle": "Bois de l'eau",
+         "notificationSub": "Temps pour l'eau de boisson",
+         "requirePermissions": "Veuillez accepter l'autorisation de notification pour utiliser cette fonctionnalité."
+      },
+      "eating": {
+         "notificationTitle": "Préparez-vous pour le petit déjeuner à 7h00",
+         "notificationSub": "Passez une belle journée pleine d'énergie!"
+      },
+      "yourGoals": {
+         "title": "Ton but",
+         "recommendTitle": "recommander",
+         "question": "Quel est ton but?",
+         "loseWeightTitle": "Perdre du poids",
+         "loseWeightSubTitle": "Gérez votre poids en mangeant plus intelligent",
+         "maintainWeightTitle": "maintenir un poids",
+         "maintainWeightSubTitle": "Optimisez votre bien-être",
+         "gainWeightTitle": "Prendre du poids",
+         "gainWeightSubTitle": "force Construire avec des aliments riches en protéines",
+         "errMsgTitle": "Votre erreur de but",
+         "gainWeightErrMsg": "Le must de poids de but sur votre poids actuel",
+         "loseWeightErrMsg": "Le poids de but doit réduire votre poids actuel",
+         "suggestMeal": "Menu recommandé"
+      },
+      "weightStat": {
+         "popupTitle": "poids piste",
+         "popupBtnTitle": "Mettre à jour",
+         "popupBtnSkipeTitle": "Sauter",
+         "history": "Histoire",
+         "dailyStaticTitle": "Les 30 derniers jours",
+         "weeklyStaticTitle": "28 derniers jours",
+         "monhtlyStaticTitle": "60 derniers jours",
+         "startingWeight": "poids de départ",
+         "currentWeight": "Actuel",
+         "gapWeight": "Écart"
+      },
+      "greetings": {
+         "morning": "Bonjour",
+         "afternoon": "Bonne après-midi",
+         "evening": "Bonsoir"
+      }
+   },
+   "calo": {
+      "measurement": "calories",
+      "searchHint": "Chercher...",
+      "howtoBurn": "Comment graver",
+      "addToDiary": "Ajouter au journal",
+      "updateToDiary": "Mise à jour du journal",
+      "kcalRemaining": "restant",
+      "caloEaten": "MANGÉ",
+      "caloBurned": "BRÛLÉ",
+      "dailyGoals": "Objectif quotidien",
+      "time": "Temps",
+      "simpleCalo": {
+         "title": "Ajouter calories simples",
+         "defaultName": "simple calories",
+         "hintTitle": "Tuile",
+         "hintkcal": "kcal (nécessaire)",
+         "hintCarbs": "crabes",
+         "hintFat": "gros",
+         "hintPro": "protéine"
+      }
+   },
+   "food": {
+      "cannotFoundFoodTitle": "PAS TROUVÉ",
+      "cannotFoundFoodSubTitle": "S'il vous plaît cliquer sur le bouton alimentaire et créer de nouveaux aliments simples pour vous!",
+      "simpleFood": {
+         "title": "Ajouter une nourriture simple",
+         "defaultName": "nourriture simple",
+         "hintTitle": "nom de l'aliment",
+         "hintkcal": "kcal (nécessaire)",
+         "hintCarbs": "crabes",
+         "hintFat": "gros",
+         "hintPro": "protéine"
+      },
+      "new": {
+         "title": "Créer de nouveaux aliments",
+         "basic": {
+            "title": "Informations de base",
+            "nameTitle": "Nom de la nourriture",
+            "barcodeTitle": "code à barre"
+         },
+         "servingSize": {
+            "title": "Portion",
+            "defaultServing": "portion par défaut",
+            "customServing": "portion personnalisée",
+            "name": "Nom de la portion"
+         },
+         "contentPerServing": {
+            "gram": "grammes (g)",
+            "ml": "millilitre (ml)"
+         },
+         "nutrition": {
+            "title": "Information nutritionnelle",
+            "additionTitle": "Donnée supplémentaire"
+         }
+      },
+      "barCode": {
+         "barCodeBtn": "le code-barres",
+         "popupCoonfirmTitle": "Le code-barres est pas dans notre base de données",
+         "popupCoonfirmContent": "Aide connecter le code-barres scannés à un élément existant"
+      }
+   },
+   "favMeal": {
+      "title": "Ton repas",
+      "buttonTracking": "Créer un nouveau repas",
+      "canotFoundTitle": "PAS TROUVÉ",
+      "canotFoundSubTitle": "S'il vous plaît cliquer sur le bouton favori (💙) et créer de nouveaux repas pour vous!",
+      "msgConfirm": "Est-ce que vous voulez créer un nouveau repas?",
+      "msgDeleteConfirm": "Est-ce que vous voulez supprimer le repas?",
+      "new": {
+         "title": "Créer repas",
+         "info": {
+            "title": "informations repas",
+            "name": "Nom du repas",
+            "photo": "Photo de repas",
+            "hintRequired": "obligatoire",
+            "hintOptional": "optionnel",
+            "validateMsg": "La valeur ne peut être vide",
+            "validateInfo": "S'il vous plaît remplir les informations requises"
+         },
+         "content": {
+            "title": "contenu repas",
+            "buttonTitle": "Ajouter à la nourriture repas"
+         }
+      },
+      "tracking": {
+         "title": "repas Détail",
+         "infoHeader": "informations repas"
+      },
+      "cell": {
+         "serving": "Portion"
+      },
+      "addButtonTitle": "Ajouter un repas",
+      "addFoodButtonTitle": "Ajouter à la nourriture repas"
+   },
+   "activityBurnCalo": {
+      "swimming": "Natation",
+      "walking": "En marchant",
+      "running": "Fonctionnement",
+      "riding": "Équitation",
+      "time": "minutes"
+   },
+   "exercise": {
+      "title": "Exercer",
+      "deleteMsg": "Supprimer l'exercice",
+      "addMsg": "Ajouter exercice",
+      "canotFoundTitle": "PAS TROUVÉ",
+      "canotFoundSubTitle": "Oops! Nous ne pouvons pas trouver votre recherche. Vous pouvez partager avec nous, vous exercez"
+   },
+   "setting": {
+      "title": "Réglages",
+      "restorePurchase": "Restaurer l'achat",
+      "dataLocale": "base de données de configuration pour vous",
+      "updateBMR": "Mise à jour BMR",
+      "nutrition": "paramètres de la nutrition",
+      "help": "Aider",
+      "feedBack": "Retour d'information",
+      "moreApp": "Plus d'applications",
+      "inviteFriend": "Inviter un ami",
+      "inviteFriendMsg": "Les meilleures applications pour Eat Clean",
+      "rateTheApp": "Évaluer l'application",
+      "term": "Termes et conditions",
+      "policy": "Politique de confidentialité",
+      "signOut": "Se déconnecter"
+   },
+   "ratingPopup": {
+      "title": "Que pensez-vous de notre application",
+      "message": "S'il vous plaît laissez une note",
+      "child": "d'accord"
+   },
+   "showcase": {
+      "todayPage": {
+         "nextButton": {
+            "title": "Le prochain jour",
+            "subtitle": "Appuyez sur pour aller au jour suivant"
+         },
+         "todayButton": {
+            "title": "Aujourd'hui",
+            "subtitle": "Appuyez sur pour reload retour aujourd'hui"
+         },
+         "floatingButton": {
+            "title": "calories suivi",
+            "subtitle": "Appuyez sur pour commencer calories suivi"
+         }
+      },
+      "mealPage": {
+         "addMeal": {
+            "title": "Créer un nouveau repas",
+            "subtitle": "Appuyez sur pour créer un nouveau repas personnalisé pour vous"
+         }
+      }
+   },
+   "measurement": {
+      "gram": "gramme",
+      "calo": "calories",
+      "kg": "kg",
+      "cm": "cm"
+   }
+}

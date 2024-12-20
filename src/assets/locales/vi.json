@@ -1,0 +1,466 @@
+{
+  "title": "Sống khỏe ăn ngon",
+  "custom": {
+    "backToNow": "Về hiện tại",
+    "back": "Quay lại",
+    "next": "Tiếp theo",
+    "cancel": "Huỷ bỏ",
+    "lipid": "Tỉ lệ mỡ cơ thể",
+    "estimatedLifespan": "Tuổi thọ ước tính",
+    "estimatedLifespanSub": "Hãy thử xem tuổi thọ ước tính của bạn!",
+    "lifeCheckTitle": "Tính tuổi thọ",
+    "lifeCheckSub": "Bắt đầu tính tuổi của mình dựa trên thói quen và đặc điểm riêng của cá nhân theo các câu hỏi ở 6 hạng mục dưới đây, bao gồm: Thói quen sinh hoạt, trạng thái tâm lý tinh thần, tình trạng hôn nhân, tình hình công việc, điều kiện môi trường sống và yếu tố di truyền. Hãy tính thật chuẩn dựa trên việc trả lời câu hỏi một cách nghiêm túc."
+  },
+  "sub": {
+    "title": "Premium",
+    "des": "Upgrade to Premium User with",
+    "benefit1": "Remove all ads",
+    "benefit2": "Use all features in app",
+    "perMonth": "per month",
+    "upgrade": "Upgrade Now!",
+    "term": "Terms & Conditions",
+    "policy": "Privacy policy"
+  },
+  "user": {
+    "title": "Dành cho bạn",
+    "tabbarTitle": "Me",
+    "statisticsWeekly": "Biểu đồ calo",
+    "currentlyPlan": "Thực đơn hiện tại",
+    "recentRecipes": "Được thêm gần đây",
+    "savedReceipes": "Món yêu thích",
+    "yourSavedRecipes": "Món ngon đã lưu",
+    "view": "Chi tiết",
+    "logoutTitle": "Đăng xuất khỏi tài khoản",
+    "logoutMsg": "Bạn chắc chắn muốn đăng xuất không?",
+    "ok": "OK",
+    "shoppingList": "Danh sách đi chợ",
+    "viewShoppingList": "Xem danh sách",
+    "weekday": {
+      "monday": "Thứ Hai",
+      "tuesday": "Thứ Ba",
+      "wednesday": "Thứ Tư",
+      "thursday": "Thứ Năm",
+      "friday": "Thứ Sáu",
+      "saturday": "Thứ Bảy",
+      "sunday": "Chủ Nhật"
+    },
+    "weekdayShorten": {
+      "monday": "hai",
+      "tuesday": "ba",
+      "wednesday": "tư",
+      "thursday": "năm",
+      "friday": "sáu",
+      "saturday": "bảy",
+      "sunday": "cn"
+    },
+    "time": {
+      "tomorrow": "Ngày mai",
+      "nextTime": "Thời gian tới",
+      "yesterday": "Hôm qua",
+      "dayAgo": "ngày trước đó",
+      "lastWeek": "Tuần trước",
+      "weeksAgo": "tuần trước đó",
+      "lastMonth": "Tháng trước",
+      "monthsAgo": "tháng trước đó",
+      "lastYear": "Năm trước",
+      "yearsAgo": "năm trước đó"
+    }
+  },
+  "statistics": {
+    "title": "Biểu đồ năng lượng",
+    "caloriesChartTitle": "Biểu đồ Calo",
+    "nutritionAverage": "Dinh dưỡng trung bình 7 ngày qua",
+    "waterChartTitle": "Lượng nước",
+    "thisweek": "7 ngày qua ",
+    "prevweek": "so với 7 ngày trước đó",
+    "week": {
+      "title": "ngày",
+      "nutritionAverage": "Dinh dưỡng trung bình trong 7 ngày",
+      "currentstate": "7 ngày vừa qua",
+      "prevstate": "7 ngày trước đó"
+     },
+     "two_weeks": {
+      "title": "tuần",
+      "nutritionAverage": "Dinh dưỡng trung bình trong 14 ngày",
+      "currentstate": "14 ngày vừa qua",
+      "prevstate": "14 ngày trước đó"
+     },
+     "month": {
+      "title": "tháng",
+      "nutritionAverage": "Dinh dưỡng trung bình theo tháng",
+      "currentstate": "30 ngày vừa qua",
+      "prevstate": "30 ngày trước đó"
+     }
+  },
+  "plan": {
+    "title": "Sống khỏe ăn ngon",
+    "tabbarTitle": "Plan",
+    "yourPlan": "Thực đơn của bạn",
+    "viewPlan": "Xem thực đơn",
+    "detailPlan": "Chi tiết thực đơn",
+    "startPlan": "Bắt đầu",
+    "msgSelectPlan": "Bạn vừa bắt đầu một chế độ ăn mới",
+    "detail_plan": {
+      "onThisPlan": "Tiếp tục",
+      "about": "Về",
+      "whatYouEat": "Bạn sẽ ăn gì",
+      "benefits": "Lợi ích"
+    }
+  },
+  "tabbar": {
+    "home": "Nhật ký",
+    "yourMeal": "Món ăn",
+    "user": "Cá nhân"
+  },
+  "recipes": {
+    "title": "Thực đơn bạn chọn",
+    "tabbarTitle": "Recipe",
+    "msgAddRecipe": "Thêm món vào danh sách gần đây",
+    "clickMore": "Thêm >",
+    "detailRecipe": "Chi tiết món ăn",
+    "iHavedTryThis": "Đã thực hiện",
+    "ingredients": "Thành phần",
+    "instruction": "Hướng dẫn cách làm",
+    "textNumberPeople": "Không xác định",
+    "recipeName": {
+      "breakfast": "Bữa sáng",
+      "lunch": "Bữa trưa",
+      "dinner": "Bữa tối",
+      "others": "Bữa phụ"
+    }
+  },
+  "login": {
+    "signinWithGoogle": "Đăng nhập với Google",
+    "signinWithEmail": "Đăng nhập với email",
+    "signinWithFacebook": "Đăng nhập với Facebook",
+    "signinWithApple": "Đăng nhập với Apple",
+    "loginErrorMsg": "Lỗi đăng nhập",
+    "loginSignupEmail": {
+      "title": "Đăng nhập bằng email",
+      "email": "Email",
+      "password": "Mật khẩu",
+      "login": "Đăng nhập",
+      "createAnAccount": "Đăng ký tài khoản mới",
+      "createAccount": "Đăng ký",
+      "haveAnAccount": "Bạn đã có tài khoản? Đăng nhập ngay",
+      "verifyYourAccount": "Xác nhận tài khoản email",
+      "msgLinkVerifySent": "Đường dẫn xác nhận đã được gửi đến tài khoản email của bạn",
+      "dismiss": "Bỏ qua",
+      "passNotEmpty": "Bạn không được để trống mật khẩu của mình",
+      "enterInvalidEmail": "Email của bạn không chính xác",
+      "enterInvalidEmailFormat": "Email của bạn nhập vào không chính xác"
+    },
+    "signInByEmailErrMesg": {
+      "ERROR_INVALID_EMAIL": "Địa chỉ email của bạn có vẻ không chính xác",
+      "ERROR_WRONG_PASSWORD": "Bạn đã nhập sai mật khẩu",
+      "ERROR_USER_NOT_FOUND": "Địa chỉ email không tồn tại",
+      "ERROR_USER_DISABLED": "Người dùng đăng ký với địa chỉ email này đã bị xóa",
+      "ERROR_TOO_MANY_REQUESTS": "Xin lỗi, bạn gửi quá nhiều yếu cầu. Vui lòng thử lại sau",
+      "ERROR_OPERATION_NOT_ALLOWED": "Đăng nhập với email và mật khẩu không được hỗ trợ",
+      "UNKNOWN": "Lỗi hệ thống. Vui lòng thử lại sau"
+    },
+    "signUpByEmailErrMesg": {
+      "ERROR_INVALID_EMAIL": "Địa chỉ email của bạn không chính xác",
+      "ERROR_OPERATION_NOT_ALLOWED": "Người dùng  Anonymous accounts are not enabled",
+      "UNKNOWN": "Lỗi hệ thống. Vui lòng thử lại sau",
+      "ERROR_WEAK_PASSWORD": "Mật khẩu của bạn quá yếu",
+      "ERROR_EMAIL_ALREADY_IN_USE": "Địa chỉ email đã được sử dụng bởi tài khoản khác",
+      "ERROR_INVALID_CREDENTIAL": "Địa chỉ email của bạn không chính xác"
+    }
+  },
+  "nutritions": {
+    "title": "Thành phần dinh dưỡng",
+    "subTitle": " (cho mỗi người)",
+    "kcal": "Kcal",
+    "carbs": "Carbs",
+    "protein": "Chất đạm",
+    "fat": "Chất béo",
+    "fiber": "Chất xơ",
+    "sugar": "Đường"
+  },
+  "shoppingList": {
+    "title": "Danh sách đi chợ",
+    "delete": "Xóa",
+    "done": "Xong",
+    "removeItem": "Xóa công thức này",
+    "doneMsg": "Đã hoàn thành",
+    "linkToRecipe": "Xem chi tiết >",
+    "addAllToShoppingList": "+ shopping list"
+  },
+  "BMR": {
+    "title": "Chỉ số trao đổi chất (BMR)",
+    "titleUpdateBRM": "Cập nhật BMR",
+    "buttonChangeGoals": "Đặt mục tiêu",
+    "BMI": "Chỉ số khối cơ thể (BMI)",
+    "male": "Nam",
+    "female": "Nữ",
+    "height": "Chiều cao",
+    "weight": "Cân nặng",
+    "age": "Tuổi",
+    "gender": "Giới tính",
+    "activityLevel": "Activity Level",
+    "calories": "Calo",
+    "tdee": "Lượng Calorie tối thiểu hàng ngày (TDEE)",
+    "today": "Hôm nay",
+    "backToNow": "Về hiện tại",
+    "kCalDay": "Kcal/ngày",
+    "kCalLeft": "Calo cần nạp",
+    "caculateBMR": "Tính BMR",
+    "yourResult": "Thống kê các chỉ số",
+    "reCaculate": "Tính lại BMR",
+    "gotIt": "Tiếp tục",
+    "continue": "Tiếp tục",
+    "personal": "Cá nhân",
+    "howToContinue": "Nhấn vào nút (+) góc bên phải để tiếp tục ghi chú lại thành phần dinh dưỡng bạn dùng trong hôm nay",
+    "howToContinueMeal": "Nhấn vào nút (+) góc trên bên phải để thêm mới món ăn yêu thích của riêng bạn",
+    "tipOfTheDay": "Có thể bạn chưa biết?",
+    "dateUpdateWeight": "Cập nhật cân nặng",
+    "save": "Lưu",
+    "nutritionSettings": "Cài đặt dinh dưỡng",
+    "nutritionSettingsTitle": "Tỷ lệ không đúng",
+    "nutritionSettingsError": "Tổng phần trăm dinh dưỡng không bằng 100%",
+    "bmiComment": {
+      "UNDERWEIGHT": "Thiếu cân",
+      "NORMAL": "Cân nặng tốt",
+      "OVERWEIGHT": "Thừa cân",
+      "OBESE": "Hơi béo xíu thôi"
+    },
+    "activityLevelMsg": {
+      "littleOrNoExercise": {
+        "title": "Rất ít",
+        "subtitle": "Ít hoạt động, chỉ ăn đi làm về ngủ"
+      },
+      "lightExercise": {
+        "title": "Ít",
+        "subtitle": "Có tập nhẹ nhàng, tuần 1-3 buổi"
+      },
+      "moderateExercise": {
+        "title": "Trung bình",
+        "subtitle": "Có vận động vừa 4-5 buổi"
+      },
+      "veryActive": {
+        "title": "Cao",
+        "subtitle": "Vận động nhiều 6-7 buổi"
+      },
+      "extraActive": {
+        "title": "Rất cao",
+        "subtitle": "Vận động rất nhiều ngày tập 2 lần"
+      }
+    },
+    "trackingActivity": {
+      "title": "Bạn vận động như thế nào?",
+      "spentTime1DayAmout": "Số phút/ngày",
+      "spentTime1Day": " phút",
+      "spentTimes1WeekAmount": "Số ngày/tuần",
+      "spentTimes1Week": " ngày",
+      "validateMinsError": "Không chính xác",
+      "validateDaysError": "Không chính xác"
+    },
+    "drinkWater": {
+      "dailyGoal": "Lượng nước bạn cần uống",
+      "lastDrink": "Lần cuối cùng",
+      "weWillNoti": "Tắt tính năng thông báo",
+      "enableNoti": "Bật tính năng thông báo",
+      "mlDay": "ml/ngày",
+      "title": "Bạn nên uống bao nhiêu nước",
+      "needToDrink": "Bạn đã uống bao nhiêu nước",
+      "notificationTitle": "Uống nước",
+      "notificationSub": "Đã đến lúc uống nước",
+      "requirePermissions": "Vui lòng cho phép thông báo để sử dụng tính năng này"
+    },
+    "eating": {
+      "notificationTitle": "Chuẩn bị đến bữa sáng lúc 7:00",
+      "notificationSub": "Chúc bạn có một ngày tuyệt vời tràn đầy năng lượng!"
+    },
+    "yourGoals": {
+      "title": "Mục tiêu",
+      "recommendTitle": "gợi ý",
+      "question": "Mục tiêu của bạn là gì?",
+      "loseWeightTitle": "Giảm cân",
+      "loseWeightSubTitle": "Quản lý cân nặng của bạn bằng cách ăn uống thông minh hơn",
+      "maintainWeightTitle": "Giữ nguyên cân nặng",
+      "maintainWeightSubTitle": "Tối ưu cho sức khoẻ của bạn",
+      "gainWeightTitle": "Tăng cân",
+      "gainWeightSubTitle": "Tăng cân với eat clean",
+      "errMsgTitle": "Cài đặt mục tiêu lỗi",
+      "gainWeightErrMsg": "Mục tiêu cân nặng phải cao hơn cân nặng hiện tại của bạn",
+      "loseWeightErrMsg": "Mục tiêu cân nặng phải thấp hơn cân nặng hiện tại của bạn",
+      "suggestMeal": "Thực đơn đề xuất"
+   },
+   "weightStat": {
+    "popupTitle": "Theo dõi cân nặng",
+    "popupBtnTitle": "Cập nhật",
+    "popupBtnSkipeTitle": "Bỏ qua",
+    "history": "Lịch sử",
+    "dailyStaticTitle": "30 ngày gần đây",
+    "weeklyStaticTitle": "28 ngày gần đây",
+    "monhtlyStaticTitle": "60 ngày gần đây",
+    "startingWeight": "Cân nặng khởi điểm",
+    "currentWeight": "Cân nặng hiện tại",
+    "gapWeight": "Cân nặng thay đổi"
+ },
+    "greetings": {
+      "morning": "Chào buổi sáng",
+      "afternoon": "Chào buổi trưa",
+      "evening": "Chào buổi tối"
+    }
+  },
+  "calo": {
+    "measurement": "calo",
+    "searchHint": "Tìm kiếm...",
+    "howtoBurn": "Làm thế nào để tiêu hao ",
+    "addToDiary": "Thêm vào nhật ký",
+    "updateToDiary": "Cập nhật vào nhật ký",
+    "kcalRemaining": " cần nạp",
+    "caloEaten": " đã nạp",
+    "caloBurned": "tiêu hao",
+    "updateBMR": "Cập nhật chỉ số trao đổi chất (BMR)",
+    "dailyGoals": "Mục tiêu hàng ngày",
+    "time": "Bữa",
+    "simpleCalo": {
+      "title": "Thêm calo",
+      "defaultName": "Calo mặc định",
+      "hintTitle": "Tiêu đề",
+      "hintkcal": "kcal (bắt buộc)",
+      "hintCarbs": "carbs",
+      "hintFat": "fat",
+      "hintPro": "protein"
+    }
+  },
+  "food": {
+    "cannotFoundFoodTitle": "Không tìm thấy kết quả",
+    "cannotFoundFoodSubTitle": "Bạn có thể tự tạo thực phẩm cho riêng mình. Hãy bắt đầu thêm bằng nút \"Thêm thực phẩm\" bên trên",
+    "simpleFood": {
+      "title": "Thêm thực phẩm",
+      "defaultName": "Thực phẩm mặc định",
+      "hintTitle": "Tên thực phẩm",
+      "hintkcal": "kcal (bắt buộc)",
+      "hintCarbs": "carbs",
+      "hintFat": "fat",
+      "hintPro": "protein"
+    },
+    "new": {
+      "title" : "Tạo thực phẩm mới",
+      "basic" : {
+         "title": "Thông tin cơ bản",
+         "nameTitle": "Tên của thực phẩm",
+         "barcodeTitle": "Barcode (mã sản phẩm)"
+      },
+      "servingSize" : {
+         "title" : "Đơn vị đo",
+         "defaultServing" : "Đơn vị đo",
+         "customServing" : "Đơn vị đo tuỳ chỉnh",
+         "name" : "Tên đơn vị đo tuỳ chỉnh"
+      },
+      "contentPerServing": {
+         "gram": "grams (g)",
+         "ml" : "milliliter (ml)"
+      },
+      "nutrition": {
+         "title": "Thông tin dinh dưỡng",
+         "additionTitle": "Thông tin bổ sung"
+      }
+     },
+     "barCode": {
+        "barCodeBtn": "Quét mã sản phẩm",
+        "popupCoonfirmTitle": "Mã sản phẩm được quét không nằm trong hệ thống thông tin của chúng tôi",
+        "popupCoonfirmContent": "Bạn có thể hỗ trợ chúng tôi cập nhật thông tin dinh dưỡng cho sản phẩm vừa được quét mã"
+     }
+  },
+  "favMeal": {
+    "title": "Món ăn của riêng bạn",
+    "buttonTracking": "Tạo mới món ăn",
+    "canotFoundTitle": "Không tìm thấy kết quả",
+    "canotFoundSubTitle": "Bạn có thể tự tạo món ăn cho riêng mình. Hãy bắt đầu với hình trái tim (💙)",
+    "msgConfirm": "Bạn có muốn thêm mới món ăn này?",
+    "msgDeleteConfirm": "Bạn có muốn xoá món ăn này khỏi mục yêu thích?",
+    "new": {
+      "title": "Tạo mới món ăn",
+      "info": {
+        "title": "Nhập thông tin về món ăn",
+        "name": "Tên món mới",
+        "photo": "Hình ảnh",
+        "hintRequired": "bắt buộc",
+        "hintOptional": "không bắt buộc",
+        "validateMsg": "Không được để trống tên",
+        "validateInfo": "Vui lòng điền đủ thông tin vào ô bắt buộc"
+      },
+      "content": {
+        "title": "Thành phần thực phẩm trong món ăn",
+        "buttonTitle": "Thêm thực phẩm"
+      }
+    },
+    "tracking": {
+      "title": "Chi tiết món ăn",
+      "infoHeader": "Thông tin món ăn"
+    },
+    "cell": {
+      "serving": "khẩu phần ăn"
+    },
+    "addButtonTitle": "Tạo món ăn mới",
+    "addFoodButtonTitle": "Thêm thực phẩm"
+  },
+  "activityBurnCalo": {
+    "swimming": "Bơi lội",
+    "walking": "Đi bộ",
+    "running": "Chạy bộ",
+    "riding": "Đạp xe",
+    "time": "phút"
+  },
+  "exercise": {
+    "title": "Tập luyện",
+    "deleteMsg": "Xoá bài tập",
+    "addMsg": "Thêm bài tập",
+    "canotFoundTitle": "Không có kết quả",
+    "canotFoundSubTitle": "Rất tiếc! Chúng tôi không tìm thấy kết quả tìm kiếm của bạn. Bạn có thể gửi phản hồi về bài tập mà bạn muốn tìm kiếm."
+  },
+  "setting": {
+    "title": "Cài đặt",
+    "restorePurchase": "Khôi phục thanh toán",
+    "dataLocale": "Thiết lập cơ sở dữ liệu cho bạn",
+    "updateBMR": "Cập nhật chỉ số trao đổi chất (BMR)",
+    "nutrition": "Cập nhật macro dinh dưỡng",
+    "help": "Trợ giúp",
+    "feedBack": "Gửi phản hồi",
+    "moreApp": "Ứng dụng khác",
+    "inviteFriend": "Mời thêm bạn bè",
+    "inviteFriendMsg": "Dùng thử ứng dụng Eat Clean này xem sao. Hay lắm!",
+    "rateTheApp": "Đánh giá ứng dụng",
+    "term": "Điều khoản",
+    "policy": "Chính sách bảo mật",
+    "signOut": "Đăng xuất"
+  },
+  "ratingPopup": {
+    "title": "Thật tuyệt vời vì bạn đã sử dụng ứng dụng!",
+    "message": "5 sao cho bọn mình nhé",
+    "child": "Xong"
+  },
+  "showcase": {
+    "todayPage": {
+      "nextButton": {
+        "title": "Thời gian tới",
+        "subtitle": "Bấm vào nút này để di chuyển tới ngày hôm sau"
+      },
+      "todayButton": {
+        "title": "Hôm nay",
+        "subtitle": "Nhấn vào nút trên để tải lại ngày hôm nay"
+      },
+      "floatingButton": {
+        "title": "Bắt đầu theo dõi calo",
+        "subtitle": "Bắt đầu lưu calo cho bạn mỗi ngày theo từng bữa ăn"
+      }
+    },
+    "mealPage": {
+      "addMeal": {
+        "title": "Tự tạo món mới",
+        "subtitle": "Tự tạo món mới với thực phẩm dinh dưỡng"
+      }
+    }
+  },
+  "measurement": {
+    "gram": "gram",
+    "calo": "calo",
+    "kg": "kg",
+    "cm": "cm"
+  }
+}

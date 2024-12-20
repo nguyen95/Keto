@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Lebensgewohnheiten",
+    "questions": [
+      "Übung 3 mal pro Woche",
+      "Genießt es, regelmäßig Obst und Gemüse zu essen",
+      "Haustier, Haustier",
+      "Rauchen mehr als 2 Packungen / Tag",
+      "Rauchen 1 ~ 2 Packungen / Tag",
+      "Rauchen Sie 20 oder weniger pro Tag",
+      "Schlafen Sie mehr als 10 Stunden oder weniger als 5 Stunden am Tag",
+      "Fett",
+      "Richtige Steh- / Sitzhaltung",
+      "Sie haben eine chronische Krankheit oder häufig leichte Krankheiten"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Geistiger, psychischer Zustand",
+    "questions": [
+      "Die meiste Zeit fühlen Sie sich glücklich und zufrieden",
+      "Optimistisch",
+      "Es gibt Freunde, die Schwierigkeiten, Freuden und Sorgen teilen",
+      "Verfolge Überzeugungen fest",
+      "Selbstachtung",
+      "Stur",
+      "Abenteuerlustige Vorlieben (z. B. Fahren mit hoher Verdrängung)",
+      "Depression"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Familienstand",
+    "questions": [
+      "Verheiratet",
+      "Männer sind geschieden und leben alleine",
+      "Frauen sind geschieden und leben alleine",
+      "Frauen, die nach dem 40. Lebensjahr keine Kinder gebären oder keine Kinder haben"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Berufsstatus",
+    "questions": [
+      "Professioneller Forscher",
+      "60 Jahre alt arbeitet noch",
+      "65 Jahre alt arbeitet noch",
+      "Arbeiten Sie in der Großstadt (oder verbringen Sie den größten Teil Ihres Großstadtlebens)",
+      "Arbeiten Sie in ländlichen Vorstädten (oder verbringen Sie die meiste Zeit hier)"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Umwelt, Lebensbedingungen",
+    "questions": [
+      "Leben in einem offenen Bereich, mit freiem Blick, frische Luft",
+      "Lebe lange an einem lauten Ort"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Genetische Faktoren",
+    "questions": [
+      "Die leibliche Mutter lebt 80 Jahre oder älter",
+      "Der leibliche Vater lebt mindestens 80 Jahre alt",
+      "Großeltern leben mindestens 80 Jahre alt",
+      "Einige Familienmitglieder starben vor dem 50. Lebensjahr an einer Herzerkrankung",
+      "Einige Familienmitglieder starben an Magenkrebs",
+      "Einige Familienmitglieder starben an Brustkrebs",
+      "Ein Familienmitglied ist vor seinem 60. Lebensjahr an Selbstmord gestorben oder hatte eine Krankheit"
+    ]
+  }
+]

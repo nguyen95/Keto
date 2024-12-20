@@ -1,0 +1,1572 @@
+[{
+  "calo": 213,
+  "key": "1",
+  "mins": 60,
+  "name": "Marche lente (3 km/h)"
+},{
+  "calo": 341,
+  "key": "2",
+  "mins": 60,
+  "name": "Marche rapide (6 km/h)"
+},{
+  "calo": 560,
+  "key": "3",
+  "mins": 60,
+  "name": "Course à pied (8 km/h)"
+},{
+  "calo": 728,
+  "key": "4",
+  "mins": 60,
+  "name": "Course à pied (10 km/h)"
+},{
+  "calo": 896,
+  "key": "5",
+  "mins": 60,
+  "name": "Course à pied (13 km/h)"
+},{
+  "calo": 1064,
+  "key": "6",
+  "mins": 60,
+  "name": "Course à pied (15 km/h)"
+},{
+  "calo": 369,
+  "key": "7",
+  "mins": 60,
+  "name": "Vélo (20 km/h)"
+},{
+  "calo": 378,
+  "key": "8",
+  "mins": 60,
+  "name": "Natation (25 m/min)"
+},{
+  "calo": 1120,
+  "key": "9",
+  "mins": 60,
+  "name": "Natation (40 m/min)"
+},{
+  "calo": 529,
+  "key": "10",
+  "mins": 60,
+  "name": "Fitness (cardio)"
+},{
+  "calo": 380,
+  "key": "11",
+  "mins": 60,
+  "name": "Musculation"
+},{
+  "calo": 288,
+  "key": "12",
+  "mins": 60,
+  "name": "Gym aquatique"
+},{
+  "calo": 422,
+  "key": "13",
+  "mins": 60,
+  "name": "Aérobic, enseignement dans une classe"
+},{
+  "calo": 352,
+  "key": "14",
+  "mins": 60,
+  "name": "Aérobic, faible impact"
+},{
+  "calo": 493,
+  "key": "15",
+  "mins": 60,
+  "name": "Aérobic, fort impact"
+},{
+  "calo": 457,
+  "key": "16",
+  "mins": 60,
+  "name": "Aérobic, général"
+},{
+  "calo": 563,
+  "key": "17",
+  "mins": 60,
+  "name": "Agriculture, mise en boules de foin, nettoyage de la grange"
+},{
+  "calo": 387,
+  "key": "18",
+  "mins": 60,
+  "name": "Agriculture, pelleter les grains"
+},{
+  "calo": 211,
+  "key": "19",
+  "mins": 60,
+  "name": "Agriculture, traite à la main"
+},{
+  "calo": 588,
+  "key": "20",
+  "mins": 60,
+  "name": "Aquabiking (vélo dans l'eau)"
+},{
+  "calo": 281,
+  "key": "21",
+  "mins": 60,
+  "name": "Aquagym (aqua-aérobic)"
+},{
+  "calo": 493,
+  "key": "22",
+  "mins": 60,
+  "name": "Aviron, position assise, allure lente"
+},{
+  "calo": 598,
+  "key": "23",
+  "mins": 60,
+  "name": "Aviron, position assise, allure modérée"
+},{
+  "calo": 669,
+  "key": "24",
+  "mins": 60,
+  "name": "Aviron, position assise, allure vigoureuse"
+},{
+  "calo": 844,
+  "key": "25",
+  "mins": 60,
+  "name": "Aviron, position assise, allure très vigoureuse"
+},{
+  "calo": 317,
+  "key": "26",
+  "mins": 60,
+  "name": "Badminton, hors compétition"
+},{
+  "calo": 493,
+  "key": "27",
+  "mins": 60,
+  "name": "Badminton, en compétition"
+},{
+  "calo": 352,
+  "key": "28",
+  "mins": 60,
+  "name": "Balle au prisonier"
+},{
+  "calo": 176,
+  "key": "29",
+  "mins": 60,
+  "name": "Barman, serveur"
+},{
+  "calo": 352,
+  "key": "30",
+  "mins": 60,
+  "name": "Baseball"
+},{
+  "calo": 317,
+  "key": "31",
+  "mins": 60,
+  "name": "Basket-ball, tirs aux paniers"
+},{
+  "calo": 422,
+  "key": "32",
+  "mins": 60,
+  "name": "Basket-ball, général"
+},{
+  "calo": 457,
+  "key": "33",
+  "mins": 60,
+  "name": "Basket-ball, en fauteuil roulant"
+},{
+  "calo": 493,
+  "key": "34",
+  "mins": 60,
+  "name": "Basket-ball, arbitrage"
+},{
+  "calo": 563,
+  "key": "35",
+  "mins": 60,
+  "name": "Basket-ball, en match"
+},{
+  "calo": 176,
+  "key": "36",
+  "mins": 60,
+  "name": "Billard"
+},{
+  "calo": 493,
+  "key": "37",
+  "mins": 60,
+  "name": "Bobsleigh"
+},{
+  "calo": 422,
+  "key": "38",
+  "mins": 60,
+  "name": "Bolo, jeu normal"
+},{
+  "calo": 704,
+  "key": "39",
+  "mins": 60,
+  "name": "Bolo, mode compétition"
+},{
+  "calo": 211,
+  "key": "40",
+  "mins": 60,
+  "name": "Bowling"
+},{
+  "calo": 422,
+  "key": "41",
+  "mins": 60,
+  "name": "Boxe, frappant les sacs"
+},{
+  "calo": 633,
+  "key": "42",
+  "mins": 60,
+  "name": "Boxe, entraînement (mode sparring partner)"
+},{
+  "calo": 844,
+  "key": "43",
+  "mins": 60,
+  "name": "Boxe, sur le ring, général"
+},{
+  "calo": 493,
+  "key": "44",
+  "mins": 60,
+  "name": "Broomball, ballon-balai, ballon sur glace"
+},{
+  "calo": 211,
+  "key": "45",
+  "mins": 60,
+  "name": "Canoë-kayak, allure lente"
+},{
+  "calo": 493,
+  "key": "46",
+  "mins": 60,
+  "name": "Canoë-kayak, allure modérée"
+},{
+  "calo": 844,
+  "key": "47",
+  "mins": 60,
+  "name": "Canoë-kayak, en équipe, mode compétition"
+},{
+  "calo": 422,
+  "key": "48",
+  "mins": 60,
+  "name": "Catch, lutte"
+},{
+  "calo": 352,
+  "key": "49",
+  "mins": 60,
+  "name": "Chasse, général"
+},{
+  "calo": 387,
+  "key": "50",
+  "mins": 60,
+  "name": "Club de remise en forme, exercices, général"
+},{
+  "calo": 140,
+  "key": "51",
+  "mins": 60,
+  "name": "Conduire un camion (position assise)"
+},{
+  "calo": 387,
+  "key": "52",
+  "mins": 60,
+  "name": "Construction, à l'extérieur, remodelage"
+},{
+  "calo": 563,
+  "key": "53",
+  "mins": 60,
+  "name": "Corde à sauter, allure lente"
+},{
+  "calo": 704,
+  "key": "54",
+  "mins": 60,
+  "name": "Corde à sauter, allure modérée, général"
+},{
+  "calo": 844,
+  "key": "55",
+  "mins": 60,
+  "name": "Corde à sauter, allure rapide"
+},{
+  "calo": 457,
+  "key": "56",
+  "mins": 60,
+  "name": "Course à pied"
+},{
+  "calo": 563,
+  "key": "57",
+  "mins": 60,
+  "name": "Course à pied, 8 km/h"
+},{
+  "calo": 704,
+  "key": "58",
+  "mins": 60,
+  "name": "Course à pied, 9,5 km/h"
+},{
+  "calo": 774,
+  "key": "59",
+  "mins": 60,
+  "name": "Course à pied, 10,8 km/h"
+},{
+  "calo": 809,
+  "key": "60",
+  "mins": 60,
+  "name": "Course à pied, 11,25 km/h"
+},{
+  "calo": 880,
+  "key": "61",
+  "mins": 60,
+  "name": "Course à pied, 12 km/h"
+},{
+  "calo": 950,
+  "key": "62",
+  "mins": 60,
+  "name": "Course à pied, 13 km/h"
+},{
+  "calo": 985,
+  "key": "63",
+  "mins": 60,
+  "name": "Course à pied, 13,8 km/h"
+},{
+  "calo": 1056,
+  "key": "64",
+  "mins": 60,
+  "name": "Course à pied, 14,5 km/h"
+},{
+  "calo": 1126,
+  "key": "65",
+  "mins": 60,
+  "name": "Course à pied, 16 km/h"
+},{
+  "calo": 1267,
+  "key": "66",
+  "mins": 60,
+  "name": "Course à pied, 17,5 km/h"
+},{
+  "calo": 633,
+  "key": "67",
+  "mins": 60,
+  "name": "Course à pied, cross country"
+},{
+  "calo": 1056,
+  "key": "68",
+  "mins": 60,
+  "name": "Course à pied, en montant les escaliers"
+},{
+  "calo": 563,
+  "key": "69",
+  "mins": 60,
+  "name": "Course à pied, général"
+},{
+  "calo": 704,
+  "key": "70",
+  "mins": 60,
+  "name": "Course à pied, sur une piste, pratique en équipe"
+},{
+  "calo": 563,
+  "key": "71",
+  "mins": 60,
+  "name": "Courses de chevaux, galopant"
+},{
+  "calo": 633,
+  "key": "72",
+  "mins": 60,
+  "name": "Course d'orientation"
+},{
+  "calo": 352,
+  "key": "73",
+  "mins": 60,
+  "name": "Cricket"
+},{
+  "calo": 176,
+  "key": "74",
+  "mins": 60,
+  "name": "Croquet"
+},{
+  "calo": 563,
+  "key": "75",
+  "mins": 60,
+  "name": "Crosse"
+},{
+  "calo": 176,
+  "key": "76",
+  "mins": 60,
+  "name": "Cuisson ou préparation des plats"
+},{
+  "calo": 281,
+  "key": "77",
+  "mins": 60,
+  "name": "Curling"
+},{
+  "calo": 281,
+  "key": "78",
+  "mins": 60,
+  "name": "Cyclisme, < 16 km/h, loisirs"
+},{
+  "calo": 422,
+  "key": "79",
+  "mins": 60,
+  "name": "Cyclisme, de 16 à 19 km/h, allure lente"
+},{
+  "calo": 563,
+  "key": "80",
+  "mins": 60,
+  "name": "Cyclisme, 19 à 22 km/h, allure modérée"
+},{
+  "calo": 704,
+  "key": "81",
+  "mins": 60,
+  "name": "Cyclisme, 22 à 25 km/h, allure vigoureuse"
+},{
+  "calo": 844,
+  "key": "82",
+  "mins": 60,
+  "name": "Cyclisme, 25 à 30 km/h, très rapide, en course"
+},{
+  "calo": 1126,
+  "key": "83",
+  "mins": 60,
+  "name": "Cyclisme, > 32 km/h, courses"
+},{
+  "calo": 598,
+  "key": "84",
+  "mins": 60,
+  "name": "Cyclisme, VTT en montagne ou BMX"
+},{
+  "calo": 211,
+  "key": "85",
+  "mins": 60,
+  "name": "Cyclisme, vélo d'appartement, allure très lente"
+},{
+  "calo": 387,
+  "key": "86",
+  "mins": 60,
+  "name": "Cyclisme, vélo d'appartement, allure lente"
+},{
+  "calo": 493,
+  "key": "87",
+  "mins": 60,
+  "name": "Cyclisme, vélo d'appartement, allure modérée"
+},{
+  "calo": 739,
+  "key": "88",
+  "mins": 60,
+  "name": "Cyclisme, vélo d'appartement, allure vigoureuse"
+},{
+  "calo": 880,
+  "key": "89",
+  "mins": 60,
+  "name": "Cyclisme, vélo d'appartement, allure très vigoureuse"
+},{
+  "calo": 352,
+  "key": "90",
+  "mins": 60,
+  "name": "Cyclisme, vélo d'appartement, général"
+},{
+  "calo": 211,
+  "key": "91",
+  "mins": 60,
+  "name": "Danse (salle de bal, lente)"
+},{
+  "calo": 317,
+  "key": "92",
+  "mins": 60,
+  "name": "Danse, général"
+},{
+  "calo": 387,
+  "key": "93",
+  "mins": 60,
+  "name": "Danse (salle de bal, rapide)"
+},{
+  "calo": 422,
+  "key": "94",
+  "mins": 60,
+  "name": "Danse (aérobic, ballet ou moderne)"
+},{
+  "calo": 211,
+  "key": "95",
+  "mins": 60,
+  "name": "Danse de salon (en couple), lente"
+},{
+  "calo": 387,
+  "key": "96",
+  "mins": 60,
+  "name": "Danse de salon (en couple), rapide"
+},{
+  "calo": 246,
+  "key": "97",
+  "mins": 60,
+  "name": "Déménager (déballant les cartons)"
+},{
+  "calo": 422,
+  "key": "98",
+  "mins": 60,
+  "name": "Déplacement de meubles, dans la maison"
+},{
+  "calo": 633,
+  "key": "99",
+  "mins": 60,
+  "name": "Déplacement d'objets ménagers, par escalier"
+},{
+  "calo": 493,
+  "key": "100",
+  "mins": 60,
+  "name": "Déplacement d'objets ménagers en portant les objets"
+},{
+  "calo": 211,
+  "key": "101",
+  "mins": 60,
+  "name": "Descendre l'escalier en marchant"
+},{
+  "calo": 43,
+  "key": "102",
+  "mins": 60,
+  "name": "Dormir"
+},{
+  "calo": 316,
+  "key": "103",
+  "mins": 60,
+  "name": "Poser ou enlever les tapis/carrelages du sol"
+},{
+  "calo": 563,
+  "key": "104",
+  "mins": 60,
+  "name": "Entraînement en circuit, général, peu de repos"
+},{
+  "calo": 281,
+  "key": "105",
+  "mins": 60,
+  "name": "Equitation, général"
+},{
+  "calo": 176,
+  "key": "106",
+  "mins": 60,
+  "name": "Equitation, marche"
+},{
+  "calo": 457,
+  "key": "107",
+  "mins": 60,
+  "name": "Equitation, trot"
+},{
+  "calo": 563,
+  "key": "108",
+  "mins": 60,
+  "name": "Escalade, varappe, descente en rappel"
+},{
+  "calo": 774,
+  "key": "109",
+  "mins": 60,
+  "name": "Escalade, varappe, ascension de rochers"
+},{
+  "calo": 422,
+  "key": "110",
+  "mins": 60,
+  "name": "Escrime"
+},{
+  "calo": 176,
+  "key": "111",
+  "mins": 60,
+  "name": "Etirements, léger"
+},{
+  "calo": 281,
+  "key": "112",
+  "mins": 60,
+  "name": "Etirements, hatha yoga"
+},{
+  "calo": 317,
+  "key": "113",
+  "mins": 60,
+  "name": "Exercices corporels, à la maison, allure légère ou modérée"
+},{
+  "calo": 563,
+  "key": "114",
+  "mins": 60,
+  "name": "Exercices corporels, à la maison, allure vigoureuse"
+},{
+  "calo": 421,
+  "key": "115",
+  "mins": 60,
+  "name": "Extraction du charbon (de la mine)"
+},{
+  "calo": 176,
+  "key": "116",
+  "mins": 60,
+  "name": "Faire la cuisine"
+},{
+  "calo": 89,
+  "key": "117",
+  "mins": 60,
+  "name": "Faire la queue (debout)"
+},{
+  "calo": 246,
+  "key": "118",
+  "mins": 60,
+  "name": "Faire les courses (avec un chariot)"
+},{
+  "calo": 176,
+  "key": "119",
+  "mins": 60,
+  "name": "Fléchettes (mur ou pelouse)"
+},{
+  "calo": 280,
+  "key": "120",
+  "mins": 60,
+  "name": "Footbag"
+},{
+  "calo": 563,
+  "key": "121",
+  "mins": 60,
+  "name": "Football (exercices, course drapeaux, général)"
+},{
+  "calo": 704,
+  "key": "122",
+  "mins": 60,
+  "name": "Football, mode compétition"
+},{
+  "calo": 493,
+  "key": "123",
+  "mins": 60,
+  "name": "Football, occasionnel, général"
+},{
+  "calo": 563,
+  "key": "124",
+  "mins": 60,
+  "name": "Foresterie"
+},{
+  "calo": 246,
+  "key": "125",
+  "mins": 60,
+  "name": "Frisbee (mode rythmé)"
+},{
+  "calo": 211,
+  "key": "126",
+  "mins": 60,
+  "name": "Frisbee, général"
+},{
+  "calo": 560,
+  "key": "127",
+  "mins": 60,
+  "name": "Frisbee, ultimate"
+},{
+  "calo": 480,
+  "key": "128",
+  "mins": 60,
+  "name": "Gainage (sur les mains)"
+},{
+  "calo": 211,
+  "key": "129",
+  "mins": 60,
+  "name": "Golf (mini-série ou frapper au loin)"
+},{
+  "calo": 246,
+  "key": "130",
+  "mins": 60,
+  "name": "Golf (utilisant le chariot)"
+},{
+  "calo": 352,
+  "key": "131",
+  "mins": 60,
+  "name": "Golf (tirant les clubs)"
+},{
+  "calo": 387,
+  "key": "132",
+  "mins": 60,
+  "name": "Golf (transportant des clubs)"
+},{
+  "calo": 281,
+  "key": "133",
+  "mins": 60,
+  "name": "Golf, général"
+},{
+  "calo": 317,
+  "key": "134",
+  "mins": 60,
+  "name": "Grattage, plâtrage, peinture, mettre du papier mural"
+},{
+  "calo": 281,
+  "key": "135",
+  "mins": 60,
+  "name": "Gymnastique, général"
+},{
+  "calo": 245,
+  "key": "136",
+  "mins": 60,
+  "name": "Gymnastique suédoise, maison, effort léger/modéré"
+},{
+  "calo": 211,
+  "key": "137",
+  "mins": 60,
+  "name": "Haltérophilie, allure modérée"
+},{
+  "calo": 422,
+  "key": "138",
+  "mins": 60,
+  "name": "Haltérophilie, allure vigoureuse"
+},{
+  "calo": 563,
+  "key": "139",
+  "mins": 60,
+  "name": "Handball (jeu en équipe)"
+},{
+  "calo": 844,
+  "key": "140",
+  "mins": 60,
+  "name": "Handball, général"
+},{
+  "calo": 563,
+  "key": "141",
+  "mins": 60,
+  "name": "Hockey sur gazon"
+},{
+  "calo": 563,
+  "key": "142",
+  "mins": 60,
+  "name": "Hockey sur glace"
+},{
+  "calo": 176,
+  "key": "143",
+  "mins": 60,
+  "name": "Hors-bord"
+},{
+  "calo": 840,
+  "key": "144",
+  "mins": 60,
+  "name": "Jaï-alaï (pelote basque)"
+},{
+  "calo": 352,
+  "key": "145",
+  "mins": 60,
+  "name": "Jardinage, général"
+},{
+  "calo": 211,
+  "key": "146",
+  "mins": 60,
+  "name": "Jeu de palet, de boulingrin"
+},{
+  "calo": 493,
+  "key": "147",
+  "mins": 60,
+  "name": "Jogging, général"
+},{
+  "calo": 563,
+  "key": "148",
+  "mins": 60,
+  "name": "Jogging, dans l'eau (aquajogging)"
+},{
+  "calo": 281,
+  "key": "149",
+  "mins": 60,
+  "name": "Jonglage"
+},{
+  "calo": 281,
+  "key": "150",
+  "mins": 60,
+  "name": "Jouer un instrument tout en marchant (ex. : parade)"
+},{
+  "calo": 704,
+  "key": "151",
+  "mins": 60,
+  "name": "Judo, jujitsu"
+},{
+  "calo": 704,
+  "key": "152",
+  "mins": 60,
+  "name": "Karaté"
+},{
+  "calo": 352,
+  "key": "153",
+  "mins": 60,
+  "name": "Kayak"
+},{
+  "calo": 490,
+  "key": "154",
+  "mins": 60,
+  "name": "Kickball"
+},{
+  "calo": 704,
+  "key": "155",
+  "mins": 60,
+  "name": "Kick Boxing"
+},{
+  "calo": 246,
+  "key": "156",
+  "mins": 60,
+  "name": "Laver le chien"
+},{
+  "calo": 554,
+  "key": "157",
+  "mins": 60,
+  "name": "Les Mills BodyAttack"
+},{
+  "calo": 270,
+  "key": "158",
+  "mins": 60,
+  "name": "Les Mills BodyBalance/BodyFlow"
+},{
+  "calo": 561,
+  "key": "159",
+  "mins": 60,
+  "name": "Les Mills BodyCombat"
+},{
+  "calo": 379,
+  "key": "160",
+  "mins": 60,
+  "name": "Les Mills BodyPump"
+},{
+  "calo": 558,
+  "key": "161",
+  "mins": 60,
+  "name": "Les Mills BodyStep"
+},{
+  "calo": 641,
+  "key": "162",
+  "mins": 60,
+  "name": "Les Mills Grit"
+},{
+  "calo": 524,
+  "key": "163",
+  "mins": 60,
+  "name": "Les Mills RPM"
+},{
+  "calo": 79,
+  "key": "164",
+  "mins": 60,
+  "name": "Lire (en s'asseyant)"
+},{
+  "calo": 493,
+  "key": "165",
+  "mins": 60,
+  "name": "Luge"
+},{
+  "calo": 493,
+  "key": "166",
+  "mins": 60,
+  "name": "Maçonnerie"
+},{
+  "calo": 457,
+  "key": "167",
+  "mins": 60,
+  "name": "Marche rapide (ex. : parade militaire)"
+},{
+  "calo": 281,
+  "key": "168",
+  "mins": 60,
+  "name": "Marcher/Courir, jouant avec enfant, allure modérée"
+},{
+  "calo": 352,
+  "key": "169",
+  "mins": 60,
+  "name": "Marcher/Courir, jouant avec enfant, allure vigoureuse"
+},{
+  "calo": 282,
+  "key": "170",
+  "mins": 60,
+  "name": "Masseur (position debout)"
+},{
+  "calo": 246,
+  "key": "171",
+  "mins": 60,
+  "name": "Menuiserie, charpenterie, général"
+},{
+  "calo": 352,
+  "key": "172",
+  "mins": 60,
+  "name": "Monocycle"
+},{
+  "calo": 281,
+  "key": "173",
+  "mins": 60,
+  "name": "Moto-cross"
+},{
+  "calo": 246,
+  "key": "174",
+  "mins": 60,
+  "name": "Motoneige"
+},{
+  "calo": 422,
+  "key": "175",
+  "mins": 60,
+  "name": "Musculation"
+},{
+  "calo": 281,
+  "key": "176",
+  "mins": 60,
+  "name": "Musique, batterie"
+},{
+  "calo": 141,
+  "key": "177",
+  "mins": 60,
+  "name": "Musique, guitare, classique (assis)"
+},{
+  "calo": 211,
+  "key": "178",
+  "mins": 60,
+  "name": "Musique, guitare, rock and roll (debout)"
+},{
+  "calo": 176,
+  "key": "179",
+  "mins": 60,
+  "name": "Musique, piano, orgue, violon"
+},{
+  "calo": 141,
+  "key": "180",
+  "mins": 60,
+  "name": "Musique, violoncelle, flûte, cor"
+},{
+  "calo": 563,
+  "key": "181",
+  "mins": 60,
+  "name": "Natation sychronisée"
+},{
+  "calo": 770,
+  "key": "182",
+  "mins": 60,
+  "name": "Natation, brasse papillon, général"
+},{
+  "calo": 704,
+  "key": "183",
+  "mins": 60,
+  "name": "Natation, brasse, général"
+},{
+  "calo": 563,
+  "key": "184",
+  "mins": 60,
+  "name": "Natation, dos, général"
+},{
+  "calo": 563,
+  "key": "185",
+  "mins": 60,
+  "name": "Natation, laps, allure modérée"
+},{
+  "calo": 704,
+  "key": "186",
+  "mins": 60,
+  "name": "Natation, laps, allure rapide"
+},{
+  "calo": 774,
+  "key": "187",
+  "mins": 60,
+  "name": "Natation, papillon, général"
+},{
+  "calo": 422,
+  "key": "188",
+  "mins": 60,
+  "name": "Natation, pour le loisir, général"
+},{
+  "calo": 281,
+  "key": "189",
+  "mins": 60,
+  "name": "Natation, sur place, allure modérée"
+},{
+  "calo": 704,
+  "key": "190",
+  "mins": 60,
+  "name": "Natation, sur place, allure rapide"
+},{
+  "calo": 281,
+  "key": "191",
+  "mins": 60,
+  "name": "Nettoyage du garage, du trottoir"
+},{
+  "calo": 387,
+  "key": "192",
+  "mins": 60,
+  "name": "Nettoyage du sol, utilisant mains et genoux"
+},{
+  "calo": 176,
+  "key": "193",
+  "mins": 60,
+  "name": "Nettoyage, allure lente ou modéré"
+},{
+  "calo": 246,
+  "key": "194",
+  "mins": 60,
+  "name": "Nettoyage, dans la maison, général"
+},{
+  "calo": 317,
+  "key": "195",
+  "mins": 60,
+  "name": "Nettoyage (voiture, fenêtres, etc.), lourd et vigoureux"
+},{
+  "calo": 351,
+  "key": "196",
+  "mins": 60,
+  "name": "Nettoyer les gouttières"
+},{
+  "calo": 176,
+  "key": "197",
+  "mins": 60,
+  "name": "Officier de police"
+},{
+  "calo": 245,
+  "key": "198",
+  "mins": 60,
+  "name": "Pansage de chevaux, lent"
+},{
+  "calo": 422,
+  "key": "199",
+  "mins": 60,
+  "name": "Pansage de chevaux, intense"
+},{
+  "calo": 211,
+  "key": "200",
+  "mins": 60,
+  "name": "Parachutisme"
+},{
+  "calo": 387,
+  "key": "201",
+  "mins": 60,
+  "name": "Patinage sur glace, 14 km/h ou moins"
+},{
+  "calo": 633,
+  "key": "202",
+  "mins": 60,
+  "name": "Patinage sur glace, allure rapide (> 14 km/h)"
+},{
+  "calo": 1056,
+  "key": "203",
+  "mins": 60,
+  "name": "Patinage sur glace, allure rapide (mode compétition)"
+},{
+  "calo": 493,
+  "key": "204",
+  "mins": 60,
+  "name": "Patinage sur glace, général"
+},{
+  "calo": 493,
+  "key": "205",
+  "mins": 60,
+  "name": "Patinage, roller"
+},{
+  "calo": 422,
+  "key": "206",
+  "mins": 60,
+  "name": "Pêche dans la rivière, dans les échassiers"
+},{
+  "calo": 176,
+  "key": "207",
+  "mins": 60,
+  "name": "Pêche sur bateau, position assise"
+},{
+  "calo": 246,
+  "key": "208",
+  "mins": 60,
+  "name": "Pêche sur la berge des rivières, position debout"
+},{
+  "calo": 281,
+  "key": "209",
+  "mins": 60,
+  "name": "Pêche, général"
+},{
+  "calo": 141,
+  "key": "210",
+  "mins": 60,
+  "name": "Pêche, sur la glace, position assise"
+},{
+  "calo": 281,
+  "key": "211",
+  "mins": 60,
+  "name": "Pédalo"
+},{
+  "calo": 422,
+  "key": "212",
+  "mins": 60,
+  "name": "Pelleter la neige, à la main"
+},{
+  "calo": 175,
+  "key": "213",
+  "mins": 60,
+  "name": "Pilates"
+},{
+  "calo": 211,
+  "key": "214",
+  "mins": 60,
+  "name": "Plongée (sous-marine, tremplin ou plate-forme)"
+},{
+  "calo": 352,
+  "key": "215",
+  "mins": 60,
+  "name": "Plongée en apnée (snorkeling)"
+},{
+  "calo": 493,
+  "key": "216",
+  "mins": 60,
+  "name": "Plongée sous-marine, général"
+},{
+  "calo": 563,
+  "key": "217",
+  "mins": 60,
+  "name": "Polo"
+},{
+  "calo": 553,
+  "key": "218",
+  "mins": 60,
+  "name": "Pompes, intense"
+},{
+  "calo": 843,
+  "key": "219",
+  "mins": 60,
+  "name": "Pompier en train d'éteindre une incendie"
+},{
+  "calo": 563,
+  "key": "220",
+  "mins": 60,
+  "name": "Port de charges lourdes (comme des briques)"
+},{
+  "calo": 493,
+  "key": "221",
+  "mins": 60,
+  "name": "Porter un sac à dos, général"
+},{
+  "calo": 422,
+  "key": "222",
+  "mins": 60,
+  "name": "Porter entre 7 et 11 kilos en montant l'escalier"
+},{
+  "calo": 563,
+  "key": "223",
+  "mins": 60,
+  "name": "Porter entre 12 et 22 kilos en montant l'escalier"
+},{
+  "calo": 351,
+  "key": "224",
+  "mins": 60,
+  "name": "Poser un double-vitrage"
+},{
+  "calo": 176,
+  "key": "225",
+  "mins": 60,
+  "name": "Pousser ou tirer une poussette avec enfant"
+},{
+  "calo": 281,
+  "key": "226",
+  "mins": 60,
+  "name": "Pousser un fauteuil roulant"
+},{
+  "calo": 141,
+  "key": "227",
+  "mins": 60,
+  "name": "Promenader à pied, moins de 3 km/h, allure très lente"
+},{
+  "calo": 176,
+  "key": "228",
+  "mins": 60,
+  "name": "Promenade à pied, 3 km/h, allure lente"
+},{
+  "calo": 246,
+  "key": "229",
+  "mins": 60,
+  "name": "Promenade à pied, 5 km/h, allure modérée"
+},{
+  "calo": 281,
+  "key": "230",
+  "mins": 60,
+  "name": "Promenade à pied, 5,5 km/h, en montée"
+},{
+  "calo": 422,
+  "key": "231",
+  "mins": 60,
+  "name": "Promenade à pied, 6,5 km/h, allure très rapide"
+},{
+  "calo": 281,
+  "key": "232",
+  "mins": 60,
+  "name": "Promenade à pied, à l'aide de béquilles"
+},{
+  "calo": 563,
+  "key": "233",
+  "mins": 60,
+  "name": "Promenade à pied, en montant"
+},{
+  "calo": 352,
+  "key": "234",
+  "mins": 60,
+  "name": "Promenade à pied, piste d'herbe"
+},{
+  "calo": 246,
+  "key": "235",
+  "mins": 60,
+  "name": "Promenade à pied, transportant 1 enfant ou 7 kgs"
+},{
+  "calo": 211,
+  "key": "236",
+  "mins": 60,
+  "name": "Promener le chien"
+},{
+  "calo": 493,
+  "key": "237",
+  "mins": 60,
+  "name": "Racketball, jeu normal"
+},{
+  "calo": 704,
+  "key": "238",
+  "mins": 60,
+  "name": "Racketball, mode compétition"
+},{
+  "calo": 352,
+  "key": "239",
+  "mins": 60,
+  "name": "Rafting"
+},{
+  "calo": 246,
+  "key": "240",
+  "mins": 60,
+  "name": "Rameur; allure lente"
+},{
+  "calo": 493,
+  "key": "241",
+  "mins": 60,
+  "name": "Rameur; allure modérée"
+},{
+  "calo": 598,
+  "key": "242",
+  "mins": 60,
+  "name": "Rameur; allure rapide"
+},{
+  "calo": 844,
+  "key": "243",
+  "mins": 60,
+  "name": "Rameur; allure très rapide"
+},{
+  "calo": 422,
+  "key": "244",
+  "mins": 60,
+  "name": "Randonnée pédestre, cross country"
+},{
+  "calo": 563,
+  "key": "245",
+  "mins": 60,
+  "name": "Raquette (sur neige)"
+},{
+  "calo": 281,
+  "key": "246",
+  "mins": 60,
+  "name": "Ratisser la pelouse"
+},{
+  "calo": 553,
+  "key": "247",
+  "mins": 60,
+  "name": "Redressement assis, intense"
+},{
+  "calo": 53,
+  "key": "248",
+  "mins": 60,
+  "name": "Regarder la TV"
+},{
+  "calo": 490,
+  "key": "249",
+  "mins": 60,
+  "name": "Remontée mécanique, général"
+},{
+  "calo": 211,
+  "key": "250",
+  "mins": 60,
+  "name": "Réparation automobile"
+},{
+  "calo": 351,
+  "key": "251",
+  "mins": 60,
+  "name": "Repeindre la maison à l'extérieur"
+},{
+  "calo": 704,
+  "key": "252",
+  "mins": 60,
+  "name": "Rugby"
+},{
+  "calo": 493,
+  "key": "253",
+  "mins": 60,
+  "name": "Saut à ski (montée au lieu du saut en emportant les skis)"
+},{
+  "calo": 581,
+  "key": "254",
+  "mins": 60,
+  "name": "Sauts avec écart (Jumping Jack), intense"
+},{
+  "calo": 176,
+  "key": "255",
+  "mins": 60,
+  "name": "Séance de jeu avec enfant, mouvements légers"
+},{
+  "calo": 113,
+  "key": "256",
+  "mins": 60,
+  "name": "S'asseoir dans une réunion"
+},{
+  "calo": 123,
+  "key": "257",
+  "mins": 60,
+  "name": "S'asseoir dans une classe, travail de bureau"
+},{
+  "calo": 352,
+  "key": "258",
+  "mins": 60,
+  "name": "Skateboard"
+},{
+  "calo": 422,
+  "key": "259",
+  "mins": 60,
+  "name": "Ski sur l'eau, ski nautique"
+},{
+  "calo": 493,
+  "key": "260",
+  "mins": 60,
+  "name": "Ski sur neige, général"
+},{
+  "calo": 352,
+  "key": "261",
+  "mins": 60,
+  "name": "Ski, en descente, allure lente"
+},{
+  "calo": 422,
+  "key": "262",
+  "mins": 60,
+  "name": "Ski, en descente, allure modérée"
+},{
+  "calo": 563,
+  "key": "263",
+  "mins": 60,
+  "name": "Ski, en descente, allure vigoureuse"
+},{
+  "calo": 493,
+  "key": "264",
+  "mins": 60,
+  "name": "Ski, ski de fond, allure lente"
+},{
+  "calo": 563,
+  "key": "265",
+  "mins": 60,
+  "name": "Ski, ski de fond, allure modéré"
+},{
+  "calo": 633,
+  "key": "266",
+  "mins": 60,
+  "name": "Ski, ski de fond, allure vigoureuse"
+},{
+  "calo": 985,
+  "key": "267",
+  "mins": 60,
+  "name": "Ski, ski de fond, allure course"
+},{
+  "calo": 1161,
+  "key": "268",
+  "mins": 60,
+  "name": "Ski, ski de fond, en montée"
+},{
+  "calo": 434,
+  "key": "269",
+  "mins": 60,
+  "name": "Snowboard"
+},{
+  "calo": 352,
+  "key": "270",
+  "mins": 60,
+  "name": "Softball, lancer rapide ou lent"
+},{
+  "calo": 280,
+  "key": "271",
+  "mins": 60,
+  "name": "Softball, arbitrage"
+},{
+  "calo": 211,
+  "key": "272",
+  "mins": 60,
+  "name": "Soins des enfants (bain, nourrir, etc.), position assise"
+},{
+  "calo": 246,
+  "key": "273",
+  "mins": 60,
+  "name": "Soins des enfants (bain, nourrir, etc.), position debout"
+},{
+  "calo": 212,
+  "key": "274",
+  "mins": 60,
+  "name": "Soudage, ou travailler dans une salle de cinéma"
+},{
+  "calo": 211,
+  "key": "275",
+  "mins": 60,
+  "name": "Sortir la poubelle"
+},{
+  "calo": 490,
+  "key": "276",
+  "mins": 60,
+  "name": "Spinning"
+},{
+  "calo": 844,
+  "key": "277",
+  "mins": 60,
+  "name": "Squash"
+},{
+  "calo": 1022,
+  "key": "278",
+  "mins": 60,
+  "name": "Step, intense"
+},{
+  "calo": 633,
+  "key": "279",
+  "mins": 60,
+  "name": "Stepper, machine simulateur d'escalier"
+},{
+  "calo": 211,
+  "key": "280",
+  "mins": 60,
+  "name": "Surf (couché ou debout sur la planche)"
+},{
+  "calo": 246,
+  "key": "281",
+  "mins": 60,
+  "name": "Tâches ménagères, faire le ménage, général"
+},{
+  "calo": 707,
+  "key": "282",
+  "mins": 60,
+  "name": "Tae Bo"
+},{
+  "calo": 704,
+  "key": "283",
+  "mins": 60,
+  "name": "Tae Kwon Do"
+},{
+  "calo": 281,
+  "key": "284",
+  "mins": 60,
+  "name": "Tai chi"
+},{
+  "calo": 281,
+  "key": "285",
+  "mins": 60,
+  "name": "Tennis de table, ping-pong"
+},{
+  "calo": 422,
+  "key": "286",
+  "mins": 60,
+  "name": "Tennis, double"
+},{
+  "calo": 493,
+  "key": "287",
+  "mins": 60,
+  "name": "Tennis, général"
+},{
+  "calo": 563,
+  "key": "288",
+  "mins": 60,
+  "name": "Tennis, simple"
+},{
+  "calo": 246,
+  "key": "289",
+  "mins": 60,
+  "name": "Tir à l'arc (en tant que sport et non en situation de chasse)"
+},{
+  "calo": 421,
+  "key": "290",
+  "mins": 60,
+  "name": "Toilettage du cheval"
+},{
+  "calo": 176,
+  "key": "291",
+  "mins": 60,
+  "name": "Tondre la pelouse, assis sur la tondeuse"
+},{
+  "calo": 387,
+  "key": "292",
+  "mins": 60,
+  "name": "Tondre la pelouse, général"
+},{
+  "calo": 532,
+  "key": "293",
+  "mins": 60,
+  "name": "Tractions (exercice de musculation), intense"
+},{
+  "calo": 246,
+  "key": "294",
+  "mins": 60,
+  "name": "Trampoline"
+},{
+  "calo": 106,
+  "key": "295",
+  "mins": 60,
+  "name": "Travail (léger) dans un bureau"
+},{
+  "calo": 96,
+  "key": "296",
+  "mins": 60,
+  "name": "Travailler sur l'ordinateur"
+},{
+  "calo": 212,
+  "key": "297",
+  "mins": 60,
+  "name": "Travaux d'électricité, plomberie"
+},{
+  "calo": 477,
+  "key": "298",
+  "mins": 60,
+  "name": "Vélo elliptique (allure modérée)"
+},{
+  "calo": 566,
+  "key": "299",
+  "mins": 60,
+  "name": "Vélo elliptique (allure vigoureuse)"
+},{
+  "calo": 210,
+  "key": "300",
+  "mins": 60,
+  "name": "Voile, bateau, planche à voile, général"
+},{
+  "calo": 352,
+  "key": "301",
+  "mins": 60,
+  "name": "Voile, en mode compétition"
+},{
+  "calo": 211,
+  "key": "302",
+  "mins": 60,
+  "name": "Voile, planche à voile, général"
+},{
+  "calo": 211,
+  "key": "303",
+  "mins": 60,
+  "name": "Volley-ball dans l'eau"
+},{
+  "calo": 563,
+  "key": "304",
+  "mins": 60,
+  "name": "Volley-ball, à la plage"
+},{
+  "calo": 211,
+  "key": "305",
+  "mins": 60,
+  "name": "Volley-ball, hors compétition"
+},{
+  "calo": 281,
+  "key": "306",
+  "mins": 60,
+  "name": "Volley-ball, mode compétition, dans un gymnase"
+},{
+  "calo": 493,
+  "key": "307",
+  "mins": 60,
+  "name": "Wallyball, général"
+},{
+  "calo": 704,
+  "key": "308",
+  "mins": 60,
+  "name": "Water polo"
+},{
+  "calo": 245,
+  "key": "309",
+  "mins": 60,
+  "name": "Wii baseball"
+},{
+  "calo": 203,
+  "key": "310",
+  "mins": 60,
+  "name": "Wii bowling"
+},{
+  "calo": 378,
+  "key": "311",
+  "mins": 60,
+  "name": "Wii boxe"
+},{
+  "calo": 175,
+  "key": "312",
+  "mins": 60,
+  "name": "Wii golf"
+},{
+  "calo": 280,
+  "key": "313",
+  "mins": 60,
+  "name": "Wii tennis"
+},{
+  "calo": 616,
+  "key": "314",
+  "mins": 60,
+  "name": "Zumba"
+}
+]

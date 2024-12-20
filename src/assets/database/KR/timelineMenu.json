@@ -1,0 +1,2053 @@
+[
+  {
+    "key": 0,
+    "samples": [
+      {
+        "id": 0,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast",
+                "description": "1 cup low-fat plain Greek yogurt+1/4 cup raspberries+3 Tbsp. chopped walnuts"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks",
+                "description": "1 medium orange"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch",
+                "description": "1 serving White Bean & Veggie Salad"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks",
+                "description": "1 large apple+2 Tbsp. natural peanut butter"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "1 serving Greek Roasted Fish with Vegetables"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "1 serving Spinach, Peanut Butter & Banana Smoothie"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "1/4 cup unsalted dry-roasted almonds"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "1 serving Vegan Superfood Buddha Bowls"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "1 medium bell pepper, sliced"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "1 serving Slow-Cooker Vegetable Minestrone Soup+2 cups mixed greens+1/2 avocado, sliced+1 serving Citrus Vinaigrette"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "1 cup low-fat plain Greek yogurt+1/4 cup raspberries+3 Tbsp. chopped walnuts"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "1/4 cup unsalted dry-roasted almonds"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "1 serving Vegan Superfood Buddha Bowls"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "1 medium orange"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "1 serving Slow-Cooker Vegetable Minestrone Soup+2 cups mixed greens+1/2 avocado+1 serving Citrus Vinaigrette"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "1 serving Spinach, Peanut Butter & Banana Smoothie"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "1 medium bell pepper, sliced+1/4 cup hummus+"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "1 serving Vegan Superfood Buddha Bowls"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "1/4 cup unsalted dry-roasted almonds"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "1 serving Hummus-Crusted Chicken+1 serving Balsamic & Parmesan Roasted Broccoli"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "1 cup low-fat plain Greek yogurt+1/4 cup raspberries+3 Tbsp. chopped walnuts"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "1 medium apple+2 Tbsp. natural peanut butter"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "1 serving Vegan Superfood Buddha Bowls"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "1 medium orange"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "1 serving Chicken & Kale Soup+2 cups mixed greens+1 serving Citrus Vinaigrette"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "1 serving Spinach, Peanut Butter & Banana Smoothie"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "1 medium apple+2 Tbsp. natural peanut butter"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "1 serving Chicken & Kale Soup+1 medium banana"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "1/3 cup cucumber, sliced+1/4 cup hummus"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "1 serving Sheet-Pan Balsamic-Parmesan Roasted Chickpeas & Vegetables"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "1 serving Spinach, Peanut Butter & Banana Smoothie"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "1/4 cup unsalted dry-roasted almonds"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "1 serving Chicken & Kale Soup+1 medium banana"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "1 medium bell pepper+1/4 cup hummus"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "1 serving Greek Salad with Edamame+1 medium apple"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast",
+                "description": "Scrambled eggs in butter on a bed of lettuce topped with avocado"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks",
+                "description": "Sunflower seeds"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch",
+                "description": "Spinach salad with grilled salmon"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks",
+                "description": "Celery and pepper strips dipped in guacamole"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Pork chop with cauliflower mash and red cabbage slaw"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Bulletproof coffee (made with butter and coconut oil), hard-boiled eggs"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Macadamia nuts"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Tuna salad stuffed in tomatoes"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Roast beef and sliced cheese roll-ups"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Meatballs on zucchini noodles, topped with cream sauce"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Cheese and veggie omelet topped with salsa"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Plain, full-fat Greek yogurt topped with crushed pecans"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Sashimi takeout with miso soup"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Smoothie made with almond milk, greens, almond butter, and protein powder"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Roasted chicken with asparagus and sautéed mushrooms"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Smoothie made with almond milk, greens, almond butter, and protein powder"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Two hard-boiled eggs"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Chicken tenders made with almond flour on a bed of greens with cucumbers and goat cheese"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Sliced cheese and bell pepper slices"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Grilled shrimp topped with a lemon butter sauce with a side of asparagus"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Fried eggs with bacon and a side of greens"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "A handful of walnuts with a quarter cup of berries"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Grass-fed burger in a lettuce “bun” topped with avocado and a side salad"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Celery sticks dipped in almond butter"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Baked tofu with cauliflower rice, broccoli, and peppers, topped with a homemade peanut sauce"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Baked eggs in avocado cups"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Kale chips"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Poached salmon avocado rolls wrapped in seaweed (rice-free)"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Meat-based bar (turkey or pork)"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Grilled beef kebabs with peppers and sautéed broccolini"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Eggs scrambled with veggies, topped with salsa"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Dried seaweed strips and cheese"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Sardine salad made with mayo in half an avocado"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Turkey jerky (look for no added sugars)"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Broiled trout with butter, sautéed bok choy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Eggs Scrambled with Sautéed Onions and Cheddar Cheese"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Atkins Peanut Butter Fudge Crisp Bar"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "6 oz deli ham over 2 cups mixed greens with ½ Hass avocado+5 large black olives+½ cup sliced cucumbers+2 Tbsp blue cheese dressing"
+              },
+              {
+                "timeline": "Snacks" ,
+                "description": "3/4 medium zucchini cut into sticks+2 oz provolone cheese"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Baked Catfish with Broccoli and Herb-Butter Blend"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Atkins Frozen Farmhouse-Style Sausage Scramble"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "1 cup sliced red bell pepper with 2 Tbsp ranch dressing"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "1 serving Tuna-Celery Salad with Mixed Greens+3 cherry tomatoes"
+              },
+              {
+                "timeline": "Snacks" ,
+                "description": "1 stalk celery with 2 Tbsp cream cheese"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "7 oz bone-in pork chop with Cauliflower-Cheddar Mash"
+              }
+            ]
+         },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Spinach and Swiss Cheese Omelet"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Atkins Strawberry Shake"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Grilled chicken over baby spinach, tomato, and avocado salad"
+              },
+              {
+                "timeline": "Snacks" ,
+                "description": "2 oz ham+2 Tbsp cream cheese+2 dill pickle spears"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Beef Sauteed with Vegetables Over Romaine"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Cheese and Spinach Omelet Topped with Avocado and Salsa"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Atkins French Vanilla Shake"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Atkins Frozen Crustless Chicken Pot Pie"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "½ medium zucchini cut into sticks+1 oz monterey jack cheese"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "5 oz hamburger topped with 1 oz pepper jack cheese+1 small tomato+½ Hass avocado+2 romaine lettuce leaves"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "2 large eggs+¼ cup shredded cheddar+4 Tbsp Salsa Cruda"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Atkins Cafe Caramel Shake"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Atkins Frozen Chili Con Carne with a side of 2 cups mixed greens and 2 Tbsp Italian Dressing"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "1 cup sliced red bell pepper with 2 Tbsp ranch dressing"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Half of a California cobb salad with ranch dressing from California Pizza Kitchen"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Red Bell Pepper Filled with Creamy Eggs and Spinach"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Atkins Strawberry Shake"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Tuna salad with 4 oz tuna+2 stalks celery+1 dill pickle spear+2 Tbsp mayonnaise"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "1 portobello mushroom cap+¼ cup Salsa Cruda+1 oz pepper jack cheese"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "5 oz Italian sausage+¼ medium onion sliced+½ red bell pepper sliced with a side of 2 cups baby spinach+½ cup sliced mushrooms+2 Tbsp Blue Cheese Dressing"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Pumpkin Flax Pancakes"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "5 whole snap peas and 2 oz cheddar"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "6 oz chicken breast over 2 cups Romaine hearts with 5 radishes and 2 Tbsp Creamy Italian Dressing"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "2 stalks celery+2 Tbsp cream cheese"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Baked Salmon With Charmoula Over Broccoli"
+              }
+            ]
+          }
+        ]
+      }
+    ] 
+  },
+  {
+    "key": 2,
+    "samples": [
+      {
+        "id": 0,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "T3 Scrambled Eggs+3 slices Wheat Toast, buttered+Glass of Orange Juice"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "1 banana"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "100g Chicken Breast (cooked)+2 pieces lean Back Bacon (grilled)+1 Avocado, 80g Mixed Salad Leaves, 50g Tomatoes, Cucumber+1 Tbsp Olive Oil, Vinegar, Seasoning"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "25g Unsalted Nuts"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "3 slices Meatloaf (1 inch each)+200g Mashed Potato+80g Peas, 2 Carrots"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "30g Dark Chocolate"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "4 slices Whole-Wheat Bread+3 tbsp Peanut Butter+1 Banana, 3 tsp Honey"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "1 Apple (sliced)+1 tbsp Peanut butter"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "2 Baked Potatoes (200g each)+100g Tuna, 80g Sweet Corn, 1 tbsp Mayonnaise+Green Salad dressed with 1 tbsp Olive Oil, Vinegar, Seasoning"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "1 Avocado (mashed), on 3 Rye Crackers"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "4 Chicken Thighs (grilled/roasted)+150g (uncooked weight) Brown Rice+Roast Mediterranean Vegetables (zucchini, red onion, capsicum, eggplant etc.) in 1 tbsp Olive Oil"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "65g Oats, 300ml Whole Milk+1 Banana, 25g Nuts, 2 tsp Honey+Glass of Orange Juice"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Granola Bar"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "200g Canned Salmon+2 Whole-Wheat Pitta Breads+2 tbsp Mayonnaise, Salad+1 apple"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "1 Mashed Banana on 1 slice Wheat Toast"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Large Cod Fillet (150g)+300g Potato Wedges, cooked in 1 tbsp Oil+Mixed Salad Leaves, 1 tbsp Olive Oil, seasoning"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "1 Fruit Yogurt"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "50g Granola, 30g Oats, 150ml Whole Milk+25g Nuts & 25g Raisins+Glass of Orange Juice"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Banana"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "1 serving Squash, Lentil & Bean One-Pot+Fruit Yogurt"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "30g Cheese+2 Rye Crackers"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "1 serving Bolognaise+150g Whole-Wheat Spaghetti+Mixed Salad Leaves, 1 tbsp Olive Oil, seasoning"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "9 Dried Apricots"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "50g Granola, 30g Oats, 150ml Whole Milk+25g Nuts & 25g Raisins+Glass of Orange Juice"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "25g Unsalted Nuts"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "1 serving Tomato & Seafood Stew+Buttered Whole-Wheat Roll+1 apple"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "1 tbsp Peanut Butter+1 slice Whole-Wheat Bread"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "1 serving Chicken Casserole+100g Cabbage+80g Peas"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "30g Dark Chocolate"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "3 Poached Eggs, 2 Slices Whole-Wheat Toast, buttered+2 pieces Lean Back Bacon, grilled+Mushroom & Tomatoes, 1 tbsp Olive Oil, grilled+Glass of Orange Juice"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "1 slice Whole-Wheat Bread+1 tbsp Peanut Butter, 1 Banana, sliced"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "150g Tuna, 1/2 can Mixed Beans+Salad Leaves, 1 tbsp Olive Oil+Whole-Wheat Roll"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "30g Nuts+9 Dried Apricots"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "150g Chicken, 40g Cashew Nuts+100g Mixed Vegetables (cabbage, carrots, broccoli)+2 tbsp Oil, 1 tbsp Honey, 1 tbsp Soy Sauce+150g Whole-Wheat Noodles"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "40g Oats, 200ml Whole Milk, 1 tsp Honey"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Pancakes (2 Eggs, 40g Whole-Wheat Flour, 30g Ground Almonds, 150ml Whole Milk, 1 Mashed Banana)+Toppings: Fruit, 50g Greek Yogurt, 2 tsp Honey+1 glass Prune Juice"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "30g Cheese+2 Rye Crackers"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "140g Canned Sardines, mashed on 3 slices Whole-Wheat Bread+Salad Leaves, 1 Avocado, 50g Tomatoes, 1 tbsp Olive Oil+1 apple"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "50g Granola+150ml Whole Milk"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "200g Roast Beef+300g Roast Potatoes+Mixed Vegetables (carrots, peas, parsnips, sweet corn)"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "30g Dark Chocolate"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "2 servings Vegan Freezer Breakfast Burritos+1 cup strawberries"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "1 serving Almond-Honey Power Bar"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "2 servings Vegetable & Tuna Pasta Salad+1 cup mango chunks"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "1 large apple+1 Tbsp. natural peanut butter"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "1 serving Sheet-Pan Maple-Mustard Pork Chops and Carrots+1 1/2 cups Easy Brown Rice"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "1 bowl of chicken vermicelli,1 banana"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "1 serving Raspberry Peach Mango Smoothie Bowl+1 hard-boiled egg"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "15 baby carrots+3 Tbsp. hummus+1 medium orange"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "1 serving Roasted Butternut Squash & Root Vegetables with Cauliflower Gnocchi+1 slice whole-wheat toast with 1 tsp. unsalted butter"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "1 serving Homemade Microwave Popcorn+1 large banana+8 unsalted almonds"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "2 servings Philly Cheese Steak Sloppy Joes+2 cups fresh spinach & 1 cup shredded carrots topped with ½ Tbsp. olive oil & ½ Tbsp. balsamic vinegar"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "2 servings Maple-Nut Granola+1 cup 2% milk"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "1 slice Swiss cheese+8 whole-wheat crackers"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "1 serving Roasted Butternut Squash & Root Vegetables with Cauliflower Gnocchi+1 slice whole-wheat toast with 1 tsp. unsalted butter"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "6 oz. 2% plain Greek yogurt+1 cup strawberries+1 Tbsp. honey"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "2 servings Creamy Chicken, Brussels Sprouts and Mushroom One-Pot Pasta"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "2 servings Maple-Nut Granola+1 cup 2% milk"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "15 carrot sticks+1/4 cup hummus+1 medium orange"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "1 serving Roasted Butternut Squash & Root Vegetables with Cauliflower Gnocchi+1 slice whole-wheat toast with 1 tsp. unsalted butter"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "4 graham crackers+1 medium apple"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "1 serving Southern Style Oven-Fried Chicken+1 serving Greek Potato Salad+1 serving Garlicky Green Beans"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "1 serving Raspberry Peach Mango Smoothie Bowl+2 hard-boiled eggs"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "2 servings Almond-Honey Power Bars"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "1 serving Roasted Butternut Squash & Root Vegetables with Cauliflower Gnocchi+1 slice whole-wheat toast with 1 tsp. unsalted butter"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "2 servings Homemade Microwave Popcorn"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "2 servings Green Goddess Salad with Chicken+1 slice whole-wheat toast with 1 tsp. unsalted butter"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "1 serving Raspberry Peach Mango Smoothie Bowl+1 medium orange+2 hard-boiled eggs"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "1 medium apple+1 Tbsp. peanut butter"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "2 servings Creamy Avocado and White Bean Wraps+1 cup strawberries"
+              },
+              {
+                "timeline": "Snacks" ,
+                "description": "4 graham crackers"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "2 servings Tortilla Chip Flounder with Black Bean Salad"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "1 serving Vegan Freezer Burritos+1 medium banana+2 Tbsp. peanut butter"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "6 oz. 2% plain Greek yogurt+½ cup blueberries+1 Tbsp. honey"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "2 servings Creamy Avocado and White Bean Wraps"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "1 serving Almond-Honey Power Bar"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "1 serving Creamed Spinach-Stuffed Salmon+2 servings Garlicky Green Beans+3/4 cup Easy Brown Rice"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Ham & cheese omelet prepared in 1 Tbs olive oil (2 eggs, 1 oz. ham, 1/4 c cheese)+Cranberry juice (1 c)"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "High Calorie Shake (Coffee)"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Barbeque (2 Tbs) chicken (3.5 oz)+Potato salad (1/2 c)+Fruit (1/2 c)+Whole milk (1 c)"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Greek yogurt parfait (1 c)"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Spaghetti with meatballs (1-1.5 c)+Garlic bread (1 slice)+Fruit (1/2 c)+Whole milk (1 c)"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "High Calorie Shake (Chocolate Mint)"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Waffles (1) with butter (1 Tbs) & syrup (2 Tbs)+Greek yogurt with fruit (1 single serve container)+Whole milk (1 c)"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "High Calorie Shake (Cherry Pie)"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Ham salad sandwich (1/2 c on 2 pc bread)+Edamame (1/2 c)+Whole milk (1 c)"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Cottage cheese (1/2 c)+Canned fruit (1 snack pack)"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Lasagna (1/2 c)+Roll (1) with butter (1 Tbs)+Whole milk (1 c)"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "High Calorie Shake (Vanilla Bean)"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [              
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Scrambled eggs (1 large)+Toast (1 slice) with butter (1 Tbs) & jelly (1 Tbs)+Fruit juice (1/2 c)"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "High Calorie Shake (Butterscotch)"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Cheeseburger with bun (1 sand)+Fries (1 small serving)+Chocolate milk shake (1 c)"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Banana (1) with peanut butter (2 Tbs)"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Salmon (1 sm fillet) prepared in butter (1 Tbs)+Rice (1/2 c)+Broccoli (1/2 c)+Whole milk (1 c)"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "Cookies (3)+Whole milk (1 c)"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Oatmeal (1/2 c) with nut butter (2 Tbs)+Fruit juice (1/2 c)"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "String cheese (1 stick)+Crackers (5)+Whole milk (1 c)"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Tuna salad sandwich (1/2 c on 2 pc bread)+Baby carrots (5)+Whole milk (1 c)"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Banana (1) with peanut butter (2 Tbs)+Whole milk (1 c)"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Ground beef tacos (1 taco)+Refried beans (1/2 c)+Rice (1/2 c)+Whole milk (1 c)"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "High Calorie Smoothie (Peanut Butter Cup)"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "English muffin (1) with nut butter (2 Tbs)+Whole milk (1 c)"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Greek yogurt (1 single serving container)+Berries (1/2 c)"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Chicken & cheese pita (1 pita)+avocado (2 Tbs)+Cherry tomatoes (1/2 c)+Whole milk (1 c)"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "String cheese (1 stick)+Crackers (5)+Whole milk (1 c)"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Fettuccine alfredo (3/4 cup prepared) with shrimp (1/2 c) & broccoli (1/2 c)+Garlic bread (1 slice)+Whole milk (1 c)"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "High Calorie Shake (Strawberry)"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Oatmeal (1/2 c) with nut butter (2 Tbs)+Fruit juice (1/2 c)"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "High Calorie Smoothie (Strawberry Banana)"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Chicken stir fry (1 c) with veggies (1/2 c)+Pineapple (1/2 c)+Whole milk (1 c)"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Hard-boiled egg (1 large)+Cherry tomatoes (1/2 c)"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Meat with potatoes & gravy (1 c total meal)+Cooked carrots (1/2 c)+Roll (1) with butter (1 Tbs)+Whole milk (1 c)"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "High Calorie Shake (Hazelnut Chocolate)"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Hard-boiled egg (1 large)+Fruit (1/2 c)+Toast (1 slice) with butter (1 Tbs)& jelly (1 Tbs)+Whole milk (1 c)"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "High Calorie Shake (Avocado)"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Tomato soup (1 c) made with milk+Grilled cheese (1/2 sandwich)+Whole milk (1 c)"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Cookies (3)+Whole milk (1 c)"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Meatloaf with gravy (5 oz)+Green beans (1/2 c)+Bread (1 slice) & butter (2 Tbs)+Whole milk (1 c)"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "High Calorie Smoothie (Blueberry Blast)"
+              }
+            ]
+          }
+        ]
+      }
+    ] 
+  },
+  {
+    "key": 1,
+    "samples": [
+      {
+        "id": 0,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "One grapefruit+Two poached eggs (or fried in a non-stick pan)+Two slices whole-grain toast with one pat of butter each+One cup low-fat milk+One cup of black coffee or herbal tea"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "One banana+One cup plain yogurt with two tablespoons honey+Glass of water"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Chicken breast (6-ounce portion), baked or roasted (not breaded or fried)+Large garden salad with tomato and onion with one cup croutons, topped with one tablespoon oil and vinegar (or salad dressing)+Glass of water "
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "One cup carrot slices+Three tablespoons hummus+One-half piece of pita bread+Glass of water or herbal tea"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "One cup steamed broccoli+One cup of brown rice+Halibut (four-ounce portion)+Small garden salad with one cup spinach leaves, tomato, and onion topped with two tablespoons oil and vinegar or salad dressing+One glass white wine (regular or dealcoholized)+Sparkling water with lemon or lime slice"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "One cup blueberries+Two tablespoons whipped cream (the real stuff—whip your own or buy in a can)+Glass of water"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "One whole-wheat English muffin with two tablespoons peanut butter+One orange+Large glass (12 ounces) non-fat milk+One cup of black coffee or herbal tea"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Two oatmeal cookies with raisins+Glass of water, hot tea, or black coffee"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "A turkey sandwich (six ounces of turkey breast meat, large tomato slice, green lettuce and mustard on two slices of whole wheat bread+One cup low-sodium vegetable soup+Glass of water"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "One cup (about 30) grapes+Glass of water or herbal tea"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Five-ounce sirloin steak+One cup mashed potatoes+One cup cooked spinach+One cup green beans+One glass beer (regular, lite or non-alcohol)+Sparkling water with lemon or lime slice"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "Two slices whole wheat bread with two tablespoons jam (any variety of fruit)+One cup non-fat milk+Glass of water"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "One medium bran muffin+One serving turkey breakfast sausage+One orange+One cup non-fat milk+One cup black coffee or herbal tea"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "One fresh pear+One cup of flavored soy milk+Glass of water, hot tea, or black coffee"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Low sodium chicken noodle soup with six saltine crackers+One medium apple+Water"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "One apple+One slice Swiss cheese+Sparkling water with lemon or lime slice"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "8-ounce serving of turkey breast meat+One cup baked beans+One cup cooked carrots+One cup cooked kale+One glass of wine"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "One cup of frozen yogurt+One cup fresh raspberries"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "One cup whole wheat flakes with one cup non-fat milk and one teaspoon sugar+One banana+One slice whole-grain toast with one tablespoon peanut butter+One cup of black coffee or herbal tea"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "One cup grapes and one tangerine+Glass of water, hot tea, or black coffee"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Tuna wrap with one wheat flour tortilla, one-half can water-packed tuna (drained), one tablespoon mayonnaise, lettuce, and sliced tomato+One sliced avocado+One cup non-fat milk"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "One cup cottage cheese (1-percent fat)+One fresh pineapple slice+Four graham crackers+Sparkling water with lemon or lime slice"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "One serving lasagna+Small garden salad with tomatoes and onions topped with one tablespoon salad dressing+One cup non-fat milk"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "One apple+One cup non-fat milk"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "One piece of French toast with one tablespoon maple syrup+One scrambled or poached egg+One serving turkey bacon+One cup orange juice+One cup black coffee or herbal tea"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "One cup sliced carrots+One cup cauliflower pieces+Two tablespoons ranch dressing+Glass of water, hot tea, or black coffee"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Veggie burger on a whole grain bun+One cup northern (or other dry) beans+One cup non-fat milk"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "One apple+One pita with two tablespoons hummus+Sparkling water with lemon or lime slice"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "One trout filet+One cup green beans+One cup brown rice+One small garden salad with two tablespoons salad dressing+One glass of beer+Sparkling water with lemon or lime slice"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "One cup cottage cheese+One fresh peach"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "One cup corn flakes with two teaspoons sugar and one cup non-fat milk+One banana+One hard-boiled egg+One cup black coffee or herbal tea"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "One cup plain yogurt with one tablespoon honey, one-half cup blueberries, and one tablespoon almonds+Glass of water, hot tea, or black coffee"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "One cup whole wheat pasta with one-half cup red pasta sauce+Medium garden salad with tomatoes and onions and two tablespoons salad dressing+Glass of water"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "One and one-half cup cottage cheese+One fresh peach+Glass of water"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Four and one-half ounce serving of pork loin+Small garden salad with tomatoes and onions topped with two tablespoons oil and vinegar (or salad dressing)+One small baked sweet potato+One cup asparagus+One glass wine (regular or dealcoholized)+Sparkling water with lemon or lime slice"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "Five graham crackers+One cup non-fat milk+One cup strawberries"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "One cup cooked oatmeal with one-half cup blueberries, one-half cup non-fat milk, and one tablespoon almond slivers+Two slices turkey bacon+One cup non-fat milk to drink+One cup black coffee or herbal tea"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "One cup plain yogurt with one tablespoon honey, one-half cup strawberries, and two tablespoons almond slivers+Glass of water, hot tea, or black coffee"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Six-ounce baked chicken breast+Large garden salad with tomatoes and onions and two tablespoons salad dressing+One baked sweet potato+One whole-wheat dinner roll.+Glass of water"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "One cup raw broccoli florets+One cup raw sliced carrot+Two tablespoons veggie dip or salad dressing+One fresh peach+Glass of water"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "3-ounce serving of baked or grilled salmon+One-half cup black beans+One cup Swiss chard+One cup brown rice+One whole wheat dinner roll with a pat of butter+Sparkling water with lemon or lime slice"
+              },
+              {
+                "time": "20:30",
+                "timeline": "Snacks" ,
+                "description": "One Orange"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Smoked salmon and egg on a whole grain bagel with a portion of watercress+1 medium low fat mocha drink"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "A portion of hummus and raw vegetables for dipping+two oatcakes"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "A bowl of bean and vegetable soup drizzled with extra virgin olive oil+1 slice of whole grain seeded bread+a portion of raw, fa side lightly steamed vegetables, such as carrots, broccoli, or garden peas+a portion of fruit"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Chocolate n’ice cream"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Greek mac and cheese casserole+a portion of steamed broccoli, asparagus, or another green vegetable+Greek yogurt with berries and nuts for dessert"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Berry smoothie with protein powder"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Two rice cakes spread with 2 tablespoons (tbsp) peanut butter and topped with apple slices"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Tuna salad sandwich on whole grain bread+a small bag of root vegetable chips+sliced crudités, such as carrots or bell peppers+a banana"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Raspberry frozen yogurt pop"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Salmon with pineapple-avocado salsa and a portion of leafy greens+Cocoa chia seed pudding, a handful of strawberries+an oat milk hot drink before bed"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Oatmeal with banana, pumpkin seeds, and a drizzle of maple syrup+coffee with low fat milk"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Chocolate peanut butter cup, apple slices"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Mashed avocado, roast turkey, and chopped tomatoes on two slices of whole grain toast, topped with extra virgin olive oil, shelled hemp seeds, and cayenne pepper, a handful of blueberries"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "A portion of hummus with raw vegetables for dipping+two oatcakes"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Chicken+vegetable stir fry+1 cup of steamed brown rice+two squares of dark chocolate+a handful of walnuts"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Apple and peanut butter on a wholewheat English muffin+1 cup of low fat milk"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Carrot Cake Energy Bar"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "One medium baked potato with 100 grams (g) beef chili and 28 g creme fraiche+a side serving of green beans or peas"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "A boiled egg+two oatcakes+a portion of arugula"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Veggie Korean bibimbap+kombucha drink"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "40 g granola+100 g unsweetened Greek yogurt+100 g blueberries+3 tbsp flax seeds+coffee with low fat milk"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Tofu “egg” salad stuffed tomato"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Tuna salad sandwich on whole grain bread with plenty of salad vegetables, such as cucumbers, peppers, diced tomatoes, and lettuce+a banana+a handful of nuts+one sliced orange+a cup of lemon and ginger herbal tea"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Vegan oat chocolate chip cookie, apple slices"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Rotisserie chicken tacos with pineapple salsa+a small baked sweet potato+a portion of arugula+two squares of dark chocolate+a handful of walnuts"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Two quinoa edamame egg muffins+a portion of grilled tomatoes and mushrooms drizzled with olive oil+a glass of almond milk"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Two rice cakes spread with 2 tbsp peanut butter and sliced banana"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Slow cooker black bean soup+a portion of watercress+roasted squash with paprika and rosemary"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Lemon, pistachio & berry frozen yogurt bark"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "One medium baked potato+100 g chili+28 g creme fraiche+a portion of leafy greens+three squares of dark chocolate+a handful of walnuts"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Sardines on two slices of whole grain toast with spread+a portion of fresh spinach+medium low fat mocha drink"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "One quarter cup Brazil nuts+1 banana"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "A grilled chicken fillet with 1 cup cooked broccoli+half a cup of cooked carrots+one corn on the cob+an orange"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "A slice of spinach & tomato frittata+one serving of green olives+kombucha drink"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner",
+                "description": "Slow cooker sweet potato curry served with one cup of cauliflower rice+one wheat paratha+a satsuma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "schedule": [
+          {
+            "day": 1,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "30 g granola+100 g unsweetened Greek yogurt+100 g blueberries+coffee with low fat milk"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Tofu “egg” salad stuffed tomato"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Tuna salad sandwich on whole grain bread+an apple+a handful of walnuts"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Lemon, pistachio & berry frozen yogurt bark"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Veggie Korean bibimbap+kombucha drink+a portion of banana and Greek yogurt"
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Smoked salmon and egg bagel+a portion of spinach+a medium low fat mocha drink"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "One-quarter cup Brazil nuts+pear slices+a glass of kombucha"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Sardines in tomato sauce on two slices of whole grain toast"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Raspberry cheesecake jar"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Sautéed shrimp with mango salsa & coconut cauliflower rice+a banana+and a few walnuts"
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Blueberry-Avocado Smoothie+a slice of whole grain toast with almond butter"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Red Lentil-Beet Hummus with oatcakes"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "A portion of slow cooker black bean soup+roasted beets with almond cream cheese, grated carrot, and watercress"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "28 g peanuts+an orange"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Chicken and vegetable stir fry+1 cup of steamed brown rice+two squares of dark chocolate+a handful of walnuts"
+              }
+            ]
+          },
+          {
+            "day": 4,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Apple and peanut butter on a whole wheat English muffin+one cup of low fat milk"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Carrot Cake Energy Bar"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "A medium baked potato+100 g chili+28 g creme fraiche+side of green beans"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Chocolate-avocado pop"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Slow cooker sweet potato curry served with 1 cup of steamed cauliflower rice+one wheat paratha+a satsuma+a kombucha drink"
+              }
+            ]
+          },
+          {
+            "day": 5,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Berry smoothie with protein powder"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Spanish oat omelet"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Sardines drizzled with olive oil on two slices of whole-grain toast with spread, leafy side salad"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "One vegan blueberry truffle"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Slow cooker peanut chicken with broccoli+a baked sweet potato drizzled with extra virgin olive oil+a portion of steamed kale"
+              }
+            ]
+          },
+          {
+            "day": 6,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "Two quinoa edamame egg muffins+a portion of grilled tomatoes and mushrooms drizzled with olive oil+a glass of almond milk"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Chocolate peanut butter cup, apple slices"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Seared sesame tuna bowl with julienned carrots, snow peas, pak choi, and bamboo shoots"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "Lemon, pistachio & berry frozen yogurt bark."
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "One medium baked potato+100 g chili+28 g creme fraiche+a portion of steamed broccoli"
+              }
+            ]
+          },
+          {
+            "day": 7,
+            "menu": [
+              {
+                "time": "07:00",
+                "timeline": "Breakfast" ,
+                "description": "30 g granola+100 g unsweetened Greek yogurt+100 g blueberries+coffee with low fat milk"
+              },
+              {
+                "time": "09:30",
+                "timeline": "Snacks" ,
+                "description": "Tofu “egg” salad stuffed tomato"
+              },
+              {
+                "time": "12:00",
+                "timeline": "Lunch" ,
+                "description": "Tuna salad sandwich on whole grain bread, sliced bell peppers, sugar snap peas+a pear+28 g walnuts"
+              },
+              {
+                "time": "15:30",
+                "timeline": "Snacks" ,
+                "description": "A boiled egg+two oatcakes+a portion of arugula"
+              },
+              {
+                "time": "18:30",
+                "timeline": "Dinner" ,
+                "description": "Rotisserie chicken tacos with pineapple salsa+a portion of watercress+two squares of dark chocolate+some Brazil nuts"
+              }
+            ]
+          }
+        ]
+      }
+    ] 
+  }
+]

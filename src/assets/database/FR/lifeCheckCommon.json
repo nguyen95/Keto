@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Habitudes de vie",
+    "questions": [
+      "Faites de l'exercice 3 fois par semaine",
+      "Aime manger régulièrement des fruits et légumes du fruit",
+      "Animal domestique, animal domestique",
+      "Fumer plus de 2 paquets / jour",
+      "Fumer 1 ~ 2 paquets / jour",
+      "Fumer 20 ou moins par jour",
+      "Dormez plus de 10 heures ou moins de 5 heures par jour",
+      "Gros",
+      "Bonne posture debout / assise",
+      "Souffrez d'une maladie chronique ou souffrez de maladies légères fréquentes"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "État mental et psychologique",
+    "questions": [
+      "La plupart du temps, je me sens heureux et satisfait",
+      "Optimiste",
+      "Il y a des amis pour partager les difficultés, les joies et les peines",
+      "Poursuivez fermement vos croyances",
+      "Amour propre",
+      "Têtu",
+      "Préférences aventureuses (comme la conduite à grande cylindrée)",
+      "Dépression"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "État civil",
+    "questions": [
+      "Marié",
+      "Les hommes sont divorcés et vivent seuls",
+      "Les femmes sont divorcées et vivent seules",
+      "Femmes qui n'accouchent pas ou n'ont pas d'enfants après 40 ans"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Statut professionnel",
+    "questions": [
+      "Chercheur professionnel",
+      "60 ans travaille toujours",
+      "65 ans travaille toujours",
+      "Travaillez dans la grande ville (ou passez la majeure partie de votre vie dans une grande ville)",
+      "Travaillez dans des villes rurales et suburbaines (ou passez la plupart de votre temps ici)"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Environnement, conditions de vie",
+    "questions": [
+      "Vivre dans un espace ouvert, avec vue dégagée, air pur",
+      "Vivez longtemps dans un endroit bruyant"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Facteurs génétiques",
+    "questions": [
+      "La mère biologique vit 80 ans ou plus",
+      "Le père biologique vit au moins 80 ans",
+      "Les grands-parents vivent au moins 80 ans",
+      "Un membre de la famille est décédé d'une maladie cardiaque avant l'âge de 50 ans",
+      "Un membre de la famille est décédé d'un cancer de l'estomac",
+      "Un membre de la famille est décédé d'un cancer du sein",
+      "Un membre de la famille est décédé avant l'âge de 60 ans des suites d'un suicide ou a été"
+    ]
+  }
+]

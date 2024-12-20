@@ -1,0 +1,1247 @@
+[{
+  "calo": 598,
+  "key": "0",
+  "mins": 60,
+  "name": "Cycling, mountain bike, bmx"
+},{
+  "calo": 281,
+  "key": "1",
+  "mins": 60,
+  "name": "Cycling, <10 mph, leisure bicycling"
+},{
+  "calo": 1126,
+  "key": "2",
+  "mins": 60,
+  "name": "Cycling, >20 mph, racing"
+},{
+  "calo": 422,
+  "key": "3",
+  "mins": 60,
+  "name": "Cycling, 10-11.9 mph, light"
+},{
+  "calo": 563,
+  "key": "4",
+  "mins": 60,
+  "name": "Cycling, 12-13.9 mph, moderate"
+},{
+  "calo": 704,
+  "key": "5",
+  "mins": 60,
+  "name": "Cycling, 14-15.9 mph, vigorous"
+},{
+  "calo": 844,
+  "key": "6",
+  "mins": 60,
+  "name": "Cycling, 16-19 mph, very fast, racing"
+},{
+  "calo": 352,
+  "key": "7",
+  "mins": 60,
+  "name": "Unicycling"
+},{
+  "calo": 211,
+  "key": "8",
+  "mins": 60,
+  "name": "Stationary cycling, very light"
+},{
+  "calo": 387,
+  "key": "9",
+  "mins": 60,
+  "name": "Stationary cycling, light"
+},{
+  "calo": 493,
+  "key": "10",
+  "mins": 60,
+  "name": "Stationary cycling, moderate"
+},{
+  "calo": 739,
+  "key": "11",
+  "mins": 60,
+  "name": "Stationary cycling, vigorous"
+},{
+  "calo": 880,
+  "key": "12",
+  "mins": 60,
+  "name": "Stationary cycling, very vigorous"
+},{
+  "calo": 563,
+  "key": "13",
+  "mins": 60,
+  "name": "Calisthenics, vigorous, pushups, situps…"
+},{
+  "calo": 246,
+  "key": "14",
+  "mins": 60,
+  "name": "Calisthenics, light"
+},{
+  "calo": 563,
+  "key": "15",
+  "mins": 60,
+  "name": "Circuit training, minimal rest"
+},{
+  "calo": 422,
+  "key": "16",
+  "mins": 60,
+  "name": "Weight lifting, body building, vigorous"
+},{
+  "calo": 211,
+  "key": "17",
+  "mins": 60,
+  "name": "Weight lifting, light workout"
+},{
+  "calo": 387,
+  "key": "18",
+  "mins": 60,
+  "name": "Health club exercise"
+},{
+  "calo": 633,
+  "key": "19",
+  "mins": 60,
+  "name": "Stair machine"
+},{
+  "calo": 246,
+  "key": "20",
+  "mins": 60,
+  "name": "Rowing machine, light"
+},{
+  "calo": 493,
+  "key": "21",
+  "mins": 60,
+  "name": "Rowing machine, moderate"
+},{
+  "calo": 598,
+  "key": "22",
+  "mins": 60,
+  "name": "Rowing machine, vigorous"
+},{
+  "calo": 844,
+  "key": "23",
+  "mins": 60,
+  "name": "Rowing machine, very vigorous"
+},{
+  "calo": 493,
+  "key": "24",
+  "mins": 60,
+  "name": "Ski machine"
+},{
+  "calo": 352,
+  "key": "25",
+  "mins": 60,
+  "name": "Aerobics, low impact"
+},{
+  "calo": 493,
+  "key": "26",
+  "mins": 60,
+  "name": "Aerobics, high impact"
+},{
+  "calo": 598,
+  "key": "27",
+  "mins": 60,
+  "name": "Aerobics, step aerobics"
+},{
+  "calo": 457,
+  "key": "28",
+  "mins": 60,
+  "name": "Aerobics, general"
+},{
+  "calo": 422,
+  "key": "29",
+  "mins": 60,
+  "name": "Jazzercise"
+},{
+  "calo": 281,
+  "key": "30",
+  "mins": 60,
+  "name": "Stretching, hatha yoga"
+},{
+  "calo": 176,
+  "key": "31",
+  "mins": 60,
+  "name": "Mild stretching"
+},{
+  "calo": 422,
+  "key": "32",
+  "mins": 60,
+  "name": "Instructing aerobic class "
+},{
+  "calo": 281,
+  "key": "33",
+  "mins": 60,
+  "name": "Water aerobics"
+},{
+  "calo": 317,
+  "key": "34",
+  "mins": 60,
+  "name": "Ballet, twist, jazz, tap"
+},{
+  "calo": 211,
+  "key": "35",
+  "mins": 60,
+  "name": "Ballroom dancing, slow"
+},{
+  "calo": 387,
+  "key": "36",
+  "mins": 60,
+  "name": "Ballroom dancing, fast"
+},{
+  "calo": 563,
+  "key": "37",
+  "mins": 60,
+  "name": "Running, 5 mph (12 minute mile)"
+},{
+  "calo": 633,
+  "key": "38",
+  "mins": 60,
+  "name": "Running, 5.2 mph (11.5 minute mile)"
+},{
+  "calo": 704,
+  "key": "39",
+  "mins": 60,
+  "name": "Running, 6 mph (10 min mile)"
+},{
+  "calo": 774,
+  "key": "40",
+  "mins": 60,
+  "name": "Running, 6.7 mph (9 min mile)"
+},{
+  "calo": 809,
+  "key": "41",
+  "mins": 60,
+  "name": "Running, 7 mph (8.5 min mile)"
+},{
+  "calo": 880,
+  "key": "42",
+  "mins": 60,
+  "name": "Running, 7.5mph (8 min mile)"
+},{
+  "calo": 950,
+  "key": "43",
+  "mins": 60,
+  "name": "Running, 8 mph (7.5 min mile)"
+},{
+  "calo": 985,
+  "key": "44",
+  "mins": 60,
+  "name": "Running, 8.6 mph (7 min mile)"
+},{
+  "calo": 1056,
+  "key": "45",
+  "mins": 60,
+  "name": "Running, 9 mph (6.5 min mile)"
+},{
+  "calo": 1126,
+  "key": "46",
+  "mins": 60,
+  "name": "Running, 10 mph (6 min mile)"
+},{
+  "calo": 1267,
+  "key": "47",
+  "mins": 60,
+  "name": "Running, 10.9 mph (5.5 min mile)"
+},{
+  "calo": 633,
+  "key": "48",
+  "mins": 60,
+  "name": "Running, cross country"
+},{
+  "calo": 563,
+  "key": "49",
+  "mins": 60,
+  "name": "Running, general"
+},{
+  "calo": 704,
+  "key": "50",
+  "mins": 60,
+  "name": "Running, on a track, team practice"
+},{
+  "calo": 1056,
+  "key": "51",
+  "mins": 60,
+  "name": "Running, stairs, up"
+},{
+  "calo": 281,
+  "key": "52",
+  "mins": 60,
+  "name": "Track and field (shot, discus)"
+},{
+  "calo": 422,
+  "key": "53",
+  "mins": 60,
+  "name": "Track and field (high jump, pole vault)"
+},{
+  "calo": 704,
+  "key": "54",
+  "mins": 60,
+  "name": "Track and field (hurdles)"
+},{
+  "calo": 246,
+  "key": "55",
+  "mins": 60,
+  "name": "Archery"
+},{
+  "calo": 317,
+  "key": "56",
+  "mins": 60,
+  "name": "Badminton"
+},{
+  "calo": 563,
+  "key": "57",
+  "mins": 60,
+  "name": "Basketball game, competitive"
+},{
+  "calo": 422,
+  "key": "58",
+  "mins": 60,
+  "name": "Playing basketball, non game"
+},{
+  "calo": 493,
+  "key": "59",
+  "mins": 60,
+  "name": "Basketball, officiating"
+},{
+  "calo": 317,
+  "key": "60",
+  "mins": 60,
+  "name": "Basketball, shooting baskets"
+},{
+  "calo": 457,
+  "key": "61",
+  "mins": 60,
+  "name": "Basketball, wheelchair"
+},{
+  "calo": 563,
+  "key": "62",
+  "mins": 60,
+  "name": "Running, training, pushing wheelchair"
+},{
+  "calo": 176,
+  "key": "63",
+  "mins": 60,
+  "name": "Billiards"
+},{
+  "calo": 211,
+  "key": "64",
+  "mins": 60,
+  "name": "Bowling"
+},{
+  "calo": 844,
+  "key": "65",
+  "mins": 60,
+  "name": "Boxing, in ring"
+},{
+  "calo": 422,
+  "key": "66",
+  "mins": 60,
+  "name": "Boxing, punching bag"
+},{
+  "calo": 633,
+  "key": "67",
+  "mins": 60,
+  "name": "Boxing, sparring"
+},{
+  "calo": 281,
+  "key": "68",
+  "mins": 60,
+  "name": "Coaching: football, basketball, soccer…"
+},{
+  "calo": 352,
+  "key": "69",
+  "mins": 60,
+  "name": "Cricket (batting, bowling)"
+},{
+  "calo": 176,
+  "key": "70",
+  "mins": 60,
+  "name": "Croquet"
+},{
+  "calo": 281,
+  "key": "71",
+  "mins": 60,
+  "name": "Curling"
+},{
+  "calo": 176,
+  "key": "72",
+  "mins": 60,
+  "name": "Darts (wall or lawn)"
+},{
+  "calo": 422,
+  "key": "73",
+  "mins": 60,
+  "name": "Fencing"
+},{
+  "calo": 633,
+  "key": "74",
+  "mins": 60,
+  "name": "Football, competitive"
+},{
+  "calo": 563,
+  "key": "75",
+  "mins": 60,
+  "name": "Football, touch, flag, general"
+},{
+  "calo": 176,
+  "key": "76",
+  "mins": 60,
+  "name": "Football or baseball, playing catch"
+},{
+  "calo": 211,
+  "key": "77",
+  "mins": 60,
+  "name": "Frisbee playing, general"
+},{
+  "calo": 563,
+  "key": "78",
+  "mins": 60,
+  "name": "Frisbee, ultimate frisbee"
+},{
+  "calo": 317,
+  "key": "79",
+  "mins": 60,
+  "name": "Golf, general"
+},{
+  "calo": 317,
+  "key": "80",
+  "mins": 60,
+  "name": "Golf, walking and carrying clubs"
+},{
+  "calo": 211,
+  "key": "81",
+  "mins": 60,
+  "name": "Golf, driving range"
+},{
+  "calo": 211,
+  "key": "82",
+  "mins": 60,
+  "name": "Golf, miniature golf"
+},{
+  "calo": 303,
+  "key": "83",
+  "mins": 60,
+  "name": "Golf, walking and pulling clubs"
+},{
+  "calo": 246,
+  "key": "84",
+  "mins": 60,
+  "name": "Golf, using power cart"
+},{
+  "calo": 281,
+  "key": "85",
+  "mins": 60,
+  "name": "Gymnastics"
+},{
+  "calo": 281,
+  "key": "86",
+  "mins": 60,
+  "name": "Hacky sack"
+},{
+  "calo": 844,
+  "key": "87",
+  "mins": 60,
+  "name": "Handball"
+},{
+  "calo": 563,
+  "key": "88",
+  "mins": 60,
+  "name": "Handball, team"
+},{
+  "calo": 563,
+  "key": "89",
+  "mins": 60,
+  "name": "Hockey, field hockey"
+},{
+  "calo": 563,
+  "key": "90",
+  "mins": 60,
+  "name": "Hockey, ice hockey"
+},{
+  "calo": 281,
+  "key": "91",
+  "mins": 60,
+  "name": "Riding a horse, general"
+},{
+  "calo": 246,
+  "key": "92",
+  "mins": 60,
+  "name": "Horesback riding, saddling horse"
+},{
+  "calo": 246,
+  "key": "93",
+  "mins": 60,
+  "name": "Horseback riding, grooming horse"
+},{
+  "calo": 457,
+  "key": "94",
+  "mins": 60,
+  "name": "Horseback riding, trotting"
+},{
+  "calo": 176,
+  "key": "95",
+  "mins": 60,
+  "name": "Horseback riding, walking"
+},{
+  "calo": 563,
+  "key": "96",
+  "mins": 60,
+  "name": "Horse racing, galloping"
+},{
+  "calo": 422,
+  "key": "97",
+  "mins": 60,
+  "name": "Horse grooming, moderate"
+},{
+  "calo": 211,
+  "key": "98",
+  "mins": 60,
+  "name": "Horseshoe pitching"
+},{
+  "calo": 844,
+  "key": "99",
+  "mins": 60,
+  "name": "Jai alai"
+},{
+  "calo": 704,
+  "key": "100",
+  "mins": 60,
+  "name": "Martial arts, judo, karate, jujitsu"
+},{
+  "calo": 704,
+  "key": "101",
+  "mins": 60,
+  "name": "Martial arts, kick boxing"
+},{
+  "calo": 704,
+  "key": "102",
+  "mins": 60,
+  "name": "Martial arts, tae kwan do"
+},{
+  "calo": 704,
+  "key": "103",
+  "mins": 60,
+  "name": "Krav maga training"
+},{
+  "calo": 281,
+  "key": "104",
+  "mins": 60,
+  "name": "Juggling"
+},{
+  "calo": 493,
+  "key": "105",
+  "mins": 60,
+  "name": "Kickball"
+},{
+  "calo": 563,
+  "key": "106",
+  "mins": 60,
+  "name": "Lacrosse"
+},{
+  "calo": 633,
+  "key": "107",
+  "mins": 60,
+  "name": "Orienteering"
+},{
+  "calo": 422,
+  "key": "108",
+  "mins": 60,
+  "name": "Playing paddleball"
+},{
+  "calo": 704,
+  "key": "109",
+  "mins": 60,
+  "name": "Paddleball, competitive"
+},{
+  "calo": 563,
+  "key": "110",
+  "mins": 60,
+  "name": "Polo"
+},{
+  "calo": 704,
+  "key": "111",
+  "mins": 60,
+  "name": "Racquetball, competitive"
+},{
+  "calo": 493,
+  "key": "112",
+  "mins": 60,
+  "name": "Playing racquetball"
+},{
+  "calo": 774,
+  "key": "113",
+  "mins": 60,
+  "name": "Rock climbing, ascending rock"
+},{
+  "calo": 563,
+  "key": "114",
+  "mins": 60,
+  "name": "Rock climbing, rappelling"
+},{
+  "calo": 844,
+  "key": "115",
+  "mins": 60,
+  "name": "Jumping rope, fast"
+},{
+  "calo": 704,
+  "key": "116",
+  "mins": 60,
+  "name": "Jumping rope, moderate"
+},{
+  "calo": 563,
+  "key": "117",
+  "mins": 60,
+  "name": "Jumping rope, slow"
+},{
+  "calo": 704,
+  "key": "118",
+  "mins": 60,
+  "name": "Rugby"
+},{
+  "calo": 211,
+  "key": "119",
+  "mins": 60,
+  "name": "Shuffleboard, lawn bowling"
+},{
+  "calo": 352,
+  "key": "120",
+  "mins": 60,
+  "name": "Skateboarding"
+},{
+  "calo": 493,
+  "key": "121",
+  "mins": 60,
+  "name": "Roller skating"
+},{
+  "calo": 844,
+  "key": "122",
+  "mins": 60,
+  "name": "Roller blading, in-line skating"
+},{
+  "calo": 211,
+  "key": "123",
+  "mins": 60,
+  "name": "Sky diving"
+},{
+  "calo": 704,
+  "key": "124",
+  "mins": 60,
+  "name": "Soccer, competitive"
+},{
+  "calo": 493,
+  "key": "125",
+  "mins": 60,
+  "name": "Playing soccer"
+},{
+  "calo": 352,
+  "key": "126",
+  "mins": 60,
+  "name": "Softball or baseball"
+},{
+  "calo": 281,
+  "key": "127",
+  "mins": 60,
+  "name": "Softball, officiating"
+},{
+  "calo": 422,
+  "key": "128",
+  "mins": 60,
+  "name": "Softball, pitching"
+},{
+  "calo": 844,
+  "key": "129",
+  "mins": 60,
+  "name": "Squash"
+},{
+  "calo": 281,
+  "key": "130",
+  "mins": 60,
+  "name": "Table tennis, ping pong"
+},{
+  "calo": 281,
+  "key": "131",
+  "mins": 60,
+  "name": "Tai chi"
+},{
+  "calo": 493,
+  "key": "132",
+  "mins": 60,
+  "name": "Playing tennis"
+},{
+  "calo": 422,
+  "key": "133",
+  "mins": 60,
+  "name": "Tennis, doubles"
+},{
+  "calo": 563,
+  "key": "134",
+  "mins": 60,
+  "name": "Tennis, singles"
+},{
+  "calo": 246,
+  "key": "135",
+  "mins": 60,
+  "name": "Trampoline"
+},{
+  "calo": 563,
+  "key": "136",
+  "mins": 60,
+  "name": "Volleyball, competitive"
+},{
+  "calo": 211,
+  "key": "137",
+  "mins": 60,
+  "name": "Playing volleyball"
+},{
+  "calo": 563,
+  "key": "138",
+  "mins": 60,
+  "name": "Volleyball, beach"
+},{
+  "calo": 422,
+  "key": "139",
+  "mins": 60,
+  "name": "Wrestling"
+},{
+  "calo": 493,
+  "key": "140",
+  "mins": 60,
+  "name": "Wallyball"
+},{
+  "calo": 493,
+  "key": "141",
+  "mins": 60,
+  "name": "Backpacking, Hiking with pack"
+},{
+  "calo": 246,
+  "key": "142",
+  "mins": 60,
+  "name": "Carrying infant, level ground"
+},{
+  "calo": 352,
+  "key": "143",
+  "mins": 60,
+  "name": "Carrying infant, upstairs"
+},{
+  "calo": 422,
+  "key": "144",
+  "mins": 60,
+  "name": "Carrying 16 to 24 lbs, upstairs"
+},{
+  "calo": 563,
+  "key": "145",
+  "mins": 60,
+  "name": "Carrying 25 to 49 lbs, upstairs"
+},{
+  "calo": 197,
+  "key": "146",
+  "mins": 60,
+  "name": "Standing, playing with children, light"
+},{
+  "calo": 281,
+  "key": "147",
+  "mins": 60,
+  "name": "Walk/run, playing with children, moderate"
+},{
+  "calo": 352,
+  "key": "148",
+  "mins": 60,
+  "name": "Walk/run, playing with children, vigorous"
+},{
+  "calo": 211,
+  "key": "149",
+  "mins": 60,
+  "name": "Carrying small children"
+},{
+  "calo": 211,
+  "key": "150",
+  "mins": 60,
+  "name": "Loading, unloading car"
+},{
+  "calo": 493,
+  "key": "151",
+  "mins": 60,
+  "name": "Climbing hills, carrying up to 9 lbs"
+},{
+  "calo": 528,
+  "key": "152",
+  "mins": 60,
+  "name": "Climbing hills, carrying 10 to 20 lb"
+},{
+  "calo": 563,
+  "key": "153",
+  "mins": 60,
+  "name": "Climbing hills, carrying 21 to 42 lb"
+},{
+  "calo": 633,
+  "key": "154",
+  "mins": 60,
+  "name": "Climbing hills, carrying over 42 lb"
+},{
+  "calo": 211,
+  "key": "155",
+  "mins": 60,
+  "name": "Walking downstairs"
+},{
+  "calo": 422,
+  "key": "156",
+  "mins": 60,
+  "name": "Hiking, cross country"
+},{
+  "calo": 176,
+  "key": "157",
+  "mins": 60,
+  "name": "Bird watching"
+},{
+  "calo": 457,
+  "key": "158",
+  "mins": 60,
+  "name": "Marching, rapidly, military"
+},{
+  "calo": 352,
+  "key": "159",
+  "mins": 60,
+  "name": "Children's games, hopscotch, dodgeball"
+},{
+  "calo": 176,
+  "key": "160",
+  "mins": 60,
+  "name": "Pushing stroller or walking with children"
+},{
+  "calo": 281,
+  "key": "161",
+  "mins": 60,
+  "name": "Pushing a wheelchair"
+},{
+  "calo": 457,
+  "key": "162",
+  "mins": 60,
+  "name": "Race walking"
+},{
+  "calo": 563,
+  "key": "163",
+  "mins": 60,
+  "name": "Rock climbing, mountain climbing"
+},{
+  "calo": 352,
+  "key": "164",
+  "mins": 60,
+  "name": "Walking using crutches"
+},{
+  "calo": 211,
+  "key": "165",
+  "mins": 60,
+  "name": "Walking the dog"
+},{
+  "calo": 141,
+  "key": "166",
+  "mins": 60,
+  "name": "Walking, under 2.0 mph, very slow"
+},{
+  "calo": 176,
+  "key": "167",
+  "mins": 60,
+  "name": "Walking 2.0 mph, slow"
+},{
+  "calo": 211,
+  "key": "168",
+  "mins": 60,
+  "name": "Walking 2.5 mph"
+},{
+  "calo": 232,
+  "key": "169",
+  "mins": 60,
+  "name": "Walking 3.0 mph, moderate"
+},{
+  "calo": 267,
+  "key": "170",
+  "mins": 60,
+  "name": "Walking 3.5 mph, brisk pace"
+},{
+  "calo": 422,
+  "key": "171",
+  "mins": 60,
+  "name": "Walking 3.5 mph, uphill"
+},{
+  "calo": 352,
+  "key": "172",
+  "mins": 60,
+  "name": "Walking 4.0 mph, very brisk"
+},{
+  "calo": 443,
+  "key": "173",
+  "mins": 60,
+  "name": "Walking 4.5 mph"
+},{
+  "calo": 563,
+  "key": "174",
+  "mins": 60,
+  "name": "Walking 5.0 mph"
+},{
+  "calo": 176,
+  "key": "175",
+  "mins": 60,
+  "name": "Boating, power, speed boat"
+},{
+  "calo": 281,
+  "key": "176",
+  "mins": 60,
+  "name": "Canoeing, camping trip"
+},{
+  "calo": 211,
+  "key": "177",
+  "mins": 60,
+  "name": "Canoeing, rowing, light"
+},{
+  "calo": 493,
+  "key": "178",
+  "mins": 60,
+  "name": "Canoeing, rowing, moderate"
+},{
+  "calo": 844,
+  "key": "179",
+  "mins": 60,
+  "name": "Canoeing, rowing, vigorous"
+},{
+  "calo": 844,
+  "key": "180",
+  "mins": 60,
+  "name": "Crew, sculling, rowing, competition"
+},{
+  "calo": 352,
+  "key": "181",
+  "mins": 60,
+  "name": "Kayaking"
+},{
+  "calo": 281,
+  "key": "182",
+  "mins": 60,
+  "name": "Paddle boat"
+},{
+  "calo": 211,
+  "key": "183",
+  "mins": 60,
+  "name": "Windsurfing, sailing"
+},{
+  "calo": 352,
+  "key": "184",
+  "mins": 60,
+  "name": "Sailing, competition"
+},{
+  "calo": 211,
+  "key": "185",
+  "mins": 60,
+  "name": "Sailing, yachting, ocean sailing"
+},{
+  "calo": 422,
+  "key": "186",
+  "mins": 60,
+  "name": "Skiing, water skiing"
+},{
+  "calo": 493,
+  "key": "187",
+  "mins": 60,
+  "name": "Ski mobiling"
+},{
+  "calo": 1126,
+  "key": "188",
+  "mins": 60,
+  "name": "Skin diving, fast"
+},{
+  "calo": 880,
+  "key": "189",
+  "mins": 60,
+  "name": "Skin diving, moderate"
+},{
+  "calo": 493,
+  "key": "190",
+  "mins": 60,
+  "name": "Skin diving, scuba diving"
+},{
+  "calo": 352,
+  "key": "191",
+  "mins": 60,
+  "name": "Snorkeling"
+},{
+  "calo": 211,
+  "key": "192",
+  "mins": 60,
+  "name": "Surfing, body surfing or board surfing"
+},{
+  "calo": 352,
+  "key": "193",
+  "mins": 60,
+  "name": "Whitewater rafting, kayaking, canoeing"
+},{
+  "calo": 704,
+  "key": "194",
+  "mins": 60,
+  "name": "Swimming laps, freestyle, fast"
+},{
+  "calo": 493,
+  "key": "195",
+  "mins": 60,
+  "name": "Swimming laps, freestyle, slow"
+},{
+  "calo": 493,
+  "key": "196",
+  "mins": 60,
+  "name": "Swimming backstroke"
+},{
+  "calo": 704,
+  "key": "197",
+  "mins": 60,
+  "name": "Swimming breaststroke"
+},{
+  "calo": 774,
+  "key": "198",
+  "mins": 60,
+  "name": "Swimming butterfly"
+},{
+  "calo": 422,
+  "key": "199",
+  "mins": 60,
+  "name": "Swimming leisurely, not laps"
+},{
+  "calo": 563,
+  "key": "200",
+  "mins": 60,
+  "name": "Swimming sidestroke"
+},{
+  "calo": 563,
+  "key": "201",
+  "mins": 60,
+  "name": "Swimming synchronized"
+},{
+  "calo": 704,
+  "key": "202",
+  "mins": 60,
+  "name": "Swimming, treading water, fast, vigorous"
+},{
+  "calo": 281,
+  "key": "203",
+  "mins": 60,
+  "name": "Swimming, treading water, moderate"
+},{
+  "calo": 281,
+  "key": "204",
+  "mins": 60,
+  "name": "Water aerobics, water calisthenics"
+},{
+  "calo": 704,
+  "key": "205",
+  "mins": 60,
+  "name": "Water polo"
+},{
+  "calo": 211,
+  "key": "206",
+  "mins": 60,
+  "name": "Water volleyball"
+},{
+  "calo": 563,
+  "key": "207",
+  "mins": 60,
+  "name": "Water jogging"
+},{
+  "calo": 211,
+  "key": "208",
+  "mins": 60,
+  "name": "Diving, springboard or platform"
+},{
+  "calo": 387,
+  "key": "209",
+  "mins": 60,
+  "name": "Ice skating, < 9 mph"
+},{
+  "calo": 493,
+  "key": "210",
+  "mins": 60,
+  "name": "Ice skating, average speed"
+},{
+  "calo": 633,
+  "key": "211",
+  "mins": 60,
+  "name": "Ice skating, rapidly"
+},{
+  "calo": 1056,
+  "key": "212",
+  "mins": 60,
+  "name": "Speed skating, ice, competitive"
+},{
+  "calo": 493,
+  "key": "213",
+  "mins": 60,
+  "name": "Cross country snow skiing, slow"
+},{
+  "calo": 563,
+  "key": "214",
+  "mins": 60,
+  "name": "Cross country skiing, moderate"
+},{
+  "calo": 633,
+  "key": "215",
+  "mins": 60,
+  "name": "Cross country skiing, vigorous"
+},{
+  "calo": 985,
+  "key": "216",
+  "mins": 60,
+  "name": "Cross country skiing, racing"
+},{
+  "calo": 1161,
+  "key": "217",
+  "mins": 60,
+  "name": "Cross country skiing, uphill"
+},{
+  "calo": 352,
+  "key": "218",
+  "mins": 60,
+  "name": "Snow skiing, downhill skiing, light"
+},{
+  "calo": 422,
+  "key": "219",
+  "mins": 60,
+  "name": "Downhill snow skiing, moderate"
+},{
+  "calo": 563,
+  "key": "220",
+  "mins": 60,
+  "name": "Downhill snow skiing, racing"
+},{
+  "calo": 493,
+  "key": "221",
+  "mins": 60,
+  "name": "Sledding, tobagganing, luge"
+},{
+  "calo": 563,
+  "key": "222",
+  "mins": 60,
+  "name": "Snow shoeing"
+},{
+  "calo": 246,
+  "key": "223",
+  "mins": 60,
+  "name": "Snowmobiling"
+},{
+  "calo": 246,
+  "key": "224",
+  "mins": 60,
+  "name": "General housework"
+},{
+  "calo": 352,
+  "key": "225",
+  "mins": 60,
+  "name": "Cleaning gutters"
+},{
+  "calo": 317,
+  "key": "226",
+  "mins": 60,
+  "name": "Painting"
+},{
+  "calo": 176,
+  "key": "227",
+  "mins": 60,
+  "name": "Sit, playing with animals"
+},{
+  "calo": 281,
+  "key": "228",
+  "mins": 60,
+  "name": "Walk / run, playing with animals"
+},{
+  "calo": 246,
+  "key": "229",
+  "mins": 60,
+  "name": "Bathing dog"
+},{
+  "calo": 387,
+  "key": "230",
+  "mins": 60,
+  "name": "Mowing lawn, walk, power mower"
+},{
+  "calo": 176,
+  "key": "231",
+  "mins": 60,
+  "name": "Mowing lawn, riding mower"
+},{
+  "calo": 246,
+  "key": "232",
+  "mins": 60,
+  "name": "Walking, snow blower"
+},{
+  "calo": 211,
+  "key": "233",
+  "mins": 60,
+  "name": "Riding, snow blower"
+},{
+  "calo": 422,
+  "key": "234",
+  "mins": 60,
+  "name": "Shoveling snow by hand"
+},{
+  "calo": 303,
+  "key": "235",
+  "mins": 60,
+  "name": "Raking lawn"
+},{
+  "calo": 281,
+  "key": "236",
+  "mins": 60,
+  "name": "Gardening, general"
+},{
+  "calo": 281,
+  "key": "237",
+  "mins": 60,
+  "name": "Bagging grass, leaves"
+},{
+  "calo": 106,
+  "key": "238",
+  "mins": 60,
+  "name": "Watering lawn or garden"
+},{
+  "calo": 317,
+  "key": "239",
+  "mins": 60,
+  "name": "Weeding, cultivating garden"
+},{
+  "calo": 246,
+  "key": "240",
+  "mins": 60,
+  "name": "Carpentry, general"
+},{
+  "calo": 563,
+  "key": "241",
+  "mins": 60,
+  "name": "Carrying heavy loads"
+},{
+  "calo": 563,
+  "key": "242",
+  "mins": 60,
+  "name": "Carrying moderate loads upstairs"
+},{
+  "calo": 246,
+  "key": "243",
+  "mins": 60,
+  "name": "General cleaning"
+},{
+  "calo": 176,
+  "key": "244",
+  "mins": 60,
+  "name": "Cleaning, dusting"
+},{
+  "calo": 211,
+  "key": "245",
+  "mins": 60,
+  "name": "Taking out trash"
+},{
+  "calo": 281,
+  "key": "246",
+  "mins": 60,
+  "name": "Walking, pushing a wheelchair"
+},{
+  "calo": 281,
+  "key": "247",
+  "mins": 60,
+  "name": "Teach physical education,exercise class"
+},{
+  "calo": 457,
+  "key": "248",
+  "mins": 60,
+  "name": "Teach exercise classes (& participate)"
+}
+]

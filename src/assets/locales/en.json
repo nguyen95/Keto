@@ -1,0 +1,466 @@
+
+ {
+  "title": "Healthy Food",
+  "custom": {
+   "backToNow": "Back to now",
+   "back": "Back",
+   "next": "Next",
+   "cancel": "Cancel",
+   "lipid": "Body fat percentage",
+   "estimatedLifespan": "Estimated lifespan",
+   "estimatedLifespanSub": "Try calculating your estimated life span!",
+   "lifeCheckTitle": "Life expectancy calculation",
+   "lifeCheckSub": "Start calculating your age based on your habits and characteristics according to the questions in 6 categories below, including: Living habits, psychological state, marital status, situation work, environmental conditions and genetic predisposition. Be honest based on taking questions seriously."
+  },
+  "sub": {
+    "title": "Premium",
+    "des": "Upgrade to Premium User with",
+    "benefit1": "Remove all ads",
+    "benefit2": "Use all features in app",
+    "perMonth": "per month",
+    "upgrade": "Upgrade Now!",
+    "term": "Terms & Conditions",
+    "policy": "Privacy policy"
+  },
+  "user": {
+     "title": "User",
+     "tabbarTitle": "Me",
+     "statisticsWeekly": "Calories tracking",
+     "currentlyPlan": "Currently plan",
+     "recentRecipes": "Recent recipes",
+     "savedReceipes": "Saved recipes",
+     "yourSavedRecipes": "Your saved recipes",
+     "view": "View",
+     "logoutTitle": "Logging out",
+     "logoutMsg": "Are you sure you want to logout?",
+     "ok": "OK",
+     "shoppingList": "Shopping List",
+     "viewShoppingList": "View shopping list",
+     "weekday": {
+        "monday": "Monday",
+        "tuesday": "Tuesday",
+        "wednesday": "Wednesday",
+        "thursday": "Thursday",
+        "friday": "Friday",
+        "saturday": "Saturday",
+        "sunday": "Sunday"
+     },
+     "weekdayShorten": {
+        "monday": "mo",
+        "tuesday": "tu",
+        "wednesday": "we",
+        "thursday": "th",
+        "friday": "fr",
+        "saturday": "sa",
+        "sunday": "su"
+     },
+     "time": {
+        "tomorrow": "Tomorrow",
+        "nextTime": "Next time",
+        "yesterday": "Yesterday",
+        "dayAgo": "days ago",
+        "lastWeek": "Last week",
+        "weeksAgo": "weeks ago",
+        "lastMonth": "Last month",
+        "monthsAgo": "months ago",
+        "lastYear": "Last year",
+        "yearsAgo": "years ago"
+     }
+  },
+  "statistics": {
+     "title": "Activity Graph",
+     "caloriesChartTitle": "Calories intake",
+     "nutritionAverage": "Nutrition average in this week",
+     "waterChartTitle": "Water intake",
+     "thisweek": "This week",
+     "prevweek": "7 days before",
+     "week": {
+      "title": "daily",
+      "nutritionAverage": "Nutrition average in this week",
+      "currentstate": "This week",
+      "prevstate": "7 days before"
+     },
+     "two_weeks": {
+      "title": "weekly",
+      "nutritionAverage": "Nutrition average in this 2-weeks",
+      "currentstate": "Last 14 days",
+      "prevstate": "14 days before"
+     },
+     "month": {
+      "title": "montly",
+      "nutritionAverage": "Nutrition average in this month",
+      "currentstate": "Last 30 days",
+      "prevstate": "30 days before"
+     }
+  },
+  "plan": {
+     "title": "Plans",
+     "tabbarTitle": "Plan",
+     "yourPlan": "Your plan",
+     "viewPlan": "View Plan",
+     "detailPlan": "Detail plan",
+     "startPlan": "Start plan",
+     "msgSelectPlan": "Update your plan",
+     "detail_plan": {
+        "onThisPlan": "On this plan",
+        "about": "About the",
+        "whatYouEat": "What you'll be eating",
+        "benefits": "Benefits"
+     }
+  },
+  "tabbar": {
+     "home": "Home",
+     "yourMeal": "Your meal",
+     "user": "Me"
+  },
+  "recipes": {
+     "title": "Recipes",
+     "tabbarTitle": "Recipe",
+     "msgAddRecipe": "Added to recent recipes",
+     "clickMore": "More >",
+     "detailRecipe": "Detail recipe",
+     "iHavedTryThis": "I've tried this",
+     "ingredients": "Ingredients",
+     "instruction": "Instructions",
+     "textNumberPeople": "Not available",
+     "recipeName": {
+        "breakfast": "Breakfast",
+        "lunch": "Lunch",
+        "dinner": "Dinner",
+        "others": "Others"
+     }
+  },
+  "login": {
+     "signinWithGoogle": "Sign in with Google",
+     "signinWithEmail": "Sign in with Email",
+     "signinWithFacebook": "Sign in with Facebook",
+     "signinWithApple": "Sign in with Apple",
+     "loginErrorMsg": "Login Error",
+     "loginSignupEmail": {
+        "title": "Login with email",
+        "email": "Email",
+        "password": "Password",
+        "login": "Login",
+        "createAnAccount": "Create an account",
+        "createAccount": "Create account",
+        "haveAnAccount": "Have an account? Sign in",
+        "verifyYourAccount": "Verify your account",
+        "msgLinkVerifySent": "Link to verify account has been sent to your email",
+        "dismiss": "Dismiss",
+        "passNotEmpty": "Password cannot be empty",
+        "enterInvalidEmail": "Enter Invalid Email",
+        "enterInvalidEmailFormat": "Invalid email format"
+     },
+     "signInByEmailErrMesg": {
+        "ERROR_INVALID_EMAIL": "Your email address appears to be malformed.",
+        "ERROR_WRONG_PASSWORD": "Your password is wrong.",
+        "ERROR_USER_NOT_FOUND": "User with this email doesn't exist.",
+        "ERROR_USER_DISABLED": "User with this email has been disabled.",
+        "ERROR_TOO_MANY_REQUESTS": "Too many requests. Try again later.",
+        "ERROR_OPERATION_NOT_ALLOWED": "Signing in with Email and Password is not enabled.",
+        "UNKNOWN": "An undefined Error happened."
+     },
+     "signUpByEmailErrMesg": {
+        "ERROR_INVALID_EMAIL": "Your email is invalid",
+        "ERROR_OPERATION_NOT_ALLOWED": "Anonymous accounts are not enabled",
+        "UNKNOWN": "An undefined Error happened.",
+        "ERROR_WEAK_PASSWORD": "Your password is too weak",
+        "ERROR_EMAIL_ALREADY_IN_USE": "Email is already in use on different account",
+        "ERROR_INVALID_CREDENTIAL": "Your email is invalid"
+     }
+  },
+  "nutritions": {
+     "title": "Nutrition",
+     "subTitle": "(per serving)",
+     "kcal": "Kcal",
+     "carbs": "Carbs",
+     "protein": "Protein",
+     "fat": "Fat",
+     "fiber": "Fiber",
+     "sugar": "Sugar"
+  },
+  "shoppingList": {
+     "title": "Shopping list",
+     "delete": "Delete",
+     "done": "Done",
+     "removeItem": "Remove this recipe",
+     "doneMsg": "It's done",
+     "linkToRecipe": "Go to recipe >",
+     "addAllToShoppingList": "+ shopping list"
+  },
+  "BMR": {
+     "title": "BMR",
+     "titleUpdateBRM": "Update BMR",
+     "buttonChangeGoals": "Change your goal",
+     "BMI": "BMI",
+     "male": "Male",
+     "female": "Female",
+     "height": "Height",
+     "weight": "Weight",
+     "age": "Age",
+     "gender": "Gender",
+     "activityLevel": "Activity Level",
+     "calories": "Calories",
+     "tdee": "Total Daily Energy Expenditure (TDEE)",
+     "today": "Today",
+     "backToNow": "Back to now",
+     "kCalDay": "Kcal/day",
+     "kCalLeft": "Kcal left",
+     "caculateBMR": "Calculate BMR",
+     "yourResult": "Your result",
+     "reCaculate": "Re calculate",
+     "gotIt": "Got it",
+     "continue": "Continue",
+     "personal": "Personal",
+     "howToContinue": "Tap on button (+) on the right and continue search",
+     "howToContinueMeal": "Tap on button (+) on the right and continue search",
+     "tipOfTheDay": "Tips OF THE DAY",
+     "dateUpdateWeight": "In Body Smart Scale",
+     "save": "Save",
+     "nutritionSettings": "Nutrition setting",
+     "nutritionSettingsTitle": "Ratio not correct",
+     "nutritionSettingsError": "Total nutrition percentage not equal 100%",
+     "bmiComment": {
+        "UNDERWEIGHT": "Under Weight",
+        "NORMAL": "Healthy weight.",
+        "OVERWEIGHT": "Overweight.",
+        "OBESE": "Obese."
+     },
+     "activityLevelMsg": {
+        "littleOrNoExercise": {
+           "title": "Very low",
+           "subtitle": "Little to no daily activity. Bank teller, desk job. Reading, playing video games watching tv in spare time"
+        },
+        "lightExercise": {
+           "title": "Low",
+           "subtitle": "Light daily activity 1-3 time/week"
+        },
+        "moderateExercise": {
+           "title": "Moderate",
+           "subtitle": "Light daily activity 3-5 time/week"
+        },
+        "veryActive": {
+           "title": "High",
+           "subtitle": "Physical activity throughout the day. Postal worker, waitstaff. Being active in spare time"
+        },
+        "extraActive": {
+           "title": "Very High",
+           "subtitle": "Physically demanding daily activity. Construction work, bike messenger. Intense daily activity in spare time"
+        }
+     },
+     "trackingActivity": {
+        "title": "Your activity in week",
+        "spentTime1DayAmout": "mins/day",
+        "spentTime1Day": "mins",
+        "spentTimes1WeekAmount": "days/week",
+        "spentTimes1Week": "days",
+        "validateMinsError": "Mins not correct",
+        "validateDaysError": "Days not correct"
+     },
+     "drinkWater": {
+        "dailyGoal": "Daily goal drink water",
+        "lastDrink": "Last drink",
+        "weWillNoti": "Disable notification",
+        "enableNoti": "Enable notification",
+        "mlDay": "ml/day",
+        "needToDrink": "Water",
+        "title": "Drink Water",
+        "notificationTitle": "Drink water",
+        "notificationSub": "Time for drink water",
+        "requirePermissions": "Please accept the notification permission to use this feature."
+     },
+     "eating": {
+      "notificationTitle": "Prepare for breakfast at 7:00",
+      "notificationSub": "Have a great day full of energy!"
+     },
+     "yourGoals": {
+        "title": "Your goal",
+        "recommendTitle": "recommend",
+        "question": "What is your goal?",
+        "loseWeightTitle": "Lose Weight",
+        "loseWeightSubTitle": "Manage your weight by eating smarter",
+        "maintainWeightTitle": "Maintain weight",
+        "maintainWeightSubTitle": "Optimize your well-being",
+        "gainWeightTitle": "Gain weight",
+        "gainWeightSubTitle": "Build strength with high-protein food",
+        "errMsgTitle": "Your goal error",
+        "gainWeightErrMsg": "The goal weight must over your current weight",
+        "loseWeightErrMsg": "The goal weight must lower your current weight",
+        "suggestMeal": "Recommended menu"
+     },
+     "weightStat": {
+        "popupTitle": "Track weight",
+        "popupBtnTitle": "Update",
+        "popupBtnSkipeTitle": "Skip",
+        "history": "History",
+        "dailyStaticTitle": "Last 30 Days",
+        "weeklyStaticTitle": "Last 28 Days",
+        "monhtlyStaticTitle": "Last 60 Days",
+        "startingWeight": "Starting weight",
+        "currentWeight": "Current",
+        "gapWeight": "Gap"
+     },
+     "greetings": {
+        "morning": "Good Morning",
+        "afternoon": "Good Afternoon",
+        "evening": "Good Evening"
+     }
+  },
+  "calo": {
+     "measurement": "calories",
+     "searchHint": "Search...",
+     "howtoBurn": "How to burn",
+     "addToDiary": "Add to diary",
+     "updateToDiary": "Update to diary",
+     "kcalRemaining": "remaining",
+     "caloEaten": "EATEN",
+     "caloBurned": "BURNED",
+     "dailyGoals": "Daily Goal",
+     "time": "Time",
+     "simpleCalo": {
+        "title": "Add simple calorie",
+        "defaultName": "Simple calorie",
+        "hintTitle": "Tile",
+        "hintkcal": "kcal (required)",
+        "hintCarbs": "carbs",
+        "hintFat": "fat",
+        "hintPro": "protein"
+     }
+  },
+  "food": {
+     "cannotFoundFoodTitle": "NOT FOUND",
+     "cannotFoundFoodSubTitle": "Please click on food button and create new simple food for you!",
+     "simpleFood": {
+        "title": "Add simple food",
+        "defaultName": "Simple food",
+        "hintTitle": "Food name",
+        "hintkcal": "kcal (required)",
+        "hintCarbs": "carbs",
+        "hintFat": "fat",
+        "hintPro": "protein"
+     },
+     "new": {
+      "title" : "Create new food",
+      "basic" : {
+         "title": "Basic information",
+         "nameTitle": "Name of food",
+         "barcodeTitle": "Barcode"
+      },
+      "servingSize" : {
+         "title" : "Serving",
+         "defaultServing" : "Default serving",
+         "customServing" : "Custom serving",
+         "name" : "Name of serving"
+      },
+      "contentPerServing": {
+         "gram": "grams (g)",
+         "ml" : "milliliter (ml)"
+      },
+      "nutrition": {
+         "title": "Nutritional information",
+         "additionTitle": "Additional data"
+      }
+     },
+     "barCode": {
+        "barCodeBtn": "Scan barcode",
+        "popupCoonfirmTitle": "The requested barcode is not in our database",
+        "popupCoonfirmContent": "Help connect the scanned barcode to an existing item"
+     }
+  },
+  "favMeal": {
+     "title": "Your meal",
+     "buttonTracking": "Create new meal",
+     "canotFoundTitle": "NOT FOUND",
+     "canotFoundSubTitle": "Please click on favorite button (💙) and create new meal for you!",
+     "msgConfirm": "Did you want create new meal?",
+     "msgDeleteConfirm": "Did you want delete the meal?",
+     "new": {
+        "title": "Create Meal",
+        "info": {
+           "title": "Meal information",
+           "name": "Name of meal",
+           "photo": "Photo of meal",
+           "hintRequired": "required",
+           "hintOptional": "optional",
+           "validateMsg": "Value can't be empty",
+           "validateInfo": "Please fill in the required information"
+        },
+        "content": {
+           "title": "Meal Content",
+           "buttonTitle": "Add food to Meal"
+        }
+     },
+     "tracking": {
+        "title": "Detail meal",
+        "infoHeader": "Meal information"
+     },
+     "cell": {
+        "serving": "Serving"
+     },
+     "addButtonTitle": "Add new meal",
+     "addFoodButtonTitle": "Add food to meal"
+  },
+  "activityBurnCalo": {
+     "swimming": "Swimming",
+     "walking": "Walking",
+     "running": "Running",
+     "riding": "Riding",
+     "time": "mins"
+  },
+  "exercise": {
+     "title": "Exercise",
+     "deleteMsg": "Delete exercise",
+     "addMsg": "Add exercise",
+     "canotFoundTitle": "NOT FOUND",
+     "canotFoundSubTitle": "Oops! We cannot find your search. You can share with us you exercise"
+  },
+  "setting": {
+     "title": "Settings",
+     "restorePurchase": "Restore purchase",
+     "dataLocale": "Setup database for you",
+     "updateBMR": "Update BMR",
+     "nutrition": "Nutrition settings",
+     "help": "Help",
+     "feedBack": "Feedback",
+     "moreApp": "More Apps",
+     "inviteFriend": "Invite Friend",
+     "inviteFriendMsg": "Best apps for Eat Clean",
+     "rateTheApp": "Rate the app",
+     "term": "Terms & Conditions",
+     "policy": "Privacy policy",
+     "signOut": "Sign Out"
+  },
+  "ratingPopup": {
+     "title": "What do you think about Our App",
+     "message": "Please leave a rating",
+     "child": "OK"
+  },
+  "showcase": {
+     "todayPage": {
+        "nextButton": {
+           "title": "Next day",
+           "subtitle": "Tap to go to next day"
+        },
+        "todayButton": {
+           "title": "Today",
+           "subtitle": "Tap to reload back today"
+        },
+        "floatingButton": {
+           "title": "Tracking calories",
+           "subtitle": "Tap to start tracking calories"
+        }
+     },
+     "mealPage": {
+        "addMeal": {
+           "title": "Create new meal",
+           "subtitle": "Tap to create new custom meal for you"
+        }
+     }
+  },
+  "measurement": {
+     "gram": "gram",
+     "calo": "calories",
+     "kg": "kg",
+     "cm": "cm"
+  }
+}

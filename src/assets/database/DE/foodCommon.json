@@ -1,0 +1,8300 @@
+[{
+    "carbs": 0,
+    "fat": 23,
+    "fiber": 0,
+    "kcal": 263,
+    "key": 1,
+    "name": "Aal",
+    "protein": 14,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 256,
+    "key": 2,
+    "name": "Absinth (45% Vol.)",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 4,
+    "fat": 19,
+    "fiber": 0,
+    "kcal": 207,
+    "key": 3,
+    "name": "Acai",
+    "protein": 5,
+    "sugar": 2
+},{
+    "carbs": 3.5,
+    "fat": 0,
+    "fiber": 2,
+    "kcal": 18,
+    "key": 4,
+    "name": "Acerola",
+    "protein": 0,
+    "sugar": 3.5
+},{
+    "carbs": 18,
+    "fat": 0.6,
+    "fiber": 9,
+    "kcal": 127,
+    "key": 5,
+    "name": "Ackerbohnen",
+    "protein": 8,
+    "sugar": 9
+},{
+    "carbs": 2,
+    "fat": 0.4,
+    "fiber": 4,
+    "kcal": 44,
+    "key": 6,
+    "name": "Afa Alge frisch",
+    "protein": 6,
+    "sugar": 0
+},{
+    "carbs": 77,
+    "fat": 0.4,
+    "fiber": 0,
+    "kcal": 312,
+    "key": 7,
+    "name": "Agavendicksaft",
+    "protein": 0.1,
+    "sugar": 75
+},{
+    "carbs": 10.6,
+    "fat": 5,
+    "fiber": 2,
+    "kcal": 97,
+    "key": 8,
+    "name": "Ajvar",
+    "protein": 1.5,
+    "sugar": 7
+},{
+    "carbs": 0.4,
+    "fat": 0,
+    "fiber": 0.2,
+    "kcal": 2,
+    "key": 9,
+    "name": "Aloe Vera Saft",
+    "protein": 0.1,
+    "sugar": 0
+},{
+    "carbs": 5.4,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 51,
+    "key": 10,
+    "name": "Altbier",
+    "protein": 0.5,
+    "sugar": 2
+},{
+    "carbs": 55,
+    "fat": 9,
+    "fiber": 8.7,
+    "kcal": 376,
+    "key": 11,
+    "name": "Amaranth",
+    "protein": 14.3,
+    "sugar": 2
+},{
+    "carbs": 12,
+    "fat": 0.1,
+    "fiber": 0.2,
+    "kcal": 51,
+    "key": 12,
+    "name": "Ananassaft",
+    "protein": 0.4,
+    "sugar": 12
+},{
+    "carbs": 65,
+    "fat": 2,
+    "fiber": 0,
+    "kcal": 303,
+    "key": 13,
+    "name": "Anis",
+    "protein": 6.3,
+    "sugar": 0
+},{
+    "carbs": 25,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 206,
+    "key": 14,
+    "name": "Aperol Likör",
+    "protein": 0,
+    "sugar": 25
+},{
+    "carbs": 11,
+    "fat": 0.2,
+    "fiber": 2.4,
+    "kcal": 52,
+    "key": 15,
+    "name": "Apfel",
+    "protein": 0.4,
+    "sugar": 10.4
+},{
+    "carbs": 69,
+    "fat": 0,
+    "fiber": 1.4,
+    "kcal": 279,
+    "key": 16,
+    "name": "Apfeldicksaft",
+    "protein": 0,
+    "sugar": 68
+},{
+    "carbs": 36,
+    "fat": 9.8,
+    "fiber": 2.4,
+    "kcal": 245,
+    "key": 17,
+    "name": "Apfelkuchen",
+    "protein": 2,
+    "sugar": 14
+},{
+    "carbs": 17,
+    "fat": 0.2,
+    "fiber": 1,
+    "kcal": 73,
+    "key": 18,
+    "name": "Apfelmus",
+    "protein": 0.2,
+    "sugar": 15
+},{
+    "carbs": 60,
+    "fat": 1.4,
+    "fiber": 10.9,
+    "kcal": 280,
+    "key": 19,
+    "name": "Apfelringe getrocknet",
+    "protein": 1.5,
+    "sugar": 54
+},{
+    "carbs": 11,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 44,
+    "key": 20,
+    "name": "Apfelsaft",
+    "protein": 0,
+    "sugar": 11
+},{
+    "carbs": 7,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 28,
+    "key": 21,
+    "name": "Apfelschorle",
+    "protein": 0,
+    "sugar": 7
+},{
+    "carbs": 4,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 57,
+    "key": 22,
+    "name": "Apfelwein",
+    "protein": 0,
+    "sugar": 4
+},{
+    "carbs": 0,
+    "fat": 31,
+    "fiber": 0,
+    "kcal": 375,
+    "key": 23,
+    "name": "Appenzeller",
+    "protein": 24,
+    "sugar": 0
+},{
+    "carbs": 9,
+    "fat": 0,
+    "fiber": 1,
+    "kcal": 42,
+    "key": 24,
+    "name": "Aprikose",
+    "protein": 1,
+    "sugar": 9
+},{
+    "carbs": 20,
+    "fat": 2,
+    "fiber": 3,
+    "kcal": 114,
+    "key": 25,
+    "name": "Aronia Beeren",
+    "protein": 2.5,
+    "sugar": 18
+},{
+    "carbs": 2.9,
+    "fat": 0,
+    "fiber": 10.9,
+    "kcal": 41,
+    "key": 26,
+    "name": "Artischocke",
+    "protein": 2,
+    "sugar": 2.9
+},{
+    "carbs": 3,
+    "fat": 0.9,
+    "fiber": 2.9,
+    "kcal": 30,
+    "key": 27,
+    "name": "Aubergine",
+    "protein": 1,
+    "sugar": 2.1
+},{
+    "carbs": 0,
+    "fat": 0.5,
+    "fiber": 0,
+    "kcal": 44,
+    "key": 28,
+    "name": "Auster",
+    "protein": 10,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 6,
+    "kcal": 20,
+    "key": 29,
+    "name": "Austernpilze",
+    "protein": 2,
+    "sugar": 0
+},{
+    "carbs": 2,
+    "fat": 22,
+    "fiber": 7,
+    "kcal": 228,
+    "key": 30,
+    "name": "Avocado",
+    "protein": 2,
+    "sugar": 1
+},{
+    "carbs": 2,
+    "fat": 2.5,
+    "fiber": 0,
+    "kcal": 38,
+    "key": 31,
+    "name": "Ayran",
+    "protein": 1.8,
+    "sugar": 2
+},{
+    "carbs": 22.4,
+    "fat": 9,
+    "fiber": 0.4,
+    "kcal": 206,
+    "key": 32,
+    "name": "Backfisch",
+    "protein": 8.7,
+    "sugar": 0.5
+},{
+    "carbs": 27,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 108,
+    "key": 33,
+    "name": "Backpulver",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 1.5,
+    "fat": 36,
+    "fiber": 0,
+    "kcal": 470,
+    "key": 34,
+    "name": "Bacon",
+    "protein": 35,
+    "sugar": 0
+},{
+    "carbs": 58.4,
+    "fat": 3,
+    "fiber": 4,
+    "kcal": 297,
+    "key": 35,
+    "name": "Baguette",
+    "protein": 7,
+    "sugar": 4
+},{
+    "carbs": 96,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 400,
+    "key": 36,
+    "name": "Baiser",
+    "protein": 4,
+    "sugar": 96
+},{
+    "carbs": 51.2,
+    "fat": 0.9,
+    "fiber": 0,
+    "kcal": 220,
+    "key": 37,
+    "name": "Balsamico Creme",
+    "protein": 1.7,
+    "sugar": 48
+},{
+    "carbs": 16,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 65,
+    "key": 38,
+    "name": "Balsamico Essig",
+    "protein": 0.2,
+    "sugar": 14.7
+},{
+    "carbs": 1,
+    "fat": 0,
+    "fiber": 1.5,
+    "kcal": 14,
+    "key": 39,
+    "name": "Bambussprossen",
+    "protein": 1.7,
+    "sugar": 1
+},{
+    "carbs": 20,
+    "fat": 0.2,
+    "fiber": 1.8,
+    "kcal": 90,
+    "key": 40,
+    "name": "Banane",
+    "protein": 1.2,
+    "sugar": 17
+},{
+    "carbs": 0,
+    "fat": 1.5,
+    "fiber": 0,
+    "kcal": 94,
+    "key": 41,
+    "name": "Barsch",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 2.7,
+    "fat": 0.6,
+    "fiber": 1.6,
+    "kcal": 32,
+    "key": 42,
+    "name": "Basilikum",
+    "protein": 3.2,
+    "sugar": 0.3
+},{
+    "carbs": 4.5,
+    "fat": 35,
+    "fiber": 0.3,
+    "kcal": 355,
+    "key": 43,
+    "name": "Basilikum Pesto",
+    "protein": 5.4,
+    "sugar": 1.6
+},{
+    "carbs": 78.2,
+    "fat": 0.8,
+    "fiber": 2.4,
+    "kcal": 360,
+    "key": 44,
+    "name": "Basmati Reis roh",
+    "protein": 8.7,
+    "sugar": 0
+},{
+    "carbs": 1,
+    "fat": 30,
+    "fiber": 0,
+    "kcal": 330,
+    "key": 45,
+    "name": "Bauchspeck",
+    "protein": 14,
+    "sugar": 0
+},{
+    "carbs": 5,
+    "fat": 0.7,
+    "fiber": 2,
+    "kcal": 43,
+    "key": 46,
+    "name": "Beifuß getrocknet",
+    "protein": 3.1,
+    "sugar": 0.4
+},{
+    "carbs": 65.2,
+    "fat": 2.8,
+    "fiber": 6.8,
+    "kcal": 313,
+    "key": 47,
+    "name": "Berberitzen, getrocknet",
+    "protein": 3.4,
+    "sugar": 64.8
+},{
+    "carbs": 0,
+    "fat": 33,
+    "fiber": 0,
+    "kcal": 413,
+    "key": 48,
+    "name": "Bergkäse 50% i.Tr.",
+    "protein": 29,
+    "sugar": 0
+},{
+    "carbs": 42,
+    "fat": 15.7,
+    "fiber": 0.4,
+    "kcal": 334,
+    "key": 49,
+    "name": "Berliner",
+    "protein": 6,
+    "sugar": 12
+},{
+    "carbs": 3,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 40,
+    "key": 50,
+    "name": "Bier",
+    "protein": 0,
+    "sugar": 3
+},{
+    "carbs": 5,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 22,
+    "key": 51,
+    "name": "Bier, alkoholfrei",
+    "protein": 0,
+    "sugar": 0.2
+},{
+    "carbs": 0,
+    "fat": 10,
+    "fiber": 0,
+    "kcal": 150,
+    "key": 52,
+    "name": "Bierschinken",
+    "protein": 15,
+    "sugar": 0
+},{
+    "carbs": 11,
+    "fat": 0,
+    "fiber": 3,
+    "kcal": 54,
+    "key": 53,
+    "name": "Birne",
+    "protein": 1,
+    "sugar": 10
+},{
+    "carbs": 3,
+    "fat": 12,
+    "fiber": 0,
+    "kcal": 172,
+    "key": 54,
+    "name": "Bismarckhering",
+    "protein": 13,
+    "sugar": 1.8
+},{
+    "carbs": 2,
+    "fat": 0,
+    "fiber": 1.6,
+    "kcal": 16,
+    "key": 55,
+    "name": "Blattsalat",
+    "protein": 1.1,
+    "sugar": 0
+},{
+    "carbs": 4,
+    "fat": 0.4,
+    "fiber": 2.4,
+    "kcal": 32,
+    "key": 56,
+    "name": "Blaukraut",
+    "protein": 1.8,
+    "sugar": 3
+},{
+    "carbs": 0,
+    "fat": 32,
+    "fiber": 0,
+    "kcal": 356,
+    "key": 57,
+    "name": "Blauschimmelkäse",
+    "protein": 17,
+    "sugar": 0
+},{
+    "carbs": 2,
+    "fat": 0,
+    "fiber": 2.7,
+    "kcal": 25,
+    "key": 58,
+    "name": "Blumenkohl",
+    "protein": 3,
+    "sugar": 2
+},{
+    "carbs": 0,
+    "fat": 28,
+    "fiber": 0,
+    "kcal": 312,
+    "key": 59,
+    "name": "Blutwurst",
+    "protein": 15,
+    "sugar": 0
+},{
+    "carbs": 49,
+    "fat": 36,
+    "fiber": 1.6,
+    "kcal": 550,
+    "key": 60,
+    "name": "Blätterteig",
+    "protein": 6.8,
+    "sugar": 0.8
+},{
+    "carbs": 58,
+    "fat": 6,
+    "fiber": 25,
+    "kcal": 428,
+    "key": 61,
+    "name": "Bockshornklee",
+    "protein": 23,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 26,
+    "fiber": 0,
+    "kcal": 282,
+    "key": 62,
+    "name": "Bockwurst",
+    "protein": 12,
+    "sugar": 0
+},{
+    "carbs": 54,
+    "fat": 6,
+    "fiber": 15,
+    "kcal": 324,
+    "key": 63,
+    "name": "Bohnenkraut getrocknet",
+    "protein": 6,
+    "sugar": 0
+},{
+    "carbs": 97,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 388,
+    "key": 64,
+    "name": "Bonbons",
+    "protein": 0,
+    "sugar": 97
+},{
+    "carbs": 3.1,
+    "fat": 0.7,
+    "fiber": 0,
+    "kcal": 26,
+    "key": 65,
+    "name": "Borretsch",
+    "protein": 1.8,
+    "sugar": 0
+},{
+    "carbs": 25,
+    "fat": 18,
+    "fiber": 0,
+    "kcal": 302,
+    "key": 66,
+    "name": "Brandteig",
+    "protein": 10,
+    "sugar": 1.8
+},{
+    "carbs": 6,
+    "fat": 1.6,
+    "fiber": 0,
+    "kcal": 42,
+    "key": 67,
+    "name": "Bratensauce",
+    "protein": 1,
+    "sugar": 1.1
+},{
+    "carbs": 9.5,
+    "fat": 8.8,
+    "fiber": 0.5,
+    "kcal": 174,
+    "key": 68,
+    "name": "Brathering",
+    "protein": 14,
+    "sugar": 3
+},{
+    "carbs": 18,
+    "fat": 4.5,
+    "fiber": 2,
+    "kcal": 124,
+    "key": 69,
+    "name": "Bratkartoffeln",
+    "protein": 1.8,
+    "sugar": 3
+},{
+    "carbs": 0,
+    "fat": 28,
+    "fiber": 0,
+    "kcal": 320,
+    "key": 70,
+    "name": "Bratwurst",
+    "protein": 17,
+    "sugar": 0
+},{
+    "carbs": 5,
+    "fat": 0.5,
+    "fiber": 5,
+    "kcal": 58,
+    "key": 71,
+    "name": "Brennnessel",
+    "protein": 6,
+    "sugar": 0
+},{
+    "carbs": 58,
+    "fat": 5,
+    "fiber": 3.1,
+    "kcal": 316,
+    "key": 72,
+    "name": "Brezel",
+    "protein": 8.1,
+    "sugar": 2
+},{
+    "carbs": 0,
+    "fat": 26,
+    "fiber": 0,
+    "kcal": 322,
+    "key": 73,
+    "name": "Brie",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 2.9,
+    "fat": 0.2,
+    "fiber": 2.5,
+    "kcal": 34,
+    "key": 74,
+    "name": "Brokkoli",
+    "protein": 4,
+    "sugar": 1.9
+},{
+    "carbs": 5,
+    "fat": 0.8,
+    "fiber": 4,
+    "kcal": 38,
+    "key": 75,
+    "name": "Brombeeren",
+    "protein": 0.8,
+    "sugar": 5
+},{
+    "carbs": 57,
+    "fat": 3,
+    "fiber": 3.6,
+    "kcal": 297,
+    "key": 76,
+    "name": "Brötchen Weizen",
+    "protein": 8.7,
+    "sugar": 4
+},{
+    "carbs": 70.9,
+    "fat": 1.8,
+    "fiber": 3.5,
+    "kcal": 343,
+    "key": 77,
+    "name": "Buchweizen",
+    "protein": 9,
+    "sugar": 2
+},{
+    "carbs": 71,
+    "fat": 2,
+    "fiber": 6.2,
+    "kcal": 354,
+    "key": 78,
+    "name": "Buchweizenmehl",
+    "protein": 10,
+    "sugar": 0
+},{
+    "carbs": 69.4,
+    "fat": 1,
+    "fiber": 9.4,
+    "kcal": 339,
+    "key": 79,
+    "name": "Bulgur",
+    "protein": 8.4,
+    "sugar": 1.8
+},{
+    "carbs": 0,
+    "fat": 82,
+    "fiber": 0,
+    "kcal": 742,
+    "key": 80,
+    "name": "Butter",
+    "protein": 1,
+    "sugar": 0
+},{
+    "carbs": 41,
+    "fat": 18,
+    "fiber": 0,
+    "kcal": 350,
+    "key": 81,
+    "name": "Butterbrezel",
+    "protein": 6,
+    "sugar": 1.4
+},{
+    "carbs": 72,
+    "fat": 12,
+    "fiber": 0,
+    "kcal": 430,
+    "key": 82,
+    "name": "Butterkekse",
+    "protein": 8.4,
+    "sugar": 21
+},{
+    "carbs": 0,
+    "fat": 33,
+    "fiber": 0,
+    "kcal": 385,
+    "key": 83,
+    "name": "Butterkäse",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 4.2,
+    "fat": 1.3,
+    "fiber": 0,
+    "kcal": 44,
+    "key": 84,
+    "name": "Buttermilch",
+    "protein": 3.8,
+    "sugar": 4.2
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 4.2,
+    "kcal": 16,
+    "key": 85,
+    "name": "Butterpilze",
+    "protein": 2,
+    "sugar": 0
+},{
+    "carbs": 2.4,
+    "fat": 0.2,
+    "fiber": 0,
+    "kcal": 15,
+    "key": 86,
+    "name": "Bärlauch",
+    "protein": 1,
+    "sugar": 2.4
+},{
+    "carbs": 1,
+    "fat": 24,
+    "fiber": 0,
+    "kcal": 276,
+    "key": 87,
+    "name": "Büffelmozzarella",
+    "protein": 14,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 3.4,
+    "fiber": 0,
+    "kcal": 183,
+    "key": 88,
+    "name": "Bündnerfleisch",
+    "protein": 38,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 30,
+    "fiber": 0,
+    "kcal": 326,
+    "key": 89,
+    "name": "Cabanossi",
+    "protein": 14,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 35,
+    "fiber": 0,
+    "kcal": 391,
+    "key": 90,
+    "name": "Camembert",
+    "protein": 19,
+    "sugar": 0
+},{
+    "carbs": 89,
+    "fat": 0,
+    "fiber": 0.7,
+    "kcal": 373,
+    "key": 91,
+    "name": "Camu-Camu Pulver",
+    "protein": 4,
+    "sugar": 70
+},{
+    "carbs": 3,
+    "fat": 1.7,
+    "fiber": 0,
+    "kcal": 33,
+    "key": 92,
+    "name": "Cappuccino",
+    "protein": 1.5,
+    "sugar": 3
+},{
+    "carbs": 31,
+    "fat": 40,
+    "fiber": 4,
+    "kcal": 572,
+    "key": 93,
+    "name": "Cashewmus",
+    "protein": 20,
+    "sugar": 14
+},{
+    "carbs": 30.7,
+    "fat": 40.4,
+    "fiber": 2.4,
+    "kcal": 575,
+    "key": 94,
+    "name": "Cashewnüsse",
+    "protein": 21,
+    "sugar": 6
+},{
+    "carbs": 1,
+    "fat": 31,
+    "fiber": 0,
+    "kcal": 351,
+    "key": 95,
+    "name": "Cervelatwurst",
+    "protein": 17,
+    "sugar": 1
+},{
+    "carbs": 1,
+    "fat": 19,
+    "fiber": 0.4,
+    "kcal": 244,
+    "key": 96,
+    "name": "Cevapcici",
+    "protein": 17,
+    "sugar": 0
+},{
+    "carbs": 5,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 91,
+    "key": 97,
+    "name": "Champagner",
+    "protein": 0,
+    "sugar": 5
+},{
+    "carbs": 0.8,
+    "fat": 0,
+    "fiber": 2,
+    "kcal": 19,
+    "key": 98,
+    "name": "Champignons",
+    "protein": 3,
+    "sugar": 0.8
+},{
+    "carbs": 0,
+    "fat": 33,
+    "fiber": 0,
+    "kcal": 385,
+    "key": 99,
+    "name": "Cheddar Käse",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 30,
+    "fat": 14,
+    "fiber": 1,
+    "kcal": 308,
+    "key": 100,
+    "name": "Cheeseburger",
+    "protein": 15,
+    "sugar": 5
+},{
+    "carbs": 3.5,
+    "fat": 0.1,
+    "fiber": 1,
+    "kcal": 20,
+    "key": 101,
+    "name": "Cherrytomaten",
+    "protein": 0.7,
+    "sugar": 3.2
+},{
+    "carbs": 5,
+    "fat": 31,
+    "fiber": 34,
+    "kcal": 451,
+    "key": 102,
+    "name": "Chia",
+    "protein": 21,
+    "sugar": 0
+},{
+    "carbs": 12,
+    "fat": 23.1,
+    "fiber": 8.9,
+    "kcal": 323,
+    "key": 103,
+    "name": "Chia Brot",
+    "protein": 12.4,
+    "sugar": 1.1
+},{
+    "carbs": 51,
+    "fat": 3,
+    "fiber": 3.4,
+    "kcal": 278,
+    "key": 104,
+    "name": "Chia Brötchen",
+    "protein": 10,
+    "sugar": 3
+},{
+    "carbs": 14,
+    "fat": 20,
+    "fiber": 2.1,
+    "kcal": 300,
+    "key": 105,
+    "name": "Chicken Nuggets",
+    "protein": 15,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 14,
+    "fiber": 0,
+    "kcal": 186,
+    "key": 106,
+    "name": "Chicken Wings",
+    "protein": 15,
+    "sugar": 0
+},{
+    "carbs": 2,
+    "fat": 0,
+    "fiber": 1.1,
+    "kcal": 14,
+    "key": 107,
+    "name": "Chicorée",
+    "protein": 1,
+    "sugar": 2
+},{
+    "carbs": 10,
+    "fat": 3.5,
+    "fiber": 1.4,
+    "kcal": 114,
+    "key": 108,
+    "name": "Chili con carne",
+    "protein": 10,
+    "sugar": 2
+},{
+    "carbs": 9,
+    "fat": 0.4,
+    "fiber": 1.7,
+    "kcal": 50,
+    "key": 109,
+    "name": "Chilischote",
+    "protein": 1.8,
+    "sugar": 6
+},{
+    "carbs": 0.8,
+    "fat": 0.3,
+    "fiber": 2,
+    "kcal": 13,
+    "key": 110,
+    "name": "Chinakohl",
+    "protein": 0.7,
+    "sugar": 0.7
+},{
+    "carbs": 23,
+    "fat": 10,
+    "fiber": 1,
+    "kcal": 404,
+    "key": 111,
+    "name": "Chlorella",
+    "protein": 55,
+    "sugar": 0
+},{
+    "carbs": 68.3,
+    "fat": 3.5,
+    "fiber": 2.7,
+    "kcal": 342,
+    "key": 112,
+    "name": "Ciabatta Brot",
+    "protein": 8,
+    "sugar": 0.8
+},{
+    "carbs": 6,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 52,
+    "key": 113,
+    "name": "Cidre",
+    "protein": 0,
+    "sugar": 6
+},{
+    "carbs": 9.5,
+    "fat": 0,
+    "fiber": 1.7,
+    "kcal": 45,
+    "key": 114,
+    "name": "Clementine",
+    "protein": 1,
+    "sugar": 9.5
+},{
+    "carbs": 12,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 48,
+    "key": 115,
+    "name": "Cola",
+    "protein": 0,
+    "sugar": 12
+},{
+    "carbs": 0.7,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 3,
+    "key": 116,
+    "name": "Cola light",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 0,
+    "key": 117,
+    "name": "Cola Zero",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 11.8,
+    "fat": 10.8,
+    "fiber": 0,
+    "kcal": 204,
+    "key": 118,
+    "name": "Cordon bleu v. Schwein",
+    "protein": 15,
+    "sugar": 3
+},{
+    "carbs": 0,
+    "fat": 7,
+    "fiber": 0,
+    "kcal": 143,
+    "key": 119,
+    "name": "Corned Beef",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 78,
+    "fat": 0.8,
+    "fiber": 3,
+    "kcal": 351,
+    "key": 120,
+    "name": "Cornflakes, natur",
+    "protein": 6.5,
+    "sugar": 4
+},{
+    "carbs": 25,
+    "fat": 0,
+    "fiber": 1.3,
+    "kcal": 119,
+    "key": 121,
+    "name": "Couscous gekocht",
+    "protein": 4,
+    "sugar": 0
+},{
+    "carbs": 66,
+    "fat": 2,
+    "fiber": 0,
+    "kcal": 330,
+    "key": 122,
+    "name": "Couscous roh",
+    "protein": 12,
+    "sugar": 1.7
+},{
+    "carbs": 81,
+    "fat": 0.5,
+    "fiber": 5.1,
+    "kcal": 341,
+    "key": 123,
+    "name": "Cranberries getrocknet",
+    "protein": 0.5,
+    "sugar": 70
+},{
+    "carbs": 5,
+    "fat": 1,
+    "fiber": 3,
+    "kcal": 39,
+    "key": 124,
+    "name": "Cranberry",
+    "protein": 1,
+    "sugar": 5
+},{
+    "carbs": 4,
+    "fat": 15,
+    "fiber": 0,
+    "kcal": 159,
+    "key": 125,
+    "name": "Creme fraiche 15%",
+    "protein": 2,
+    "sugar": 3
+},{
+    "carbs": 5,
+    "fat": 30,
+    "fiber": 0,
+    "kcal": 298,
+    "key": 126,
+    "name": "Creme fraiche 30%",
+    "protein": 2,
+    "sugar": 5
+},{
+    "carbs": 0,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 85,
+    "key": 127,
+    "name": "Crevetten",
+    "protein": 19,
+    "sugar": 0
+},{
+    "carbs": 41,
+    "fat": 27,
+    "fiber": 1.7,
+    "kcal": 435,
+    "key": 128,
+    "name": "Croissant",
+    "protein": 6.1,
+    "sugar": 6.8
+},{
+    "carbs": 25,
+    "fat": 14,
+    "fiber": 33,
+    "kcal": 344,
+    "key": 129,
+    "name": "Curry",
+    "protein": 13,
+    "sugar": 3
+},{
+    "carbs": 15,
+    "fat": 25,
+    "fiber": 0,
+    "kcal": 329,
+    "key": 130,
+    "name": "Currywurst mit Sauce",
+    "protein": 11,
+    "sugar": 15
+},{
+    "carbs": 60,
+    "fat": 0,
+    "fiber": 9,
+    "kcal": 266,
+    "key": 131,
+    "name": "Datteln",
+    "protein": 2,
+    "sugar": 60
+},{
+    "carbs": 11.9,
+    "fat": 1.2,
+    "fiber": 3,
+    "kcal": 92,
+    "key": 132,
+    "name": "Dicke Bohnen",
+    "protein": 6.8,
+    "sugar": 5.1
+},{
+    "carbs": 6,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 38,
+    "key": 133,
+    "name": "Diesel",
+    "protein": 0,
+    "sugar": 5
+},{
+    "carbs": 34,
+    "fat": 15,
+    "fiber": 21,
+    "kcal": 377,
+    "key": 134,
+    "name": "Dill",
+    "protein": 16,
+    "sugar": 3
+},{
+    "carbs": 40,
+    "fat": 1,
+    "fiber": 4.4,
+    "kcal": 202,
+    "key": 135,
+    "name": "Dinkelbrot",
+    "protein": 6,
+    "sugar": 2.4
+},{
+    "carbs": 34,
+    "fat": 3.4,
+    "fiber": 4.4,
+    "kcal": 215,
+    "key": 136,
+    "name": "Dinkelbrötchen",
+    "protein": 9.8,
+    "sugar": 2.9
+},{
+    "carbs": 64,
+    "fat": 2.6,
+    "fiber": 8.6,
+    "kcal": 353,
+    "key": 137,
+    "name": "Dinkelflocken",
+    "protein": 14.2,
+    "sugar": 1.6
+},{
+    "carbs": 17.7,
+    "fat": 4.9,
+    "fiber": 44.3,
+    "kcal": 266,
+    "key": 138,
+    "name": "Dinkelkleie",
+    "protein": 15.5,
+    "sugar": 0.2
+},{
+    "carbs": 66,
+    "fat": 3,
+    "fiber": 8,
+    "kcal": 357,
+    "key": 139,
+    "name": "Dinkelmehl, Vollkorn",
+    "protein": 12.4,
+    "sugar": 0.7
+},{
+    "carbs": 62,
+    "fat": 2,
+    "fiber": 0,
+    "kcal": 322,
+    "key": 140,
+    "name": "Dinkelnudeln roh",
+    "protein": 14,
+    "sugar": 0
+},{
+    "carbs": 41.5,
+    "fat": 1.9,
+    "fiber": 5.9,
+    "kcal": 222,
+    "key": 141,
+    "name": "Dinkelvollkornbrot",
+    "protein": 6.8,
+    "sugar": 1.1
+},{
+    "carbs": 2,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 31,
+    "key": 142,
+    "name": "Diätbier",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 75,
+    "fat": 8,
+    "fiber": 0.4,
+    "kcal": 387,
+    "key": 143,
+    "name": "Dominosteine",
+    "protein": 3.5,
+    "sugar": 60
+},{
+    "carbs": 49.1,
+    "fat": 25,
+    "fiber": 1.9,
+    "kcal": 445,
+    "key": 144,
+    "name": "Donut",
+    "protein": 5,
+    "sugar": 27
+},{
+    "carbs": 0,
+    "fat": 5,
+    "fiber": 0,
+    "kcal": 133,
+    "key": 145,
+    "name": "Dorade",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 7.1,
+    "fat": 0.4,
+    "fiber": 0.7,
+    "kcal": 37,
+    "key": 146,
+    "name": "Drachenfrucht",
+    "protein": 0.9,
+    "sugar": 6.9
+},{
+    "carbs": 19.8,
+    "fat": 6,
+    "fiber": 1.9,
+    "kcal": 185,
+    "key": 147,
+    "name": "Döner",
+    "protein": 12,
+    "sugar": 4
+},{
+    "carbs": 2.8,
+    "fat": 14,
+    "fiber": 0,
+    "kcal": 237,
+    "key": 148,
+    "name": "Dönerfleisch",
+    "protein": 25,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 30,
+    "fiber": 0,
+    "kcal": 358,
+    "key": 149,
+    "name": "Edamer Käse",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 1,
+    "fat": 11,
+    "fiber": 0,
+    "kcal": 151,
+    "key": 150,
+    "name": "Ei - Vollei",
+    "protein": 12,
+    "sugar": 1
+},{
+    "carbs": 32,
+    "fat": 7,
+    "fiber": 2.1,
+    "kcal": 217,
+    "key": 151,
+    "name": "Eierkuchen",
+    "protein": 5.5,
+    "sugar": 4.2
+},{
+    "carbs": 26,
+    "fat": 6,
+    "fiber": 0,
+    "kcal": 288,
+    "key": 152,
+    "name": "Eierlikör (20% Vol.)",
+    "protein": 4,
+    "sugar": 26
+},{
+    "carbs": 18,
+    "fat": 11,
+    "fiber": 0.7,
+    "kcal": 196,
+    "key": 153,
+    "name": "Eierpfannkuchen",
+    "protein": 6,
+    "sugar": 2.4
+},{
+    "carbs": 1.4,
+    "fat": 25,
+    "fiber": 0,
+    "kcal": 257,
+    "key": 154,
+    "name": "Eiersalat mit Mayonnaise",
+    "protein": 6.5,
+    "sugar": 1
+},{
+    "carbs": 25,
+    "fat": 6.7,
+    "fiber": 0.2,
+    "kcal": 185,
+    "key": 155,
+    "name": "Eierschecke",
+    "protein": 6,
+    "sugar": 13
+},{
+    "carbs": 0,
+    "fat": 31.5,
+    "fiber": 0,
+    "kcal": 352,
+    "key": 156,
+    "name": "Eigelb",
+    "protein": 17,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 13,
+    "fiber": 0,
+    "kcal": 197,
+    "key": 157,
+    "name": "Eisbein roh",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0.7,
+    "fat": 0,
+    "fiber": 1,
+    "kcal": 7,
+    "key": 158,
+    "name": "Eisbergsalat",
+    "protein": 0.5,
+    "sugar": 0.7
+},{
+    "carbs": 24,
+    "fat": 11,
+    "fiber": 0.7,
+    "kcal": 210,
+    "key": 159,
+    "name": "Eiscreme",
+    "protein": 3.5,
+    "sugar": 21
+},{
+    "carbs": 20,
+    "fat": 12,
+    "fiber": 0,
+    "kcal": 203,
+    "key": 160,
+    "name": "Eiscreme",
+    "protein": 3.8,
+    "sugar": 20
+},{
+    "carbs": 5,
+    "fat": 5,
+    "fiber": 0,
+    "kcal": 69,
+    "key": 161,
+    "name": "Eiskaffee",
+    "protein": 1,
+    "sugar": 5
+},{
+    "carbs": 10,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 40,
+    "key": 162,
+    "name": "Eistee",
+    "protein": 0,
+    "sugar": 10
+},{
+    "carbs": 1,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 44,
+    "key": 163,
+    "name": "Eiweiss / Eiklar",
+    "protein": 10,
+    "sugar": 1
+},{
+    "carbs": 13.5,
+    "fat": 10.6,
+    "fiber": 5,
+    "kcal": 239,
+    "key": 164,
+    "name": "Eiweißbrot",
+    "protein": 20,
+    "sugar": 2.8
+},{
+    "carbs": 5.4,
+    "fat": 13.4,
+    "fiber": 16.4,
+    "kcal": 285,
+    "key": 165,
+    "name": "Eiweißbrötchen",
+    "protein": 27.6,
+    "sugar": 1.4
+},{
+    "carbs": 5,
+    "fat": 2,
+    "fiber": 0,
+    "kcal": 358,
+    "key": 166,
+    "name": "Eiweißpulver",
+    "protein": 80,
+    "sugar": 5
+},{
+    "carbs": 9,
+    "fat": 5,
+    "fiber": 0,
+    "kcal": 201,
+    "key": 167,
+    "name": "Eiweißshake mit Milch",
+    "protein": 30.1,
+    "sugar": 8
+},{
+    "carbs": 0,
+    "fat": 30,
+    "fiber": 0,
+    "kcal": 370,
+    "key": 168,
+    "name": "Emmentaler Käse",
+    "protein": 25,
+    "sugar": 0
+},{
+    "carbs": 3.4,
+    "fat": 0.2,
+    "fiber": 3.1,
+    "kcal": 26,
+    "key": 169,
+    "name": "Endiviensalat",
+    "protein": 1.2,
+    "sugar": 0.2
+},{
+    "carbs": 13,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 52,
+    "key": 170,
+    "name": "Energydrink",
+    "protein": 0,
+    "sugar": 13
+},{
+    "carbs": 0,
+    "fat": 16,
+    "fiber": 0,
+    "kcal": 204,
+    "key": 171,
+    "name": "Ente",
+    "protein": 15,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 10,
+    "fiber": 0,
+    "kcal": 154,
+    "key": 172,
+    "name": "Entenbrust",
+    "protein": 16,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 4,
+    "fiber": 0,
+    "kcal": 104,
+    "key": 173,
+    "name": "Entenleber",
+    "protein": 17,
+    "sugar": 0
+},{
+    "carbs": 10.9,
+    "fat": 3.7,
+    "fiber": 2.1,
+    "kcal": 100,
+    "key": 174,
+    "name": "Erbsensuppe",
+    "protein": 4.8,
+    "sugar": 0.4
+},{
+    "carbs": 7,
+    "fat": 1,
+    "fiber": 1,
+    "kcal": 43,
+    "key": 175,
+    "name": "Erdbeeren",
+    "protein": 1,
+    "sugar": 7
+},{
+    "carbs": 13.1,
+    "fat": 1.5,
+    "fiber": 0,
+    "kcal": 79,
+    "key": 176,
+    "name": "Erdbeerjoghurt 1.5%",
+    "protein": 3.2,
+    "sugar": 13.1
+},{
+    "carbs": 35,
+    "fat": 3.8,
+    "fiber": 2.4,
+    "kcal": 182,
+    "key": 177,
+    "name": "Erdbeerkuchen Biskuitteig",
+    "protein": 0.7,
+    "sugar": 22
+},{
+    "carbs": 12,
+    "fat": 55,
+    "fiber": 6,
+    "kcal": 639,
+    "key": 178,
+    "name": "Erdnussbutter",
+    "protein": 21,
+    "sugar": 8
+},{
+    "carbs": 53,
+    "fat": 21,
+    "fiber": 0,
+    "kcal": 444,
+    "key": 179,
+    "name": "Erdnussflips",
+    "protein": 10.7,
+    "sugar": 3
+},{
+    "carbs": 12,
+    "fat": 49,
+    "fiber": 6.5,
+    "kcal": 618,
+    "key": 180,
+    "name": "Erdnussmus",
+    "protein": 29,
+    "sugar": 6.2
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 181,
+    "name": "Erdnussöl",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 7,
+    "fat": 49,
+    "fiber": 12,
+    "kcal": 581,
+    "key": 182,
+    "name": "Erdnüsse",
+    "protein": 22,
+    "sugar": 0.4
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 20,
+    "key": 183,
+    "name": "Erythrit",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 1.5,
+    "fat": 0.2,
+    "fiber": 0,
+    "kcal": 8,
+    "key": 184,
+    "name": "Espresso",
+    "protein": 0.1,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 0,
+    "key": 185,
+    "name": "Essig",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 40,
+    "fiber": 0,
+    "kcal": 360,
+    "key": 186,
+    "name": "Essig Öl Dressing",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 6,
+    "fat": 1,
+    "fiber": 4,
+    "kcal": 53,
+    "key": 187,
+    "name": "Estragon frisch",
+    "protein": 3,
+    "sugar": 0
+},{
+    "carbs": 50,
+    "fat": 7,
+    "fiber": 7,
+    "kcal": 369,
+    "key": 188,
+    "name": "Estragon getrocknet",
+    "protein": 23,
+    "sugar": 0
+},{
+    "carbs": 32,
+    "fat": 11.5,
+    "fiber": 11,
+    "kcal": 304,
+    "key": 189,
+    "name": "Falafel",
+    "protein": 12.5,
+    "sugar": 3.2
+},{
+    "carbs": 9.1,
+    "fat": 9.2,
+    "fiber": 0,
+    "kcal": 120,
+    "key": 190,
+    "name": "Fanta Orange",
+    "protein": 0.1,
+    "sugar": 0.1
+},{
+    "carbs": 10,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 68,
+    "key": 191,
+    "name": "Federweißer",
+    "protein": 0,
+    "sugar": 10
+},{
+    "carbs": 12,
+    "fat": 0,
+    "fiber": 1.8,
+    "kcal": 56,
+    "key": 192,
+    "name": "Feige",
+    "protein": 1,
+    "sugar": 11
+},{
+    "carbs": 0.8,
+    "fat": 0,
+    "fiber": 1,
+    "kcal": 14,
+    "key": 193,
+    "name": "Feldsalat",
+    "protein": 2.1,
+    "sugar": 0.7
+},{
+    "carbs": 2.8,
+    "fat": 0.5,
+    "fiber": 3.9,
+    "kcal": 33,
+    "key": 194,
+    "name": "Fenchel",
+    "protein": 2.4,
+    "sugar": 0.4
+},{
+    "carbs": 0,
+    "fat": 25,
+    "fiber": 0,
+    "kcal": 305,
+    "key": 195,
+    "name": "Feta Käse",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 22.4,
+    "fat": 12.1,
+    "fiber": 1.5,
+    "kcal": 251,
+    "key": 196,
+    "name": "Fischstäbchen",
+    "protein": 12.3,
+    "sugar": 2.2
+},{
+    "carbs": 45,
+    "fat": 0.8,
+    "fiber": 6.4,
+    "kcal": 219,
+    "key": 197,
+    "name": "Fladenbrot",
+    "protein": 4.7,
+    "sugar": 2
+},{
+    "carbs": 30,
+    "fat": 10,
+    "fiber": 1,
+    "kcal": 240,
+    "key": 198,
+    "name": "Flammkuchen",
+    "protein": 7,
+    "sugar": 3
+},{
+    "carbs": 1,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 15,
+    "key": 199,
+    "name": "Fleischbrühe",
+    "protein": 0.6,
+    "sugar": 0.3
+},{
+    "carbs": 0,
+    "fat": 15,
+    "fiber": 0,
+    "kcal": 207,
+    "key": 200,
+    "name": "Fleischkäse",
+    "protein": 18,
+    "sugar": 0
+},{
+    "carbs": 4,
+    "fat": 26.4,
+    "fiber": 0,
+    "kcal": 272,
+    "key": 201,
+    "name": "Fleischsalat",
+    "protein": 4.7,
+    "sugar": 3.2
+},{
+    "carbs": 0,
+    "fat": 25,
+    "fiber": 0,
+    "kcal": 285,
+    "key": 202,
+    "name": "Fleischwurst",
+    "protein": 15,
+    "sugar": 0
+},{
+    "carbs": 2,
+    "fat": 0.2,
+    "fiber": 85,
+    "kcal": 186,
+    "key": 203,
+    "name": "Flohsamenschalen",
+    "protein": 1.6,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0.4,
+    "fiber": 0,
+    "kcal": 64,
+    "key": 204,
+    "name": "Flusskrebs",
+    "protein": 15,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 5,
+    "fiber": 0,
+    "kcal": 121,
+    "key": 205,
+    "name": "Forelle",
+    "protein": 19,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 4.5,
+    "fiber": 0,
+    "kcal": 116,
+    "key": 206,
+    "name": "Forelle geräuchert",
+    "protein": 19,
+    "sugar": 0
+},{
+    "carbs": 30,
+    "fat": 21.9,
+    "fiber": 1,
+    "kcal": 339,
+    "key": 207,
+    "name": "Franzbrötchen",
+    "protein": 4.9,
+    "sugar": 19
+},{
+    "carbs": 5,
+    "fat": 20,
+    "fiber": 0.9,
+    "kcal": 282,
+    "key": 208,
+    "name": "Frikadelle",
+    "protein": 20,
+    "sugar": 1
+},{
+    "carbs": 3,
+    "fat": 10,
+    "fiber": 0,
+    "kcal": 145,
+    "key": 209,
+    "name": "Frischkäse fettreduziert",
+    "protein": 10.7,
+    "sugar": 3
+},{
+    "carbs": 1.1,
+    "fat": 4.2,
+    "fiber": 0,
+    "kcal": 90,
+    "key": 210,
+    "name": "Frischkäse körnig",
+    "protein": 11.9,
+    "sugar": 1.1
+},{
+    "carbs": 3.2,
+    "fat": 30.9,
+    "fiber": 0,
+    "kcal": 334,
+    "key": 211,
+    "name": "Frischkäse, Doppelrahm",
+    "protein": 10.7,
+    "sugar": 3.2
+},{
+    "carbs": 25,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 113,
+    "key": 212,
+    "name": "Fruchteis / Sorbet",
+    "protein": 1,
+    "sugar": 25
+},{
+    "carbs": 13.1,
+    "fat": 1.5,
+    "fiber": 0,
+    "kcal": 78,
+    "key": 213,
+    "name": "Fruchtjoghurt 1.5%",
+    "protein": 3,
+    "sugar": 13.1
+},{
+    "carbs": 10,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 40,
+    "key": 214,
+    "name": "Fruchtsaft",
+    "protein": 0,
+    "sugar": 10
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 400,
+    "key": 215,
+    "name": "Fruchtzucker",
+    "protein": 0,
+    "sugar": 100
+},{
+    "carbs": 66,
+    "fat": 5,
+    "fiber": 6,
+    "kcal": 333,
+    "key": 216,
+    "name": "Früchtemüsli",
+    "protein": 3,
+    "sugar": 14
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 0,
+    "key": 217,
+    "name": "Früchtetee",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 18.4,
+    "fat": 4,
+    "fiber": 1.9,
+    "kcal": 129,
+    "key": 218,
+    "name": "Frühlingsrolle",
+    "protein": 4,
+    "sugar": 1.2
+},{
+    "carbs": 4.9,
+    "fat": 0.4,
+    "fiber": 2.3,
+    "kcal": 35,
+    "key": 219,
+    "name": "Frühlingszwiebel",
+    "protein": 1.8,
+    "sugar": 2
+},{
+    "carbs": 7,
+    "fat": 0.4,
+    "fiber": 2.4,
+    "kcal": 44,
+    "key": 220,
+    "name": "Frühlingszwiebeln",
+    "protein": 1.9,
+    "sugar": 2.2
+},{
+    "carbs": 5.7,
+    "fat": 0.1,
+    "fiber": 0.4,
+    "kcal": 26,
+    "key": 221,
+    "name": "Galiamelone",
+    "protein": 0.4,
+    "sugar": 4
+},{
+    "carbs": 0,
+    "fat": 0.6,
+    "fiber": 0,
+    "kcal": 85,
+    "key": 222,
+    "name": "Gambas",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 10,
+    "fiber": 0,
+    "kcal": 166,
+    "key": 223,
+    "name": "Gans",
+    "protein": 19,
+    "sugar": 0
+},{
+    "carbs": 1.1,
+    "fat": 0.9,
+    "fiber": 0,
+    "kcal": 100,
+    "key": 224,
+    "name": "Garnelen",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 15,
+    "fiber": 0,
+    "kcal": 235,
+    "key": 225,
+    "name": "Geflügelfleischwurst",
+    "protein": 25,
+    "sugar": 0
+},{
+    "carbs": 1.5,
+    "fat": 18,
+    "fiber": 0.3,
+    "kcal": 225,
+    "key": 226,
+    "name": "Geflügelwiener",
+    "protein": 14,
+    "sugar": 0
+},{
+    "carbs": 1.2,
+    "fat": 18.4,
+    "fiber": 0.2,
+    "kcal": 231,
+    "key": 227,
+    "name": "Geflügelwurst",
+    "protein": 15,
+    "sugar": 0.5
+},{
+    "carbs": 14,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 61,
+    "key": 228,
+    "name": "Gelatine",
+    "protein": 1.2,
+    "sugar": 13
+},{
+    "carbs": 1,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 4,
+    "key": 229,
+    "name": "Gemüsebrühe",
+    "protein": 0,
+    "sugar": 0.6
+},{
+    "carbs": 7,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 28,
+    "key": 230,
+    "name": "Gemüsesaft",
+    "protein": 0,
+    "sugar": 2
+},{
+    "carbs": 53,
+    "fat": 3.4,
+    "fiber": 2.1,
+    "kcal": 262,
+    "key": 231,
+    "name": "Germknödel",
+    "protein": 3.9,
+    "sugar": 7
+},{
+    "carbs": 26,
+    "fat": 2,
+    "fiber": 35,
+    "kcal": 304,
+    "key": 232,
+    "name": "Gerstengras Pulver",
+    "protein": 28,
+    "sugar": 5
+},{
+    "carbs": 68,
+    "fat": 1.9,
+    "fiber": 7,
+    "kcal": 337,
+    "key": 233,
+    "name": "Gerstenmehl, Vollkorn",
+    "protein": 8.4,
+    "sugar": 1
+},{
+    "carbs": 6,
+    "fat": 0,
+    "fiber": 1,
+    "kcal": 30,
+    "key": 234,
+    "name": "Gewürzgurken",
+    "protein": 1,
+    "sugar": 5
+},{
+    "carbs": 0,
+    "fat": 99,
+    "fiber": 0,
+    "kcal": 891,
+    "key": 235,
+    "name": "Gheebutter",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 227,
+    "key": 236,
+    "name": "Gin (40% Vol.)",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 86,
+    "fat": 0.1,
+    "fiber": 0.5,
+    "kcal": 347,
+    "key": 237,
+    "name": "Glasnudeln roh",
+    "protein": 0.2,
+    "sugar": 0
+},{
+    "carbs": 5.1,
+    "fat": 1.4,
+    "fiber": 0,
+    "kcal": 353,
+    "key": 238,
+    "name": "Gluten, Weizenkleber",
+    "protein": 80,
+    "sugar": 1.9
+},{
+    "carbs": 14,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 108,
+    "key": 239,
+    "name": "Glühwein",
+    "protein": 0,
+    "sugar": 14
+},{
+    "carbs": 25,
+    "fat": 0.8,
+    "fiber": 0,
+    "kcal": 122,
+    "key": 240,
+    "name": "Gnocchi",
+    "protein": 3.8,
+    "sugar": 2
+},{
+    "carbs": 54,
+    "fat": 4.7,
+    "fiber": 21.7,
+    "kcal": 346,
+    "key": 241,
+    "name": "Goji Beeren getrocknet",
+    "protein": 11,
+    "sugar": 51.4
+},{
+    "carbs": 0,
+    "fat": 33,
+    "fiber": 0,
+    "kcal": 377,
+    "key": 242,
+    "name": "Gorgonzola",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 32,
+    "fiber": 0,
+    "kcal": 376,
+    "key": 243,
+    "name": "Gouda Käse",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 15,
+    "fat": 0,
+    "fiber": 2,
+    "kcal": 68,
+    "key": 244,
+    "name": "Granatapfel",
+    "protein": 1,
+    "sugar": 14
+},{
+    "carbs": 6,
+    "fat": 0,
+    "fiber": 1.4,
+    "kcal": 31,
+    "key": 245,
+    "name": "Grapefruit",
+    "protein": 1,
+    "sugar": 6
+},{
+    "carbs": 10,
+    "fat": 0.1,
+    "fiber": 1.3,
+    "kcal": 47,
+    "key": 246,
+    "name": "Grapefruitsaft",
+    "protein": 0.8,
+    "sugar": 7
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 227,
+    "key": 247,
+    "name": "Grappa (40% Vol.)",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 46,
+    "fat": 2,
+    "fiber": 5.8,
+    "kcal": 246,
+    "key": 248,
+    "name": "Graubrot",
+    "protein": 8,
+    "sugar": 2.4
+},{
+    "carbs": 71,
+    "fat": 1.4,
+    "fiber": 0,
+    "kcal": 335,
+    "key": 249,
+    "name": "Graupen",
+    "protein": 9.7,
+    "sugar": 0
+},{
+    "carbs": 4.3,
+    "fat": 10,
+    "fiber": 0,
+    "kcal": 133,
+    "key": 250,
+    "name": "griechischer Joghurt 10%",
+    "protein": 6.5,
+    "sugar": 4.1
+},{
+    "carbs": 16,
+    "fat": 2.9,
+    "fiber": 0,
+    "kcal": 105,
+    "key": 251,
+    "name": "Grießbrei",
+    "protein": 3.7,
+    "sugar": 4
+},{
+    "carbs": 30,
+    "fat": 9.4,
+    "fiber": 4.7,
+    "kcal": 238,
+    "key": 252,
+    "name": "Grissinis",
+    "protein": 6,
+    "sugar": 2
+},{
+    "carbs": 5,
+    "fat": 0,
+    "fiber": 2,
+    "kcal": 32,
+    "key": 253,
+    "name": "Grüne Bohnen",
+    "protein": 2,
+    "sugar": 3
+},{
+    "carbs": 11,
+    "fat": 0.4,
+    "fiber": 4,
+    "kcal": 84,
+    "key": 254,
+    "name": "Grüne Erbsen",
+    "protein": 7,
+    "sugar": 1
+},{
+    "carbs": 2.8,
+    "fat": 0.2,
+    "fiber": 0,
+    "kcal": 21,
+    "key": 255,
+    "name": "Grüner Spargel",
+    "protein": 1.9,
+    "sugar": 0.2
+},{
+    "carbs": 0.1,
+    "fat": 0.1,
+    "fiber": 0.1,
+    "kcal": 2,
+    "key": 256,
+    "name": "Grüner tee",
+    "protein": 0.2,
+    "sugar": 0
+},{
+    "carbs": 2.7,
+    "fat": 0.8,
+    "fiber": 4,
+    "kcal": 41,
+    "key": 257,
+    "name": "Grünkohl",
+    "protein": 3.8,
+    "sugar": 2
+},{
+    "carbs": 10.4,
+    "fat": 17.4,
+    "fiber": 0,
+    "kcal": 243,
+    "key": 258,
+    "name": "Grützwurst",
+    "protein": 11.2,
+    "sugar": 0
+},{
+    "carbs": 3.2,
+    "fat": 15,
+    "fiber": 2.2,
+    "kcal": 160,
+    "key": 259,
+    "name": "Guacamole",
+    "protein": 2,
+    "sugar": 1.7
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 2,
+    "kcal": 24,
+    "key": 260,
+    "name": "Guarkernmehl",
+    "protein": 5,
+    "sugar": 0
+},{
+    "carbs": 6,
+    "fat": 1,
+    "fiber": 5,
+    "kcal": 47,
+    "key": 261,
+    "name": "Guave",
+    "protein": 1,
+    "sugar": 5
+},{
+    "carbs": 80,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 340,
+    "key": 262,
+    "name": "Gummibärchen",
+    "protein": 5,
+    "sugar": 78
+},{
+    "carbs": 2,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 12,
+    "key": 263,
+    "name": "Gurke grün",
+    "protein": 1,
+    "sugar": 2
+},{
+    "carbs": 0,
+    "fat": 9,
+    "fiber": 0,
+    "kcal": 149,
+    "key": 264,
+    "name": "Gyros",
+    "protein": 17,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 6.3,
+    "fiber": 0,
+    "kcal": 141,
+    "key": 265,
+    "name": "Gänsebrust",
+    "protein": 21,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 9.4,
+    "fiber": 0,
+    "kcal": 169,
+    "key": 266,
+    "name": "Gänsekeule",
+    "protein": 21,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 24,
+    "fiber": 0,
+    "kcal": 280,
+    "key": 267,
+    "name": "Gänseleberpastete",
+    "protein": 16,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 268,
+    "name": "Gänseschmalz",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 6,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 24,
+    "key": 269,
+    "name": "Götterspeise gekocht",
+    "protein": 0,
+    "sugar": 6
+},{
+    "carbs": 0,
+    "fat": 28,
+    "fiber": 0,
+    "kcal": 336,
+    "key": 270,
+    "name": "Hackfleisch gemischt",
+    "protein": 21,
+    "sugar": 0
+},{
+    "carbs": 55,
+    "fat": 6.5,
+    "fiber": 9.8,
+    "kcal": 339,
+    "key": 271,
+    "name": "Haferflocken",
+    "protein": 10.3,
+    "sugar": 1
+},{
+    "carbs": 45.2,
+    "fat": 7.8,
+    "fiber": 18.6,
+    "kcal": 350,
+    "key": 272,
+    "name": "Haferkleie",
+    "protein": 15.4,
+    "sugar": 1.3
+},{
+    "carbs": 6,
+    "fat": 1.5,
+    "fiber": 0,
+    "kcal": 42,
+    "key": 273,
+    "name": "Hafermilch",
+    "protein": 1,
+    "sugar": 5
+},{
+    "carbs": 16,
+    "fat": 0.2,
+    "fiber": 24,
+    "kcal": 120,
+    "key": 274,
+    "name": "Hagebutten",
+    "protein": 1.6,
+    "sugar": 4
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 0,
+    "key": 275,
+    "name": "Hagebuttentee",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 40,
+    "fiber": 0,
+    "kcal": 360,
+    "key": 276,
+    "name": "Halbfettmargarine",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 2.2,
+    "fat": 21.8,
+    "fiber": 0,
+    "kcal": 293,
+    "key": 277,
+    "name": "Halloumi",
+    "protein": 22,
+    "sugar": 1.3
+},{
+    "carbs": 24,
+    "fat": 13,
+    "fiber": 2,
+    "kcal": 285,
+    "key": 278,
+    "name": "Hamburger",
+    "protein": 17,
+    "sugar": 5
+},{
+    "carbs": 0,
+    "fat": 0.5,
+    "fiber": 0,
+    "kcal": 120,
+    "key": 279,
+    "name": "Handkäse",
+    "protein": 29,
+    "sugar": 0
+},{
+    "carbs": 1.2,
+    "fat": 8,
+    "fiber": 45,
+    "kcal": 287,
+    "key": 280,
+    "name": "Hanfmehl",
+    "protein": 30,
+    "sugar": 0
+},{
+    "carbs": 12,
+    "fat": 44,
+    "fiber": 5,
+    "kcal": 586,
+    "key": 281,
+    "name": "Hanfsamen",
+    "protein": 33,
+    "sugar": 1
+},{
+    "carbs": 0,
+    "fat": 0.5,
+    "fiber": 0,
+    "kcal": 116,
+    "key": 282,
+    "name": "Harzer Käse",
+    "protein": 28,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 2,
+    "fiber": 0,
+    "kcal": 98,
+    "key": 283,
+    "name": "Hase",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 3.1,
+    "fat": 1.6,
+    "fiber": 0.3,
+    "kcal": 29,
+    "key": 284,
+    "name": "Haselnussmilch",
+    "protein": 0.4,
+    "sugar": 3.1
+},{
+    "carbs": 11,
+    "fat": 64,
+    "fiber": 4,
+    "kcal": 688,
+    "key": 285,
+    "name": "Haselnussmus",
+    "protein": 15,
+    "sugar": 8
+},{
+    "carbs": 5.8,
+    "fat": 61,
+    "fiber": 7.4,
+    "kcal": 635,
+    "key": 286,
+    "name": "Haselnüsse",
+    "protein": 12,
+    "sugar": 1
+},{
+    "carbs": 9,
+    "fat": 6,
+    "fiber": 0,
+    "kcal": 286,
+    "key": 287,
+    "name": "Hefeflocken",
+    "protein": 49,
+    "sugar": 0.2
+},{
+    "carbs": 42,
+    "fat": 1,
+    "fiber": 0.3,
+    "kcal": 202,
+    "key": 288,
+    "name": "Hefeteig",
+    "protein": 6,
+    "sugar": 0
+},{
+    "carbs": 43,
+    "fat": 6.6,
+    "fiber": 9.4,
+    "kcal": 284,
+    "key": 289,
+    "name": "Hefezopf",
+    "protein": 8.4,
+    "sugar": 12
+},{
+    "carbs": 6,
+    "fat": 0,
+    "fiber": 5.4,
+    "kcal": 39,
+    "key": 290,
+    "name": "Heidelbeeren",
+    "protein": 1,
+    "sugar": 5
+},{
+    "carbs": 0,
+    "fat": 1.8,
+    "fiber": 0,
+    "kcal": 107,
+    "key": 291,
+    "name": "Heilbutt",
+    "protein": 22.8,
+    "sugar": 0
+},{
+    "carbs": 5.4,
+    "fat": 4,
+    "fiber": 0,
+    "kcal": 70,
+    "key": 292,
+    "name": "Heiße Schokolade",
+    "protein": 3,
+    "sugar": 4.5
+},{
+    "carbs": 0,
+    "fat": 15,
+    "fiber": 0,
+    "kcal": 207,
+    "key": 293,
+    "name": "Heringsfilet",
+    "protein": 18,
+    "sugar": 0
+},{
+    "carbs": 5,
+    "fat": 0,
+    "fiber": 4.6,
+    "kcal": 33,
+    "key": 294,
+    "name": "Himbeeren",
+    "protein": 1,
+    "sugar": 5
+},{
+    "carbs": 0,
+    "fat": 2,
+    "fiber": 0,
+    "kcal": 102,
+    "key": 295,
+    "name": "Hirsch",
+    "protein": 21,
+    "sugar": 0
+},{
+    "carbs": 67.3,
+    "fat": 3,
+    "fiber": 4.1,
+    "kcal": 344,
+    "key": 296,
+    "name": "Hirse",
+    "protein": 10,
+    "sugar": 2
+},{
+    "carbs": 73.3,
+    "fat": 2.8,
+    "fiber": 0,
+    "kcal": 366,
+    "key": 297,
+    "name": "Hirseflocken",
+    "protein": 11.8,
+    "sugar": 0
+},{
+    "carbs": 8,
+    "fat": 0.5,
+    "fiber": 3,
+    "kcal": 45,
+    "key": 298,
+    "name": "Holunder",
+    "protein": 0.6,
+    "sugar": 8
+},{
+    "carbs": 6,
+    "fat": 0,
+    "fiber": 4,
+    "kcal": 40,
+    "key": 299,
+    "name": "Holundersaft",
+    "protein": 2,
+    "sugar": 5
+},{
+    "carbs": 78,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 312,
+    "key": 300,
+    "name": "Honig",
+    "protein": 0,
+    "sugar": 78
+},{
+    "carbs": 11,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 48,
+    "key": 301,
+    "name": "Honigmelone",
+    "protein": 1,
+    "sugar": 11
+},{
+    "carbs": 11,
+    "fat": 0.1,
+    "fiber": 0,
+    "kcal": 94,
+    "key": 302,
+    "name": "Hugo Aperitif Cocktail",
+    "protein": 0.1,
+    "sugar": 10.8
+},{
+    "carbs": 0,
+    "fat": 0.8,
+    "fiber": 0,
+    "kcal": 88,
+    "key": 303,
+    "name": "Hummer",
+    "protein": 20.1,
+    "sugar": 0
+},{
+    "carbs": 14,
+    "fat": 10,
+    "fiber": 6,
+    "kcal": 190,
+    "key": 304,
+    "name": "Hummus",
+    "protein": 8,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 9,
+    "fiber": 0,
+    "kcal": 161,
+    "key": 305,
+    "name": "Hähnchen",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 9.7,
+    "fiber": 0,
+    "kcal": 175,
+    "key": 306,
+    "name": "Hähnchen gebraten",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 4,
+    "fiber": 0,
+    "kcal": 116,
+    "key": 307,
+    "name": "Hähnchenbrust",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 4,
+    "fiber": 0,
+    "kcal": 116,
+    "key": 308,
+    "name": "Hähnchenleber",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 9,
+    "fiber": 0,
+    "kcal": 161,
+    "key": 309,
+    "name": "Hähnchenschenkel",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 15,
+    "fat": 7,
+    "fiber": 0,
+    "kcal": 191,
+    "key": 310,
+    "name": "Hähnchenschnitzel paniert gebraten",
+    "protein": 17,
+    "sugar": 0
+},{
+    "carbs": 3.8,
+    "fat": 3.3,
+    "fiber": 0.4,
+    "kcal": 96,
+    "key": 311,
+    "name": "Hühnerfrikassee",
+    "protein": 12.5,
+    "sugar": 0.9
+},{
+    "carbs": 3.5,
+    "fat": 1.2,
+    "fiber": 0,
+    "kcal": 34,
+    "key": 312,
+    "name": "Hühnersuppe",
+    "protein": 2.4,
+    "sugar": 1.6
+},{
+    "carbs": 3.3,
+    "fat": 4.1,
+    "fiber": 0,
+    "kcal": 93,
+    "key": 313,
+    "name": "Hüttenkäse",
+    "protein": 10.8,
+    "sugar": 2.1
+},{
+    "carbs": 13,
+    "fat": 0.8,
+    "fiber": 2,
+    "kcal": 70,
+    "key": 314,
+    "name": "Ingwer",
+    "protein": 1.6,
+    "sugar": 2
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 200,
+    "key": 315,
+    "name": "Isomalt",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 18,
+    "fiber": 0,
+    "kcal": 210,
+    "key": 316,
+    "name": "Jagdwurst",
+    "protein": 12,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 1.2,
+    "fiber": 0,
+    "kcal": 56,
+    "key": 317,
+    "name": "Jakobsmuschel",
+    "protein": 11.4,
+    "sugar": 0
+},{
+    "carbs": 80.1,
+    "fat": 0.4,
+    "fiber": 0,
+    "kcal": 356,
+    "key": 318,
+    "name": "Jasminreis roh",
+    "protein": 8,
+    "sugar": 0
+},{
+    "carbs": 5.8,
+    "fat": 0.1,
+    "fiber": 0,
+    "kcal": 46,
+    "key": 319,
+    "name": "Joghurt, 0,1%",
+    "protein": 5.5,
+    "sugar": 5.8
+},{
+    "carbs": 5,
+    "fat": 1.5,
+    "fiber": 0,
+    "kcal": 47,
+    "key": 320,
+    "name": "Joghurt, 1,5%",
+    "protein": 3.4,
+    "sugar": 5
+},{
+    "carbs": 5,
+    "fat": 3.5,
+    "fiber": 0,
+    "kcal": 65,
+    "key": 321,
+    "name": "Joghurt, 3.5%",
+    "protein": 3.4,
+    "sugar": 5
+},{
+    "carbs": 8,
+    "fat": 12,
+    "fiber": 0,
+    "kcal": 146,
+    "key": 322,
+    "name": "Joghurtdressing",
+    "protein": 1.5,
+    "sugar": 4
+},{
+    "carbs": 14,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 91,
+    "key": 323,
+    "name": "Joghurteis",
+    "protein": 2,
+    "sugar": 14
+},{
+    "carbs": 1,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 37,
+    "key": 324,
+    "name": "Johannisbrotkernmehl",
+    "protein": 6,
+    "sugar": 1
+},{
+    "carbs": 12,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 247,
+    "key": 325,
+    "name": "Jägermeister Kräuterlikör",
+    "protein": 0,
+    "sugar": 12
+},{
+    "carbs": 0,
+    "fat": 0.7,
+    "fiber": 0,
+    "kcal": 78,
+    "key": 326,
+    "name": "Kabeljau / Dorsch",
+    "protein": 18,
+    "sugar": 0
+},{
+    "carbs": 3.5,
+    "fat": 0.1,
+    "fiber": 0,
+    "kcal": 15,
+    "key": 327,
+    "name": "Kaffee komplett",
+    "protein": 0.1,
+    "sugar": 3.5
+},{
+    "carbs": 0.1,
+    "fat": 0.1,
+    "fiber": 0,
+    "kcal": 2,
+    "key": 328,
+    "name": "Kaffee mit Milch",
+    "protein": 0.1,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 0,
+    "key": 329,
+    "name": "Kaffee schwarz",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 4,
+    "fat": 10,
+    "fiber": 0,
+    "kcal": 118,
+    "key": 330,
+    "name": "Kaffeesahne 10%",
+    "protein": 3,
+    "sugar": 4
+},{
+    "carbs": 4,
+    "fat": 4,
+    "fiber": 0,
+    "kcal": 64,
+    "key": 331,
+    "name": "Kaffeesahne 4%",
+    "protein": 3,
+    "sugar": 4
+},{
+    "carbs": 4,
+    "fat": 7.5,
+    "fiber": 0,
+    "kcal": 96,
+    "key": 332,
+    "name": "Kaffeesahne 7,5%",
+    "protein": 3,
+    "sugar": 4
+},{
+    "carbs": 3.3,
+    "fat": 0.2,
+    "fiber": 2.7,
+    "kcal": 28,
+    "key": 333,
+    "name": "Kaisergemüse",
+    "protein": 2,
+    "sugar": 1.2
+},{
+    "carbs": 22,
+    "fat": 5,
+    "fiber": 0.4,
+    "kcal": 154,
+    "key": 334,
+    "name": "Kaiserschmarrn",
+    "protein": 5,
+    "sugar": 9
+},{
+    "carbs": 10,
+    "fat": 15,
+    "fiber": 35,
+    "kcal": 337,
+    "key": 335,
+    "name": "Kakao, stark entölt",
+    "protein": 23,
+    "sugar": 2
+},{
+    "carbs": 11,
+    "fat": 25,
+    "fiber": 33,
+    "kcal": 415,
+    "key": 336,
+    "name": "Kakaobohnen",
+    "protein": 20,
+    "sugar": 1
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 337,
+    "name": "Kakaobutter",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 2.5,
+    "fat": 7.8,
+    "fiber": 57,
+    "kcal": 263,
+    "key": 338,
+    "name": "Kakaofasern",
+    "protein": 17.3,
+    "sugar": 0.5
+},{
+    "carbs": 20,
+    "fat": 2.6,
+    "fiber": 0,
+    "kcal": 115,
+    "key": 339,
+    "name": "Kakaomilch 1,5%",
+    "protein": 3,
+    "sugar": 20
+},{
+    "carbs": 20,
+    "fat": 3.6,
+    "fiber": 0,
+    "kcal": 124,
+    "key": 340,
+    "name": "Kakaomilch 3,5%",
+    "protein": 3,
+    "sugar": 20
+},{
+    "carbs": 80,
+    "fat": 3,
+    "fiber": 7,
+    "kcal": 377,
+    "key": 341,
+    "name": "Kakaopulver gezuckert",
+    "protein": 4,
+    "sugar": 78
+},{
+    "carbs": 15,
+    "fat": 0,
+    "fiber": 2,
+    "kcal": 68,
+    "key": 342,
+    "name": "Kaki",
+    "protein": 1,
+    "sugar": 15
+},{
+    "carbs": 0,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 83,
+    "key": 343,
+    "name": "Kalbsbries",
+    "protein": 14,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 2.4,
+    "fiber": 0,
+    "kcal": 102,
+    "key": 344,
+    "name": "Kalbsfilet",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 4,
+    "fiber": 0,
+    "kcal": 116,
+    "key": 345,
+    "name": "Kalbsfleisch",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 3,
+    "fat": 0.7,
+    "fiber": 0,
+    "kcal": 70,
+    "key": 346,
+    "name": "Kalbsleber",
+    "protein": 13,
+    "sugar": 0
+},{
+    "carbs": 1.4,
+    "fat": 25,
+    "fiber": 0.1,
+    "kcal": 291,
+    "key": 347,
+    "name": "Kalbsleberwurst",
+    "protein": 15,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 107,
+    "key": 348,
+    "name": "Kalbsrücken",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 2.8,
+    "fiber": 0,
+    "kcal": 109,
+    "key": 349,
+    "name": "Kalbsschnitzel",
+    "protein": 21,
+    "sugar": 0
+},{
+    "carbs": 65,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 260,
+    "key": 350,
+    "name": "Kalorien Ahornsirup",
+    "protein": 0,
+    "sugar": 65
+},{
+    "carbs": 11.5,
+    "fat": 0.2,
+    "fiber": 1,
+    "kcal": 51,
+    "key": 351,
+    "name": "Kalorien Ananas",
+    "protein": 0.4,
+    "sugar": 11.3
+},{
+    "carbs": 1,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 4,
+    "key": 352,
+    "name": "Kalorien Apfelessig",
+    "protein": 0,
+    "sugar": 0.5
+},{
+    "carbs": 68.2,
+    "fat": 2.2,
+    "fiber": 10.1,
+    "kcal": 365,
+    "key": 353,
+    "name": "Kamut",
+    "protein": 13,
+    "sugar": 8
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 400,
+    "key": 354,
+    "name": "Kandiszucker",
+    "protein": 0,
+    "sugar": 100
+},{
+    "carbs": 0,
+    "fat": 6,
+    "fiber": 0,
+    "kcal": 142,
+    "key": 355,
+    "name": "Kaninchen",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 5,
+    "fat": 0.8,
+    "fiber": 3.4,
+    "kcal": 44,
+    "key": 356,
+    "name": "Kapern, Glas",
+    "protein": 2.4,
+    "sugar": 0.5
+},{
+    "carbs": 3.8,
+    "fat": 1,
+    "fiber": 1.4,
+    "kcal": 30,
+    "key": 357,
+    "name": "Karambole",
+    "protein": 0.8,
+    "sugar": 3.8
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 400,
+    "key": 358,
+    "name": "Karamel",
+    "protein": 0,
+    "sugar": 100
+},{
+    "carbs": 65.9,
+    "fat": 6.4,
+    "fiber": 12.7,
+    "kcal": 389,
+    "key": 359,
+    "name": "Kardamom gemahlen",
+    "protein": 10.6,
+    "sugar": 1
+},{
+    "carbs": 5,
+    "fat": 0.2,
+    "fiber": 0.5,
+    "kcal": 25,
+    "key": 360,
+    "name": "Karottensaft",
+    "protein": 0.5,
+    "sugar": 4
+},{
+    "carbs": 0,
+    "fat": 5,
+    "fiber": 0,
+    "kcal": 113,
+    "key": 361,
+    "name": "Karpfen",
+    "protein": 17,
+    "sugar": 0
+},{
+    "carbs": 41,
+    "fat": 3.1,
+    "fiber": 6,
+    "kcal": 256,
+    "key": 362,
+    "name": "Kartoffelbrot",
+    "protein": 13,
+    "sugar": 13
+},{
+    "carbs": 52,
+    "fat": 35,
+    "fiber": 4.6,
+    "kcal": 556,
+    "key": 363,
+    "name": "Kartoffelchips",
+    "protein": 6,
+    "sugar": 1
+},{
+    "carbs": 8,
+    "fat": 0.1,
+    "fiber": 65,
+    "kcal": 199,
+    "key": 364,
+    "name": "Kartoffelfasern",
+    "protein": 9,
+    "sugar": 0.1
+},{
+    "carbs": 17,
+    "fat": 5,
+    "fiber": 1.2,
+    "kcal": 123,
+    "key": 365,
+    "name": "Kartoffelgratin",
+    "protein": 2,
+    "sugar": 2
+},{
+    "carbs": 16,
+    "fat": 0,
+    "fiber": 1.7,
+    "kcal": 73,
+    "key": 366,
+    "name": "Kartoffeln gekocht",
+    "protein": 1.5,
+    "sugar": 0.4
+},{
+    "carbs": 16,
+    "fat": 0.3,
+    "fiber": 1.8,
+    "kcal": 77,
+    "key": 367,
+    "name": "Kartoffeln roh",
+    "protein": 1.7,
+    "sugar": 2.1
+},{
+    "carbs": 25,
+    "fat": 15,
+    "fiber": 1.8,
+    "kcal": 263,
+    "key": 368,
+    "name": "Kartoffelpuffer",
+    "protein": 6,
+    "sugar": 2.4
+},{
+    "carbs": 12,
+    "fat": 1.4,
+    "fiber": 1.3,
+    "kcal": 71,
+    "key": 369,
+    "name": "Kartoffelpüree",
+    "protein": 2,
+    "sugar": 1.2
+},{
+    "carbs": 19.1,
+    "fat": 6,
+    "fiber": 0.7,
+    "kcal": 144,
+    "key": 370,
+    "name": "Kartoffelrösti",
+    "protein": 3.1,
+    "sugar": 1.4
+},{
+    "carbs": 12,
+    "fat": 12,
+    "fiber": 1.1,
+    "kcal": 170,
+    "key": 371,
+    "name": "Kartoffelsalat",
+    "protein": 3,
+    "sugar": 4
+},{
+    "carbs": 16,
+    "fat": 4,
+    "fiber": 1.8,
+    "kcal": 110,
+    "key": 372,
+    "name": "Kartoffelspalten",
+    "protein": 1.7,
+    "sugar": 2.1
+},{
+    "carbs": 79.4,
+    "fat": 0.1,
+    "fiber": 0.1,
+    "kcal": 321,
+    "key": 373,
+    "name": "Kartoffelstärke",
+    "protein": 0.5,
+    "sugar": 0
+},{
+    "carbs": 6.1,
+    "fat": 1.3,
+    "fiber": 0.3,
+    "kcal": 41,
+    "key": 374,
+    "name": "Kartoffelsuppe",
+    "protein": 1,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 127,
+    "key": 375,
+    "name": "Kasseler",
+    "protein": 25,
+    "sugar": 0
+},{
+    "carbs": 1,
+    "fat": 12,
+    "fiber": 0,
+    "kcal": 200,
+    "key": 376,
+    "name": "Katenschinken",
+    "protein": 22,
+    "sugar": 1
+},{
+    "carbs": 94,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 376,
+    "key": 377,
+    "name": "Kaugummi",
+    "protein": 0,
+    "sugar": 94
+},{
+    "carbs": 4,
+    "fat": 15,
+    "fiber": 0,
+    "kcal": 259,
+    "key": 378,
+    "name": "Kaviar",
+    "protein": 27,
+    "sugar": 0
+},{
+    "carbs": 3.5,
+    "fat": 3.5,
+    "fiber": 0,
+    "kcal": 59,
+    "key": 379,
+    "name": "Kefir",
+    "protein": 3.4,
+    "sugar": 3.5
+},{
+    "carbs": 45,
+    "fat": 12,
+    "fiber": 1.4,
+    "kcal": 322,
+    "key": 380,
+    "name": "Kekse",
+    "protein": 7.9,
+    "sugar": 16
+},{
+    "carbs": 6.1,
+    "fat": 0.6,
+    "fiber": 3.1,
+    "kcal": 51,
+    "key": 381,
+    "name": "Kerbel",
+    "protein": 3.8,
+    "sugar": 0
+},{
+    "carbs": 28,
+    "fat": 0.7,
+    "fiber": 0,
+    "kcal": 122,
+    "key": 382,
+    "name": "Ketchup",
+    "protein": 1,
+    "sugar": 22.5
+},{
+    "carbs": 45,
+    "fat": 7,
+    "fiber": 14.8,
+    "kcal": 353,
+    "key": 383,
+    "name": "Kichererbsen",
+    "protein": 20,
+    "sugar": 3
+},{
+    "carbs": 50,
+    "fat": 6.7,
+    "fiber": 11,
+    "kcal": 362,
+    "key": 384,
+    "name": "Kichererbsenmehl",
+    "protein": 20,
+    "sugar": 2
+},{
+    "carbs": 40,
+    "fat": 1,
+    "fiber": 21,
+    "kcal": 295,
+    "key": 385,
+    "name": "Kidneybohnen",
+    "protein": 21,
+    "sugar": 0.2
+},{
+    "carbs": 8,
+    "fat": 1,
+    "fiber": 2,
+    "kcal": 49,
+    "key": 386,
+    "name": "Kiwi",
+    "protein": 1,
+    "sugar": 8
+},{
+    "carbs": 26.1,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 112,
+    "key": 387,
+    "name": "Klöße gekocht",
+    "protein": 2,
+    "sugar": 0
+},{
+    "carbs": 27,
+    "fat": 0.2,
+    "fiber": 1.7,
+    "kcal": 136,
+    "key": 388,
+    "name": "Knoblauch",
+    "protein": 5.8,
+    "sugar": 8
+},{
+    "carbs": 2.4,
+    "fat": 0.3,
+    "fiber": 4,
+    "kcal": 26,
+    "key": 389,
+    "name": "Knollensellerie",
+    "protein": 1.5,
+    "sugar": 2
+},{
+    "carbs": 63,
+    "fat": 15,
+    "fiber": 7.3,
+    "kcal": 442,
+    "key": 390,
+    "name": "Knuspermüsli",
+    "protein": 10,
+    "sugar": 24
+},{
+    "carbs": 1,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 111,
+    "key": 391,
+    "name": "Kochschinken",
+    "protein": 20,
+    "sugar": 1
+},{
+    "carbs": 4,
+    "fat": 0.4,
+    "fiber": 1.3,
+    "kcal": 30,
+    "key": 392,
+    "name": "Kohlrabi",
+    "protein": 2,
+    "sugar": 3.8
+},{
+    "carbs": 5,
+    "fat": 0.2,
+    "fiber": 2.5,
+    "kcal": 31,
+    "key": 393,
+    "name": "Kohlrübe",
+    "protein": 1,
+    "sugar": 4.8
+},{
+    "carbs": 94,
+    "fat": 0.5,
+    "fiber": 0,
+    "kcal": 384,
+    "key": 394,
+    "name": "Kokosblütenzucker",
+    "protein": 1,
+    "sugar": 94
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 395,
+    "name": "Kokosfett",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 17,
+    "fat": 16.5,
+    "fiber": 35,
+    "kcal": 354,
+    "key": 396,
+    "name": "Kokosmehl",
+    "protein": 17,
+    "sugar": 15
+},{
+    "carbs": 6,
+    "fat": 21,
+    "fiber": 3,
+    "kcal": 227,
+    "key": 397,
+    "name": "Kokosmilch",
+    "protein": 2,
+    "sugar": 3.3
+},{
+    "carbs": 8,
+    "fat": 28,
+    "fiber": 11.4,
+    "kcal": 323,
+    "key": 398,
+    "name": "Kokosnuss",
+    "protein": 4,
+    "sugar": 7
+},{
+    "carbs": 16,
+    "fat": 60,
+    "fiber": 8,
+    "kcal": 648,
+    "key": 399,
+    "name": "Kokosraspel",
+    "protein": 7,
+    "sugar": 14
+},{
+    "carbs": 11.9,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 59,
+    "key": 400,
+    "name": "Kokoswasser",
+    "protein": 0.5,
+    "sugar": 5
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 401,
+    "name": "Kokosöl",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 55,
+    "fat": 0,
+    "fiber": 1,
+    "kcal": 222,
+    "key": 402,
+    "name": "Konfitüre",
+    "protein": 0,
+    "sugar": 55
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 3,
+    "kcal": 6,
+    "key": 403,
+    "name": "Konjacnudeln gekocht",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 80,
+    "kcal": 168,
+    "key": 404,
+    "name": "Konjakmehl",
+    "protein": 2,
+    "sugar": 0
+},{
+    "carbs": 1,
+    "fat": 0,
+    "fiber": 1.9,
+    "kcal": 12,
+    "key": 405,
+    "name": "Kopfsalat",
+    "protein": 1,
+    "sugar": 1
+},{
+    "carbs": 0.9,
+    "fat": 0.5,
+    "fiber": 2.8,
+    "kcal": 22,
+    "key": 406,
+    "name": "Koriander frisch",
+    "protein": 2.1,
+    "sugar": 0.9
+},{
+    "carbs": 26,
+    "fat": 20,
+    "fiber": 32,
+    "kcal": 396,
+    "key": 407,
+    "name": "Koriander gemahlen",
+    "protein": 12,
+    "sugar": 24
+},{
+    "carbs": 36,
+    "fat": 1.6,
+    "fiber": 4.2,
+    "kcal": 207,
+    "key": 408,
+    "name": "Kornspitz",
+    "protein": 10,
+    "sugar": 0.6
+},{
+    "carbs": 0,
+    "fat": 2,
+    "fiber": 0,
+    "kcal": 106,
+    "key": 409,
+    "name": "Krabben",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 60,
+    "fat": 25,
+    "fiber": 0,
+    "kcal": 481,
+    "key": 410,
+    "name": "Krabbenchips",
+    "protein": 4,
+    "sugar": 2
+},{
+    "carbs": 0.2,
+    "fat": 25,
+    "fiber": 0,
+    "kcal": 278,
+    "key": 411,
+    "name": "Krakauer Wurst",
+    "protein": 13,
+    "sugar": 0
+},{
+    "carbs": 12,
+    "fat": 3,
+    "fiber": 2,
+    "kcal": 83,
+    "key": 412,
+    "name": "Krautsalat",
+    "protein": 1,
+    "sugar": 11
+},{
+    "carbs": 5,
+    "fat": 0.8,
+    "fiber": 1.2,
+    "kcal": 40,
+    "key": 413,
+    "name": "Kresse",
+    "protein": 2.6,
+    "sugar": 3.8
+},{
+    "carbs": 33,
+    "fat": 22.1,
+    "fiber": 9.9,
+    "kcal": 418,
+    "key": 414,
+    "name": "Kreuzkümmel",
+    "protein": 16.9,
+    "sugar": 7.4
+},{
+    "carbs": 25.8,
+    "fat": 7.9,
+    "fiber": 1,
+    "kcal": 198,
+    "key": 415,
+    "name": "Kroketten",
+    "protein": 5.5,
+    "sugar": 0.5
+},{
+    "carbs": 0,
+    "fat": 78,
+    "fiber": 0,
+    "kcal": 706,
+    "key": 416,
+    "name": "Kräuterbutter",
+    "protein": 0.9,
+    "sugar": 0
+},{
+    "carbs": 15,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 230,
+    "key": 417,
+    "name": "Kräuterlikör (30%)",
+    "protein": 0,
+    "sugar": 15
+},{
+    "carbs": 3,
+    "fat": 12,
+    "fiber": 0,
+    "kcal": 160,
+    "key": 418,
+    "name": "Kräuterquark, 40%",
+    "protein": 10,
+    "sugar": 3
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 0,
+    "key": 419,
+    "name": "Kräutertee",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 14,
+    "fat": 0.4,
+    "fiber": 4.1,
+    "kcal": 73,
+    "key": 420,
+    "name": "Kumquat",
+    "protein": 1.2,
+    "sugar": 13
+},{
+    "carbs": 44,
+    "fat": 10,
+    "fiber": 20,
+    "kcal": 338,
+    "key": 421,
+    "name": "Kurkuma",
+    "protein": 8,
+    "sugar": 2
+},{
+    "carbs": 51,
+    "fat": 33,
+    "fiber": 2.4,
+    "kcal": 531,
+    "key": 422,
+    "name": "Kuvertüre Vollmilch",
+    "protein": 6.4,
+    "sugar": 48
+},{
+    "carbs": 45,
+    "fat": 32,
+    "fiber": 9,
+    "kcal": 509,
+    "key": 423,
+    "name": "Kuvertüre Zartbitter",
+    "protein": 5.8,
+    "sugar": 44
+},{
+    "carbs": 28,
+    "fat": 21,
+    "fiber": 0.4,
+    "kcal": 326,
+    "key": 424,
+    "name": "Käsekuchen",
+    "protein": 6,
+    "sugar": 26
+},{
+    "carbs": 22,
+    "fat": 8,
+    "fiber": 0.9,
+    "kcal": 194,
+    "key": 425,
+    "name": "Käsespätzle",
+    "protein": 8,
+    "sugar": 0.7
+},{
+    "carbs": 4.9,
+    "fat": 12,
+    "fiber": 0.4,
+    "kcal": 189,
+    "key": 426,
+    "name": "Köfte türkisch",
+    "protein": 15.2,
+    "sugar": 0.2
+},{
+    "carbs": 4,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 44,
+    "key": 427,
+    "name": "Kölsch",
+    "protein": 0,
+    "sugar": 4
+},{
+    "carbs": 46,
+    "fat": 7,
+    "fiber": 5,
+    "kcal": 289,
+    "key": 428,
+    "name": "Körnerbrötchen",
+    "protein": 8,
+    "sugar": 3
+},{
+    "carbs": 37,
+    "fat": 15,
+    "fiber": 11,
+    "kcal": 381,
+    "key": 429,
+    "name": "Kümmel",
+    "protein": 19,
+    "sugar": 0
+},{
+    "carbs": 10,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 239,
+    "key": 430,
+    "name": "Kümmerling Kräuterlikör",
+    "protein": 0,
+    "sugar": 10
+},{
+    "carbs": 5.2,
+    "fat": 0,
+    "fiber": 2,
+    "kcal": 28,
+    "key": 431,
+    "name": "Kürbis Hokkaido",
+    "protein": 0.8,
+    "sugar": 4.2
+},{
+    "carbs": 42.9,
+    "fat": 8,
+    "fiber": 3.7,
+    "kcal": 279,
+    "key": 432,
+    "name": "Kürbiskernbrötchen",
+    "protein": 7,
+    "sugar": 1.7
+},{
+    "carbs": 4,
+    "fat": 55,
+    "fiber": 7.4,
+    "kcal": 654,
+    "key": 433,
+    "name": "Kürbiskerne",
+    "protein": 32,
+    "sugar": 2
+},{
+    "carbs": 5,
+    "fat": 13,
+    "fiber": 15,
+    "kcal": 387,
+    "key": 434,
+    "name": "Kürbiskernmehl",
+    "protein": 55,
+    "sugar": 1
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 435,
+    "name": "Kürbiskernöl",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 12,
+    "fiber": 0,
+    "kcal": 188,
+    "key": 436,
+    "name": "Lachs (Zucht)",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 8,
+    "fiber": 0,
+    "kcal": 152,
+    "key": 437,
+    "name": "Lachsforelle",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 4,
+    "fiber": 0,
+    "kcal": 112,
+    "key": 438,
+    "name": "Lachsschinken",
+    "protein": 19,
+    "sugar": 0
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 200,
+    "key": 439,
+    "name": "Lactit",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 29,
+    "fat": 12,
+    "fiber": 2.4,
+    "kcal": 261,
+    "key": 440,
+    "name": "Lahmacun",
+    "protein": 8,
+    "sugar": 4
+},{
+    "carbs": 85,
+    "fat": 0.4,
+    "fiber": 1,
+    "kcal": 361,
+    "key": 441,
+    "name": "Lakritze",
+    "protein": 3.8,
+    "sugar": 55
+},{
+    "carbs": 0,
+    "fat": 4.2,
+    "fiber": 0,
+    "kcal": 118,
+    "key": 442,
+    "name": "Lammfilet",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 15,
+    "fiber": 0,
+    "kcal": 191,
+    "key": 443,
+    "name": "Lammfleisch",
+    "protein": 14,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 20,
+    "fiber": 0,
+    "kcal": 248,
+    "key": 444,
+    "name": "Lammkeule",
+    "protein": 17,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 22,
+    "fiber": 0,
+    "kcal": 250,
+    "key": 445,
+    "name": "Lammkotelett",
+    "protein": 13,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 15,
+    "fiber": 0,
+    "kcal": 207,
+    "key": 446,
+    "name": "Lammrücken",
+    "protein": 18,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 35,
+    "fiber": 0,
+    "kcal": 395,
+    "key": 447,
+    "name": "Landjäger",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 60.8,
+    "fat": 0.6,
+    "fiber": 0,
+    "kcal": 277,
+    "key": 448,
+    "name": "Langkornreis roh",
+    "protein": 7.2,
+    "sugar": 2.1
+},{
+    "carbs": 0,
+    "fat": 1.5,
+    "fiber": 0,
+    "kcal": 78,
+    "key": 449,
+    "name": "Languste",
+    "protein": 16,
+    "sugar": 0
+},{
+    "carbs": 18,
+    "fat": 8.5,
+    "fiber": 1.4,
+    "kcal": 179,
+    "key": 450,
+    "name": "Lasagne",
+    "protein": 7,
+    "sugar": 2.7
+},{
+    "carbs": 2.5,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 29,
+    "key": 451,
+    "name": "Latte Macchiato",
+    "protein": 2.5,
+    "sugar": 2.5
+},{
+    "carbs": 58,
+    "fat": 5,
+    "fiber": 3.1,
+    "kcal": 316,
+    "key": 452,
+    "name": "Laugenstange",
+    "protein": 8.1,
+    "sugar": 2
+},{
+    "carbs": 5,
+    "fat": 4,
+    "fiber": 0.2,
+    "kcal": 84,
+    "key": 453,
+    "name": "Leberknödel",
+    "protein": 7,
+    "sugar": 0.4
+},{
+    "carbs": 2,
+    "fat": 25.5,
+    "fiber": 0,
+    "kcal": 294,
+    "key": 454,
+    "name": "Leberkäse",
+    "protein": 14,
+    "sugar": 1
+},{
+    "carbs": 0,
+    "fat": 30,
+    "fiber": 0,
+    "kcal": 330,
+    "key": 455,
+    "name": "Leberwurst",
+    "protein": 15,
+    "sugar": 0
+},{
+    "carbs": 60,
+    "fat": 14,
+    "fiber": 2,
+    "kcal": 387,
+    "key": 456,
+    "name": "Lebkuchen",
+    "protein": 4.2,
+    "sugar": 38
+},{
+    "carbs": 0,
+    "fat": 29,
+    "fiber": 37.4,
+    "kcal": 425,
+    "key": 457,
+    "name": "Leinsamen",
+    "protein": 22.4,
+    "sugar": 0
+},{
+    "carbs": 36.7,
+    "fat": 3.8,
+    "fiber": 6.1,
+    "kcal": 221,
+    "key": 458,
+    "name": "Leinsamenbrot",
+    "protein": 6.9,
+    "sugar": 2.1
+},{
+    "carbs": 6,
+    "fat": 12.5,
+    "fiber": 40.8,
+    "kcal": 330,
+    "key": 459,
+    "name": "Leinsamenmehl teilentölt",
+    "protein": 28,
+    "sugar": 3
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 460,
+    "name": "Leinöl",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 5,
+    "fat": 1,
+    "fiber": 0.3,
+    "kcal": 42,
+    "key": 461,
+    "name": "Liebstöckel",
+    "protein": 3,
+    "sugar": 0
+},{
+    "carbs": 20,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 194,
+    "key": 462,
+    "name": "Likör (20% Vol.)",
+    "protein": 0,
+    "sugar": 20
+},{
+    "carbs": 0,
+    "fat": 18,
+    "fiber": 0,
+    "kcal": 258,
+    "key": 463,
+    "name": "Limburger Käse",
+    "protein": 24,
+    "sugar": 0
+},{
+    "carbs": 8.7,
+    "fat": 0.2,
+    "fiber": 2,
+    "kcal": 43,
+    "key": 464,
+    "name": "Limette",
+    "protein": 0.7,
+    "sugar": 1.7
+},{
+    "carbs": 11,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 44,
+    "key": 465,
+    "name": "Limonade",
+    "protein": 0,
+    "sugar": 11
+},{
+    "carbs": 0.7,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 3,
+    "key": 466,
+    "name": "Limonade light",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 40.6,
+    "fat": 1.9,
+    "fiber": 16.9,
+    "kcal": 309,
+    "key": 467,
+    "name": "Linsen roh",
+    "protein": 24,
+    "sugar": 0.9
+},{
+    "carbs": 40,
+    "fat": 2,
+    "fiber": 7.9,
+    "kcal": 242,
+    "key": 468,
+    "name": "Linsensuppe",
+    "protein": 12,
+    "sugar": 2.2
+},{
+    "carbs": 55,
+    "fat": 17,
+    "fiber": 0,
+    "kcal": 401,
+    "key": 469,
+    "name": "Linzertorte",
+    "protein": 7,
+    "sugar": 25
+},{
+    "carbs": 16,
+    "fat": 0,
+    "fiber": 1.4,
+    "kcal": 71,
+    "key": 470,
+    "name": "Litschi",
+    "protein": 1,
+    "sugar": 16
+},{
+    "carbs": 2.5,
+    "fat": 0.2,
+    "fiber": 1.4,
+    "kcal": 20,
+    "key": 471,
+    "name": "Lollo Rosso",
+    "protein": 1.3,
+    "sugar": 0
+},{
+    "carbs": 45.4,
+    "fat": 8.6,
+    "fiber": 25.1,
+    "kcal": 340,
+    "key": 472,
+    "name": "Lorbeer getrocknet",
+    "protein": 7.6,
+    "sugar": 0
+},{
+    "carbs": 1,
+    "fat": 20.4,
+    "fiber": 0,
+    "kcal": 246,
+    "key": 473,
+    "name": "Lyoner",
+    "protein": 14.5,
+    "sugar": 0
+},{
+    "carbs": 64,
+    "fat": 4,
+    "fiber": 0.4,
+    "kcal": 326,
+    "key": 474,
+    "name": "Löffelbisquit",
+    "protein": 8.4,
+    "sugar": 12
+},{
+    "carbs": 9,
+    "fat": 0.7,
+    "fiber": 3.5,
+    "kcal": 60,
+    "key": 475,
+    "name": "Löwenzahn",
+    "protein": 2.7,
+    "sugar": 0.7
+},{
+    "carbs": 0,
+    "fat": 28,
+    "fiber": 0,
+    "kcal": 348,
+    "key": 476,
+    "name": "Maasdamer Käse",
+    "protein": 24,
+    "sugar": 0
+},{
+    "carbs": 6,
+    "fat": 69,
+    "fiber": 11,
+    "kcal": 691,
+    "key": 477,
+    "name": "Macadamia",
+    "protein": 6,
+    "sugar": 5
+},{
+    "carbs": 4.7,
+    "fat": 0.1,
+    "fiber": 3.5,
+    "kcal": 31,
+    "key": 478,
+    "name": "Mairübchen",
+    "protein": 1,
+    "sugar": 0.4
+},{
+    "carbs": 18,
+    "fat": 0,
+    "fiber": 3,
+    "kcal": 86,
+    "key": 479,
+    "name": "Mais",
+    "protein": 2,
+    "sugar": 4
+},{
+    "carbs": 16,
+    "fat": 1.1,
+    "fiber": 3.4,
+    "kcal": 95,
+    "key": 480,
+    "name": "Maiskolben ganz",
+    "protein": 3.5,
+    "sugar": 2.7
+},{
+    "carbs": 68,
+    "fat": 2,
+    "fiber": 9.2,
+    "kcal": 332,
+    "key": 481,
+    "name": "Maismehl",
+    "protein": 6,
+    "sugar": 1
+},{
+    "carbs": 88,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 354,
+    "key": 482,
+    "name": "Maisstärke",
+    "protein": 0.4,
+    "sugar": 0
+},{
+    "carbs": 42,
+    "fat": 12,
+    "fiber": 4,
+    "kcal": 332,
+    "key": 483,
+    "name": "Majoran gerebelt",
+    "protein": 12,
+    "sugar": 2
+},{
+    "carbs": 0,
+    "fat": 11,
+    "fiber": 0,
+    "kcal": 167,
+    "key": 484,
+    "name": "Makrele",
+    "protein": 17,
+    "sugar": 0
+},{
+    "carbs": 72,
+    "fat": 11,
+    "fiber": 0.4,
+    "kcal": 403,
+    "key": 485,
+    "name": "Makronen",
+    "protein": 3.8,
+    "sugar": 70.8
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 210,
+    "key": 486,
+    "name": "Maltit",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 400,
+    "key": 487,
+    "name": "Maltodextrin",
+    "protein": 0,
+    "sugar": 100
+},{
+    "carbs": 10.8,
+    "fat": 0,
+    "fiber": 0.2,
+    "kcal": 46,
+    "key": 488,
+    "name": "Malzbier",
+    "protein": 0.6,
+    "sugar": 6.8
+},{
+    "carbs": 79,
+    "fat": 12,
+    "fiber": 2.9,
+    "kcal": 443,
+    "key": 489,
+    "name": "Mamorkuchen",
+    "protein": 3.4,
+    "sugar": 58
+},{
+    "carbs": 10,
+    "fat": 0.4,
+    "fiber": 1.6,
+    "kcal": 51,
+    "key": 490,
+    "name": "Mandarine",
+    "protein": 1,
+    "sugar": 10
+},{
+    "carbs": 6,
+    "fat": 10,
+    "fiber": 22,
+    "kcal": 350,
+    "key": 491,
+    "name": "Mandelmehl",
+    "protein": 48,
+    "sugar": 6
+},{
+    "carbs": 3,
+    "fat": 1.1,
+    "fiber": 0.2,
+    "kcal": 24,
+    "key": 492,
+    "name": "Mandelmilch gesüßt",
+    "protein": 0.5,
+    "sugar": 3
+},{
+    "carbs": 0.1,
+    "fat": 1.1,
+    "fiber": 0.4,
+    "kcal": 13,
+    "key": 493,
+    "name": "Mandelmilch ungesüßt",
+    "protein": 0.4,
+    "sugar": 0.1
+},{
+    "carbs": 5,
+    "fat": 57,
+    "fiber": 8.4,
+    "kcal": 642,
+    "key": 494,
+    "name": "Mandelmus",
+    "protein": 23,
+    "sugar": 4
+},{
+    "carbs": 5,
+    "fat": 55,
+    "fiber": 12,
+    "kcal": 611,
+    "key": 495,
+    "name": "Mandeln",
+    "protein": 18,
+    "sugar": 5
+},{
+    "carbs": 13,
+    "fat": 0.2,
+    "fiber": 1.7,
+    "kcal": 61,
+    "key": 496,
+    "name": "Mango",
+    "protein": 1,
+    "sugar": 12
+},{
+    "carbs": 1,
+    "fat": 0.6,
+    "fiber": 3.6,
+    "kcal": 23,
+    "key": 497,
+    "name": "Mangold",
+    "protein": 1.5,
+    "sugar": 0.5
+},{
+    "carbs": 36,
+    "fat": 0.3,
+    "fiber": 2,
+    "kcal": 156,
+    "key": 498,
+    "name": "Maniok",
+    "protein": 1.4,
+    "sugar": 2
+},{
+    "carbs": 0,
+    "fat": 80,
+    "fiber": 0,
+    "kcal": 720,
+    "key": 499,
+    "name": "Margarine",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 78,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 312,
+    "key": 500,
+    "name": "Marmelade",
+    "protein": 0,
+    "sugar": 78
+},{
+    "carbs": 48,
+    "fat": 25.9,
+    "fiber": 2,
+    "kcal": 448,
+    "key": 501,
+    "name": "Marmorkuchen",
+    "protein": 4.8,
+    "sugar": 19.1
+},{
+    "carbs": 45,
+    "fat": 1,
+    "fiber": 8.1,
+    "kcal": 213,
+    "key": 502,
+    "name": "Maronen",
+    "protein": 2,
+    "sugar": 15
+},{
+    "carbs": 58,
+    "fat": 25,
+    "fiber": 2.8,
+    "kcal": 491,
+    "key": 503,
+    "name": "Marzipan",
+    "protein": 7,
+    "sugar": 58
+},{
+    "carbs": 4,
+    "fat": 38,
+    "fiber": 0,
+    "kcal": 382,
+    "key": 504,
+    "name": "Mascarpone",
+    "protein": 6,
+    "sugar": 4
+},{
+    "carbs": 0,
+    "fat": 20.1,
+    "fiber": 0,
+    "kcal": 244,
+    "key": 505,
+    "name": "Matjes",
+    "protein": 15.8,
+    "sugar": 0
+},{
+    "carbs": 10,
+    "fat": 0.4,
+    "fiber": 1.7,
+    "kcal": 53,
+    "key": 506,
+    "name": "Maulbeeren",
+    "protein": 1.4,
+    "sugar": 8
+},{
+    "carbs": 17.9,
+    "fat": 9.4,
+    "fiber": 1.1,
+    "kcal": 202,
+    "key": 507,
+    "name": "Maultaschen",
+    "protein": 11,
+    "sugar": 0.6
+},{
+    "carbs": 0,
+    "fat": 80,
+    "fiber": 0,
+    "kcal": 720,
+    "key": 508,
+    "name": "Mayonnaise",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 12,
+    "fat": 0.6,
+    "fiber": 3.3,
+    "kcal": 65,
+    "key": 509,
+    "name": "Meerrettich",
+    "protein": 1.2,
+    "sugar": 8
+},{
+    "carbs": 44,
+    "fat": 2,
+    "fiber": 9,
+    "kcal": 238,
+    "key": 510,
+    "name": "Mehrkornbrot",
+    "protein": 6.5,
+    "sugar": 2
+},{
+    "carbs": 43.7,
+    "fat": 5.9,
+    "fiber": 6,
+    "kcal": 273,
+    "key": 511,
+    "name": "Mehrkornbrötchen",
+    "protein": 8.2,
+    "sugar": 3.3
+},{
+    "carbs": 1,
+    "fat": 31,
+    "fiber": 0,
+    "kcal": 351,
+    "key": 512,
+    "name": "Mettenden",
+    "protein": 17,
+    "sugar": 1
+},{
+    "carbs": 72,
+    "fat": 1,
+    "fiber": 0.7,
+    "kcal": 342,
+    "key": 513,
+    "name": "Mie Nudeln",
+    "protein": 11,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 1.8,
+    "fiber": 0,
+    "kcal": 56,
+    "key": 514,
+    "name": "Miesmuscheln",
+    "protein": 10,
+    "sugar": 0
+},{
+    "carbs": 5,
+    "fat": 0.3,
+    "fiber": 0,
+    "kcal": 35,
+    "key": 515,
+    "name": "Milch 0,3%",
+    "protein": 3,
+    "sugar": 5
+},{
+    "carbs": 5,
+    "fat": 1.5,
+    "fiber": 0,
+    "kcal": 46,
+    "key": 516,
+    "name": "Milch 1,5%",
+    "protein": 3,
+    "sugar": 5
+},{
+    "carbs": 5,
+    "fat": 3.5,
+    "fiber": 0,
+    "kcal": 64,
+    "key": 517,
+    "name": "Milch 3,5%",
+    "protein": 3,
+    "sugar": 5
+},{
+    "carbs": 45,
+    "fat": 4.8,
+    "fiber": 0,
+    "kcal": 225,
+    "key": 518,
+    "name": "Milchbrötchen",
+    "protein": 0.4,
+    "sugar": 2.1
+},{
+    "carbs": 0.2,
+    "fat": 0.4,
+    "fiber": 0,
+    "kcal": 6,
+    "key": 519,
+    "name": "Milchkaffee",
+    "protein": 0.4,
+    "sugar": 0.2
+},{
+    "carbs": 37,
+    "fat": 27,
+    "fiber": 0,
+    "kcal": 495,
+    "key": 520,
+    "name": "Milchpulver",
+    "protein": 26,
+    "sugar": 37
+},{
+    "carbs": 19.4,
+    "fat": 0.4,
+    "fiber": 0,
+    "kcal": 94,
+    "key": 521,
+    "name": "Milchreis gekocht",
+    "protein": 3.3,
+    "sugar": 1
+},{
+    "carbs": 34,
+    "fat": 28,
+    "fiber": 1.4,
+    "kcal": 423,
+    "key": 522,
+    "name": "Milchschnitte",
+    "protein": 8,
+    "sugar": 29
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 400,
+    "key": 523,
+    "name": "Milchzucker",
+    "protein": 0,
+    "sugar": 100
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 0,
+    "key": 524,
+    "name": "Mineralwasser",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 47,
+    "fat": 1,
+    "fiber": 5.1,
+    "kcal": 233,
+    "key": 525,
+    "name": "Mischbrot",
+    "protein": 6.5,
+    "sugar": 0.7
+},{
+    "carbs": 10.7,
+    "fat": 0.4,
+    "fiber": 1.4,
+    "kcal": 62,
+    "key": 526,
+    "name": "Mischgemüse",
+    "protein": 3.2,
+    "sugar": 1.3
+},{
+    "carbs": 3,
+    "fat": 39.4,
+    "fiber": 22.3,
+    "kcal": 487,
+    "key": 527,
+    "name": "Mohn",
+    "protein": 19,
+    "sugar": 0
+},{
+    "carbs": 49,
+    "fat": 4,
+    "fiber": 3.8,
+    "kcal": 280,
+    "key": 528,
+    "name": "Mohnbrötchen",
+    "protein": 10,
+    "sugar": 1
+},{
+    "carbs": 4.4,
+    "fat": 0.3,
+    "fiber": 0,
+    "kcal": 26,
+    "key": 529,
+    "name": "Molke",
+    "protein": 1.5,
+    "sugar": 4.4
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 6.4,
+    "kcal": 21,
+    "key": 530,
+    "name": "Morcheln",
+    "protein": 2,
+    "sugar": 0
+},{
+    "carbs": 39,
+    "fat": 6.2,
+    "fiber": 24,
+    "kcal": 372,
+    "key": 531,
+    "name": "Moringa Pulver",
+    "protein": 28,
+    "sugar": 4
+},{
+    "carbs": 0,
+    "fat": 22,
+    "fiber": 0,
+    "kcal": 250,
+    "key": 532,
+    "name": "Mortadella",
+    "protein": 13,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 22,
+    "fiber": 0,
+    "kcal": 254,
+    "key": 533,
+    "name": "Mozzarella Käse",
+    "protein": 14,
+    "sugar": 0
+},{
+    "carbs": 12,
+    "fat": 0.1,
+    "fiber": 0.5,
+    "kcal": 51,
+    "key": 534,
+    "name": "Multivitaminsaft",
+    "protein": 0.3,
+    "sugar": 11.7
+},{
+    "carbs": 47,
+    "fat": 1.2,
+    "fiber": 16,
+    "kcal": 327,
+    "key": 535,
+    "name": "Mungobohnen",
+    "protein": 24,
+    "sugar": 7
+},{
+    "carbs": 45,
+    "fat": 35,
+    "fiber": 4.1,
+    "kcal": 526,
+    "key": 536,
+    "name": "Muskat gemahlen",
+    "protein": 5.7,
+    "sugar": 0
+},{
+    "carbs": 4.7,
+    "fat": 0.1,
+    "fiber": 4,
+    "kcal": 31,
+    "key": 537,
+    "name": "Möhren / Karotten",
+    "protein": 0.9,
+    "sugar": 4.6
+},{
+    "carbs": 45,
+    "fat": 25.9,
+    "fiber": 0.4,
+    "kcal": 437,
+    "key": 538,
+    "name": "Mürbeteig",
+    "protein": 5.7,
+    "sugar": 22
+},{
+    "carbs": 56,
+    "fat": 11,
+    "fiber": 4.9,
+    "kcal": 365,
+    "key": 539,
+    "name": "Müsli",
+    "protein": 8,
+    "sugar": 3
+},{
+    "carbs": 44,
+    "fat": 22,
+    "fiber": 4,
+    "kcal": 406,
+    "key": 540,
+    "name": "Müsliriegel",
+    "protein": 6,
+    "sugar": 30
+},{
+    "carbs": 32,
+    "fat": 17,
+    "fiber": 0.8,
+    "kcal": 315,
+    "key": 541,
+    "name": "Nachos mit Käse",
+    "protein": 8,
+    "sugar": 1.4
+},{
+    "carbs": 0,
+    "fat": 12.8,
+    "fiber": 0,
+    "kcal": 193,
+    "key": 542,
+    "name": "Nackensteak Schwein",
+    "protein": 19.5,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 0,
+    "key": 543,
+    "name": "Natron",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 12,
+    "fat": 0.4,
+    "fiber": 2.5,
+    "kcal": 61,
+    "key": 544,
+    "name": "Nektarine",
+    "protein": 1,
+    "sugar": 12
+},{
+    "carbs": 50.1,
+    "fat": 21.2,
+    "fiber": 10.1,
+    "kcal": 435,
+    "key": 545,
+    "name": "Nelken getrocknet",
+    "protein": 5.8,
+    "sugar": 3
+},{
+    "carbs": 65,
+    "fat": 21,
+    "fiber": 4,
+    "kcal": 485,
+    "key": 546,
+    "name": "Nougat",
+    "protein": 7,
+    "sugar": 65
+},{
+    "carbs": 28.7,
+    "fat": 1,
+    "fiber": 2,
+    "kcal": 144,
+    "key": 547,
+    "name": "Nudeln gekocht",
+    "protein": 4,
+    "sugar": 0.3
+},{
+    "carbs": 72,
+    "fat": 3.7,
+    "fiber": 3,
+    "kcal": 375,
+    "key": 548,
+    "name": "Nudeln, Eierteigware roh",
+    "protein": 12,
+    "sugar": 0.4
+},{
+    "carbs": 69,
+    "fat": 1.4,
+    "fiber": 3.8,
+    "kcal": 340,
+    "key": 549,
+    "name": "Nudeln, Hartweizengrieß roh",
+    "protein": 11,
+    "sugar": 0.4
+},{
+    "carbs": 60,
+    "fat": 2.8,
+    "fiber": 13,
+    "kcal": 343,
+    "key": 550,
+    "name": "Nudeln, Vollkorn roh",
+    "protein": 13,
+    "sugar": 1
+},{
+    "carbs": 6.4,
+    "fat": 15.8,
+    "fiber": 0.4,
+    "kcal": 192,
+    "key": 551,
+    "name": "Nudelsalat mit Mayonnaise",
+    "protein": 5.8,
+    "sugar": 0.8
+},{
+    "carbs": 58,
+    "fat": 33,
+    "fiber": 3.5,
+    "kcal": 548,
+    "key": 552,
+    "name": "Nuss Nougat Creme",
+    "protein": 3,
+    "sugar": 58
+},{
+    "carbs": 49,
+    "fat": 33,
+    "fiber": 4.1,
+    "kcal": 533,
+    "key": 553,
+    "name": "Nussschokolade",
+    "protein": 8,
+    "sugar": 49
+},{
+    "carbs": 57,
+    "fat": 30.5,
+    "fiber": 3.5,
+    "kcal": 536,
+    "key": 554,
+    "name": "Nutella",
+    "protein": 6.7,
+    "sugar": 55
+},{
+    "carbs": 70,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 280,
+    "key": 555,
+    "name": "Obst, getrocknet",
+    "protein": 0,
+    "sugar": 68
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 256,
+    "key": 556,
+    "name": "Obstbrand/Obstler (45%)",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 10,
+    "fat": 0.2,
+    "fiber": 1.3,
+    "kcal": 46,
+    "key": 557,
+    "name": "Obstsalat",
+    "protein": 0.4,
+    "sugar": 9
+},{
+    "carbs": 1,
+    "fat": 32,
+    "fiber": 0,
+    "kcal": 352,
+    "key": 558,
+    "name": "Ofenkäse",
+    "protein": 15,
+    "sugar": 1
+},{
+    "carbs": 3,
+    "fat": 13,
+    "fiber": 1.9,
+    "kcal": 137,
+    "key": 559,
+    "name": "Oliven, grün",
+    "protein": 1,
+    "sugar": 0
+},{
+    "carbs": 4.9,
+    "fat": 34,
+    "fiber": 3,
+    "kcal": 340,
+    "key": 560,
+    "name": "Oliven, schwarz",
+    "protein": 2,
+    "sugar": 1.5
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 561,
+    "name": "Olivenöl",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 0.6,
+    "fat": 12,
+    "fiber": 0,
+    "kcal": 154,
+    "key": 562,
+    "name": "Omelett",
+    "protein": 11,
+    "sugar": 0.3
+},{
+    "carbs": 10,
+    "fat": 0.4,
+    "fiber": 1.4,
+    "kcal": 50,
+    "key": 563,
+    "name": "Orange",
+    "protein": 1,
+    "sugar": 10
+},{
+    "carbs": 10,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 40,
+    "key": 564,
+    "name": "Orangensaft",
+    "protein": 0,
+    "sugar": 10
+},{
+    "carbs": 27,
+    "fat": 4,
+    "fiber": 41,
+    "kcal": 262,
+    "key": 565,
+    "name": "Oregano getrocknet",
+    "protein": 9.1,
+    "sugar": 3.9
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 178,
+    "key": 566,
+    "name": "Ouzo (38% Vol.)",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 1.2,
+    "fat": 0.2,
+    "fiber": 1.1,
+    "kcal": 15,
+    "key": 567,
+    "name": "Pak Choi",
+    "protein": 1.6,
+    "sugar": 1.2
+},{
+    "carbs": 0,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 73,
+    "key": 568,
+    "name": "Pangasius",
+    "protein": 16,
+    "sugar": 0
+},{
+    "carbs": 52,
+    "fat": 1.9,
+    "fiber": 3,
+    "kcal": 251,
+    "key": 569,
+    "name": "Paniermehl",
+    "protein": 5,
+    "sugar": 2
+},{
+    "carbs": 65,
+    "fat": 5.2,
+    "fiber": 4.4,
+    "kcal": 360,
+    "key": 570,
+    "name": "Panko",
+    "protein": 11,
+    "sugar": 2
+},{
+    "carbs": 8,
+    "fat": 0,
+    "fiber": 1.4,
+    "kcal": 39,
+    "key": 571,
+    "name": "Papaya",
+    "protein": 1,
+    "sugar": 8
+},{
+    "carbs": 5,
+    "fat": 0.5,
+    "fiber": 3.6,
+    "kcal": 36,
+    "key": 572,
+    "name": "Paprika, gelb",
+    "protein": 1,
+    "sugar": 5
+},{
+    "carbs": 2.8,
+    "fat": 0.2,
+    "fiber": 1.4,
+    "kcal": 20,
+    "key": 573,
+    "name": "Paprika, grün",
+    "protein": 1,
+    "sugar": 2.8
+},{
+    "carbs": 6.2,
+    "fat": 0.2,
+    "fiber": 1.4,
+    "kcal": 33,
+    "key": 574,
+    "name": "Paprika, rot",
+    "protein": 1,
+    "sugar": 6.2
+},{
+    "carbs": 35,
+    "fat": 13,
+    "fiber": 20.4,
+    "kcal": 350,
+    "key": 575,
+    "name": "Paprikapulver edelsüß",
+    "protein": 13,
+    "sugar": 5
+},{
+    "carbs": 36,
+    "fat": 13,
+    "fiber": 21,
+    "kcal": 355,
+    "key": 576,
+    "name": "Paprikapulver Rosenscharf",
+    "protein": 13,
+    "sugar": 3
+},{
+    "carbs": 4.2,
+    "fat": 66,
+    "fiber": 5.4,
+    "kcal": 674,
+    "key": 577,
+    "name": "Paranüsse",
+    "protein": 13,
+    "sugar": 3
+},{
+    "carbs": 0,
+    "fat": 2.1,
+    "fiber": 0,
+    "kcal": 123,
+    "key": 578,
+    "name": "Parmaschinken fettarm",
+    "protein": 26,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 30,
+    "fiber": 0,
+    "kcal": 390,
+    "key": 579,
+    "name": "Parmesan Käse",
+    "protein": 30,
+    "sugar": 0
+},{
+    "carbs": 14,
+    "fat": 0.5,
+    "fiber": 1.9,
+    "kcal": 72,
+    "key": 580,
+    "name": "Passionsfrucht",
+    "protein": 2,
+    "sugar": 13
+},{
+    "carbs": 12,
+    "fat": 0.4,
+    "fiber": 4.7,
+    "kcal": 66,
+    "key": 581,
+    "name": "Pastinaken",
+    "protein": 1.3,
+    "sugar": 1.8
+},{
+    "carbs": 0,
+    "fat": 34,
+    "fiber": 0,
+    "kcal": 418,
+    "key": 582,
+    "name": "Pecorino",
+    "protein": 28,
+    "sugar": 0
+},{
+    "carbs": 5,
+    "fat": 74,
+    "fiber": 10.3,
+    "kcal": 739,
+    "key": 583,
+    "name": "Pekanüsse",
+    "protein": 8,
+    "sugar": 2.2
+},{
+    "carbs": 7.5,
+    "fat": 0.2,
+    "fiber": 1.5,
+    "kcal": 43,
+    "key": 584,
+    "name": "Peperoni",
+    "protein": 2,
+    "sugar": 5
+},{
+    "carbs": 5.5,
+    "fat": 0.8,
+    "fiber": 4.5,
+    "kcal": 50,
+    "key": 585,
+    "name": "Petersilienwurzel",
+    "protein": 3,
+    "sugar": 4.4
+},{
+    "carbs": 60,
+    "fat": 3.5,
+    "fiber": 25,
+    "kcal": 362,
+    "key": 586,
+    "name": "Pfeffer",
+    "protein": 10,
+    "sugar": 1
+},{
+    "carbs": 0,
+    "fat": 35,
+    "fiber": 0,
+    "kcal": 379,
+    "key": 587,
+    "name": "Pfefferbeißer",
+    "protein": 16,
+    "sugar": 0
+},{
+    "carbs": 15,
+    "fat": 0.9,
+    "fiber": 8,
+    "kcal": 98,
+    "key": 588,
+    "name": "Pfefferminze",
+    "protein": 3.6,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 0,
+    "key": 589,
+    "name": "Pfefferminztee",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 103,
+    "key": 590,
+    "name": "Pferdefleisch",
+    "protein": 19,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0.4,
+    "fiber": 3,
+    "kcal": 18,
+    "key": 591,
+    "name": "Pfifferlinge",
+    "protein": 2,
+    "sugar": 0
+},{
+    "carbs": 9,
+    "fat": 0.4,
+    "fiber": 2.4,
+    "kcal": 48,
+    "key": 592,
+    "name": "Pfirsich",
+    "protein": 1,
+    "sugar": 9
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 593,
+    "name": "Pflanzenöl",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 12,
+    "fat": 0.2,
+    "fiber": 1.4,
+    "kcal": 57,
+    "key": 594,
+    "name": "Pflaumen",
+    "protein": 1,
+    "sugar": 11
+},{
+    "carbs": 55,
+    "fat": 1,
+    "fiber": 8.5,
+    "kcal": 258,
+    "key": 595,
+    "name": "Pflaumen, getrocknet",
+    "protein": 3,
+    "sugar": 46
+},{
+    "carbs": 50,
+    "fat": 0,
+    "fiber": 2,
+    "kcal": 207,
+    "key": 596,
+    "name": "Pflaumenmus",
+    "protein": 0.7,
+    "sugar": 50
+},{
+    "carbs": 13,
+    "fat": 1,
+    "fiber": 1,
+    "kcal": 73,
+    "key": 597,
+    "name": "Physalis",
+    "protein": 2.5,
+    "sugar": 12.4
+},{
+    "carbs": 2.8,
+    "fat": 0,
+    "fiber": 0.1,
+    "kcal": 40,
+    "key": 598,
+    "name": "Pilsner Bier",
+    "protein": 0.4,
+    "sugar": 0.2
+},{
+    "carbs": 6,
+    "fat": 49,
+    "fiber": 6.5,
+    "kcal": 570,
+    "key": 599,
+    "name": "Pinienkerne",
+    "protein": 23,
+    "sugar": 1
+},{
+    "carbs": 10,
+    "fat": 55,
+    "fiber": 10,
+    "kcal": 615,
+    "key": 600,
+    "name": "Pistazien",
+    "protein": 15,
+    "sugar": 2.2
+},{
+    "carbs": 47,
+    "fat": 1,
+    "fiber": 4,
+    "kcal": 233,
+    "key": 601,
+    "name": "Pita",
+    "protein": 7,
+    "sugar": 2
+},{
+    "carbs": 30,
+    "fat": 11,
+    "fiber": 3,
+    "kcal": 265,
+    "key": 602,
+    "name": "Pizza",
+    "protein": 10,
+    "sugar": 4.6
+},{
+    "carbs": 41,
+    "fat": 1.2,
+    "fiber": 0.7,
+    "kcal": 199,
+    "key": 603,
+    "name": "Pizzateig",
+    "protein": 5.8,
+    "sugar": 1
+},{
+    "carbs": 71,
+    "fat": 1,
+    "fiber": 4.8,
+    "kcal": 336,
+    "key": 604,
+    "name": "Polenta",
+    "protein": 8.4,
+    "sugar": 0.8
+},{
+    "carbs": 10,
+    "fat": 0,
+    "fiber": 2,
+    "kcal": 48,
+    "key": 605,
+    "name": "Pomelo",
+    "protein": 1,
+    "sugar": 8
+},{
+    "carbs": 38,
+    "fat": 15,
+    "fiber": 3.4,
+    "kcal": 306,
+    "key": 606,
+    "name": "Pommes",
+    "protein": 3,
+    "sugar": 0.3
+},{
+    "carbs": 66,
+    "fat": 4,
+    "fiber": 8,
+    "kcal": 356,
+    "key": 607,
+    "name": "Popcorn",
+    "protein": 10,
+    "sugar": 6
+},{
+    "carbs": 3,
+    "fat": 0.2,
+    "fiber": 2.2,
+    "kcal": 26,
+    "key": 608,
+    "name": "Porree / Lauch",
+    "protein": 1.9,
+    "sugar": 3
+},{
+    "carbs": 12,
+    "fat": 1.4,
+    "fiber": 1.9,
+    "kcal": 74,
+    "key": 609,
+    "name": "Porridge",
+    "protein": 2.5,
+    "sugar": 0.8
+},{
+    "carbs": 5,
+    "fat": 0,
+    "fiber": 2.4,
+    "kcal": 25,
+    "key": 610,
+    "name": "Preiselbeeren",
+    "protein": 0,
+    "sugar": 5
+},{
+    "carbs": 2,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 72,
+    "key": 611,
+    "name": "Prosecco",
+    "protein": 0,
+    "sugar": 2
+},{
+    "carbs": 85,
+    "fat": 0.2,
+    "fiber": 0,
+    "kcal": 343,
+    "key": 612,
+    "name": "Puddingpulver Vanille",
+    "protein": 0.4,
+    "sugar": 0.1
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 400,
+    "key": 613,
+    "name": "Puderzucker",
+    "protein": 0,
+    "sugar": 100
+},{
+    "carbs": 30,
+    "fat": 0.4,
+    "fiber": 11,
+    "kcal": 170,
+    "key": 614,
+    "name": "Pumpernickel",
+    "protein": 6,
+    "sugar": 4
+},{
+    "carbs": 0,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 97,
+    "key": 615,
+    "name": "Putenbrust",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 5,
+    "fiber": 0,
+    "kcal": 133,
+    "key": 616,
+    "name": "Putenfleisch",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 119,
+    "key": 617,
+    "name": "Putenhackfleisch",
+    "protein": 23,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 6,
+    "fiber": 0,
+    "kcal": 134,
+    "key": 618,
+    "name": "Putenleber",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 22,
+    "fiber": 0,
+    "kcal": 286,
+    "key": 619,
+    "name": "Putensalami",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 97,
+    "key": 620,
+    "name": "Putenschnitzel",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 97,
+    "key": 621,
+    "name": "Putensteak",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 3,
+    "fat": 5.1,
+    "fiber": 0,
+    "kcal": 108,
+    "key": 622,
+    "name": "Quark, 20%",
+    "protein": 12.4,
+    "sugar": 3
+},{
+    "carbs": 4,
+    "fat": 12,
+    "fiber": 0,
+    "kcal": 176,
+    "key": 623,
+    "name": "Quark, 40%",
+    "protein": 13,
+    "sugar": 4
+},{
+    "carbs": 4,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 72,
+    "key": 624,
+    "name": "Quark, Magerquark 0,5%",
+    "protein": 14,
+    "sugar": 4
+},{
+    "carbs": 62,
+    "fat": 4,
+    "fiber": 5.9,
+    "kcal": 355,
+    "key": 625,
+    "name": "Quinoa",
+    "protein": 14.7,
+    "sugar": 1
+},{
+    "carbs": 9,
+    "fat": 0.4,
+    "fiber": 4.4,
+    "kcal": 50,
+    "key": 626,
+    "name": "Quitte",
+    "protein": 0.3,
+    "sugar": 9
+},{
+    "carbs": 2.1,
+    "fat": 0,
+    "fiber": 1.4,
+    "kcal": 15,
+    "key": 627,
+    "name": "Radicchio",
+    "protein": 1,
+    "sugar": 2
+},{
+    "carbs": 2,
+    "fat": 0,
+    "fiber": 2,
+    "kcal": 16,
+    "key": 628,
+    "name": "Radieschen",
+    "protein": 1,
+    "sugar": 2
+},{
+    "carbs": 5,
+    "fat": 0,
+    "fiber": 1,
+    "kcal": 36,
+    "key": 629,
+    "name": "Radler",
+    "protein": 0,
+    "sugar": 4
+},{
+    "carbs": 25,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 282,
+    "key": 630,
+    "name": "Ramazotti Kräuterlikör",
+    "protein": 0,
+    "sugar": 25
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 631,
+    "name": "Rapsöl",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 3,
+    "fat": 1,
+    "fiber": 1.7,
+    "kcal": 28,
+    "key": 632,
+    "name": "Ratatouille",
+    "protein": 1,
+    "sugar": 2.5
+},{
+    "carbs": 11.3,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 45,
+    "key": 633,
+    "name": "Red Bull",
+    "protein": 0,
+    "sugar": 10.9
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 0,
+    "key": 634,
+    "name": "Red Bull sugarfree",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 89,
+    "key": 635,
+    "name": "Rehkeule",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 5,
+    "fiber": 0,
+    "kcal": 125,
+    "key": 636,
+    "name": "Rehrücken",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 38,
+    "fat": 0.4,
+    "fiber": 0.4,
+    "kcal": 170,
+    "key": 637,
+    "name": "Reis gekocht parboiled",
+    "protein": 3.5,
+    "sugar": 0
+},{
+    "carbs": 74,
+    "fat": 0.1,
+    "fiber": 1.2,
+    "kcal": 311,
+    "key": 638,
+    "name": "Reis roh parboiled",
+    "protein": 3,
+    "sugar": 1
+},{
+    "carbs": 79.1,
+    "fat": 1,
+    "fiber": 1.4,
+    "kcal": 354,
+    "key": 639,
+    "name": "Reismehl",
+    "protein": 6.5,
+    "sugar": 0
+},{
+    "carbs": 3,
+    "fat": 0.8,
+    "fiber": 0,
+    "kcal": 20,
+    "key": 640,
+    "name": "Reismilch ungesüßt",
+    "protein": 0.1,
+    "sugar": 0
+},{
+    "carbs": 25,
+    "fat": 0.2,
+    "fiber": 1,
+    "kcal": 107,
+    "key": 641,
+    "name": "Reisnudeln roh",
+    "protein": 0.9,
+    "sugar": 0
+},{
+    "carbs": 85,
+    "fat": 2,
+    "fiber": 4,
+    "kcal": 394,
+    "key": 642,
+    "name": "Reiswaffel",
+    "protein": 7,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 60,
+    "fiber": 0,
+    "kcal": 540,
+    "key": 643,
+    "name": "Remoulade",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 2.2,
+    "fat": 0.2,
+    "fiber": 2.6,
+    "kcal": 19,
+    "key": 644,
+    "name": "Rettich",
+    "protein": 0.8,
+    "sugar": 2.2
+},{
+    "carbs": 1,
+    "fat": 0.3,
+    "fiber": 3,
+    "kcal": 17,
+    "key": 645,
+    "name": "Rhabarber",
+    "protein": 1.1,
+    "sugar": 1
+},{
+    "carbs": 1,
+    "fat": 16,
+    "fiber": 0,
+    "kcal": 192,
+    "key": 646,
+    "name": "Ricotta",
+    "protein": 11,
+    "sugar": 1
+},{
+    "carbs": 0,
+    "fat": 5,
+    "fiber": 0,
+    "kcal": 125,
+    "key": 647,
+    "name": "Rinderbraten",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 3,
+    "fat": 1,
+    "fiber": 1,
+    "kcal": 35,
+    "key": 648,
+    "name": "Rinderbrühe",
+    "protein": 3,
+    "sugar": 1.7
+},{
+    "carbs": 0,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 107,
+    "key": 649,
+    "name": "Rinderfilet",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 4,
+    "fiber": 0,
+    "kcal": 116,
+    "key": 650,
+    "name": "Rindergulasch",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 12,
+    "fiber": 0,
+    "kcal": 188,
+    "key": 651,
+    "name": "Rinderhackfleisch",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 111,
+    "key": 652,
+    "name": "Rinderhüfte",
+    "protein": 21,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 5,
+    "fiber": 0,
+    "kcal": 125,
+    "key": 653,
+    "name": "Rinderleber",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 9.4,
+    "fat": 5.5,
+    "fiber": 0,
+    "kcal": 133,
+    "key": 654,
+    "name": "Rinderroulade",
+    "protein": 11.4,
+    "sugar": 2.1
+},{
+    "carbs": 0,
+    "fat": 5,
+    "fiber": 0,
+    "kcal": 157,
+    "key": 655,
+    "name": "Rindersteak",
+    "protein": 28,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 656,
+    "name": "Rindertalg",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 107,
+    "key": 657,
+    "name": "Rindertatar",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 10,
+    "fiber": 0,
+    "kcal": 146,
+    "key": 658,
+    "name": "Rinderzunge",
+    "protein": 14,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 21,
+    "fiber": 0,
+    "kcal": 261,
+    "key": 659,
+    "name": "Rindswurst",
+    "protein": 18,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 6.5,
+    "fiber": 0,
+    "kcal": 118,
+    "key": 660,
+    "name": "Rippchen",
+    "protein": 15,
+    "sugar": 0
+},{
+    "carbs": 16.4,
+    "fat": 4.5,
+    "fiber": 0.4,
+    "kcal": 121,
+    "key": 661,
+    "name": "Risotto",
+    "protein": 3.5,
+    "sugar": 0.7
+},{
+    "carbs": 0,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 107,
+    "key": 662,
+    "name": "Roastbeef",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 46,
+    "fat": 1,
+    "fiber": 5.4,
+    "kcal": 228,
+    "key": 663,
+    "name": "Roggenbrot",
+    "protein": 6,
+    "sugar": 2
+},{
+    "carbs": 55.2,
+    "fat": 4.1,
+    "fiber": 4.9,
+    "kcal": 316,
+    "key": 664,
+    "name": "Roggenbrötchen",
+    "protein": 12.2,
+    "sugar": 3
+},{
+    "carbs": 66,
+    "fat": 0.4,
+    "fiber": 13.6,
+    "kcal": 328,
+    "key": 665,
+    "name": "Roggenknäckebrot",
+    "protein": 8.4,
+    "sugar": 2
+},{
+    "carbs": 68,
+    "fat": 1.3,
+    "fiber": 6,
+    "kcal": 324,
+    "key": 666,
+    "name": "Roggenmehl",
+    "protein": 7,
+    "sugar": 6.6
+},{
+    "carbs": 48,
+    "fat": 1.4,
+    "fiber": 5.4,
+    "kcal": 241,
+    "key": 667,
+    "name": "Roggenmischbrot",
+    "protein": 6.3,
+    "sugar": 4.4
+},{
+    "carbs": 36,
+    "fat": 1,
+    "fiber": 11,
+    "kcal": 199,
+    "key": 668,
+    "name": "Roggenvollkornbrot",
+    "protein": 6,
+    "sugar": 3
+},{
+    "carbs": 65,
+    "fat": 2,
+    "fiber": 14.8,
+    "kcal": 348,
+    "key": 669,
+    "name": "Roggenvollkornmehl",
+    "protein": 10.2,
+    "sugar": 6
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 400,
+    "key": 670,
+    "name": "Rohrzucker",
+    "protein": 0,
+    "sugar": 100
+},{
+    "carbs": 1,
+    "fat": 11,
+    "fiber": 0,
+    "kcal": 161,
+    "key": 671,
+    "name": "Rollmops",
+    "protein": 14.4,
+    "sugar": 1
+},{
+    "carbs": 0,
+    "fat": 22,
+    "fiber": 0,
+    "kcal": 290,
+    "key": 672,
+    "name": "Romadur Käse",
+    "protein": 23,
+    "sugar": 0
+},{
+    "carbs": 3.3,
+    "fat": 0,
+    "fiber": 2.2,
+    "kcal": 22,
+    "key": 673,
+    "name": "Romanasalat",
+    "protein": 1.2,
+    "sugar": 1.1
+},{
+    "carbs": 5,
+    "fat": 0.3,
+    "fiber": 3.2,
+    "kcal": 41,
+    "key": 674,
+    "name": "Romanesco",
+    "protein": 3,
+    "sugar": 3
+},{
+    "carbs": 0,
+    "fat": 30,
+    "fiber": 0,
+    "kcal": 350,
+    "key": 675,
+    "name": "Roquefort Käse",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 4.4,
+    "fat": 0.4,
+    "fiber": 4,
+    "kcal": 43,
+    "key": 676,
+    "name": "Rosenkohl",
+    "protein": 3.4,
+    "sugar": 3.4
+},{
+    "carbs": 75,
+    "fat": 1,
+    "fiber": 4.4,
+    "kcal": 322,
+    "key": 677,
+    "name": "Rosinen",
+    "protein": 1,
+    "sugar": 75
+},{
+    "carbs": 49,
+    "fat": 1,
+    "fiber": 4.8,
+    "kcal": 243,
+    "key": 678,
+    "name": "Rosinenbrötchen",
+    "protein": 7,
+    "sugar": 7
+},{
+    "carbs": 5,
+    "fat": 6,
+    "fiber": 14,
+    "kcal": 115,
+    "key": 679,
+    "name": "Rosmarin",
+    "protein": 3.3,
+    "sugar": 0
+},{
+    "carbs": 3,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 73,
+    "key": 680,
+    "name": "Roséwein",
+    "protein": 0,
+    "sugar": 3
+},{
+    "carbs": 0,
+    "fat": 4.4,
+    "fiber": 0,
+    "kcal": 120,
+    "key": 681,
+    "name": "Rotbarsch",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 8.8,
+    "fat": 0.2,
+    "fiber": 2.4,
+    "kcal": 49,
+    "key": 682,
+    "name": "Rote Bete",
+    "protein": 1.9,
+    "sugar": 7.9
+},{
+    "carbs": 5.4,
+    "fat": 0.5,
+    "fiber": 2.7,
+    "kcal": 36,
+    "key": 683,
+    "name": "Rote Johannisbeeren",
+    "protein": 1,
+    "sugar": 5
+},{
+    "carbs": 47,
+    "fat": 1.8,
+    "fiber": 14.4,
+    "kcal": 335,
+    "key": 684,
+    "name": "rote Linsen roh",
+    "protein": 25.4,
+    "sugar": 1
+},{
+    "carbs": 4.7,
+    "fat": 0.2,
+    "fiber": 0,
+    "kcal": 25,
+    "key": 685,
+    "name": "Rote Zwiebeln",
+    "protein": 1.2,
+    "sugar": 4.7
+},{
+    "carbs": 3,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 81,
+    "key": 686,
+    "name": "Rotwein",
+    "protein": 0,
+    "sugar": 3
+},{
+    "carbs": 1.9,
+    "fat": 1.2,
+    "fiber": 1.6,
+    "kcal": 28,
+    "key": 687,
+    "name": "Rucola",
+    "protein": 1.7,
+    "sugar": 1.9
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 210,
+    "key": 688,
+    "name": "Rum (37% Vol.)",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 369,
+    "key": 689,
+    "name": "Rum (65% Vol.)",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 68.8,
+    "fat": 10.4,
+    "fiber": 1,
+    "kcal": 376,
+    "key": 690,
+    "name": "Rumkugel",
+    "protein": 1.4,
+    "sugar": 22
+},{
+    "carbs": 0,
+    "fat": 9,
+    "fiber": 0,
+    "kcal": 201,
+    "key": 691,
+    "name": "Rumpsteak",
+    "protein": 30,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 7,
+    "fiber": 0,
+    "kcal": 146,
+    "key": 692,
+    "name": "Räucherlachs",
+    "protein": 20.7,
+    "sugar": 0
+},{
+    "carbs": 1,
+    "fat": 9,
+    "fiber": 2.6,
+    "kcal": 162,
+    "key": 693,
+    "name": "Räuchertofu",
+    "protein": 18,
+    "sugar": 0.7
+},{
+    "carbs": 39,
+    "fat": 42,
+    "fiber": 0,
+    "kcal": 558,
+    "key": 694,
+    "name": "Röstzwiebeln",
+    "protein": 6,
+    "sugar": 5
+},{
+    "carbs": 69,
+    "fat": 0,
+    "fiber": 3,
+    "kcal": 282,
+    "key": 695,
+    "name": "Rübensaft",
+    "protein": 0,
+    "sugar": 69
+},{
+    "carbs": 1,
+    "fat": 14,
+    "fiber": 0,
+    "kcal": 178,
+    "key": 696,
+    "name": "Rührei",
+    "protein": 12,
+    "sugar": 1
+},{
+    "carbs": 57,
+    "fat": 17.9,
+    "fiber": 0.4,
+    "kcal": 416,
+    "key": 697,
+    "name": "Rührkuchenteig",
+    "protein": 6.4,
+    "sugar": 15
+},{
+    "carbs": 3,
+    "fat": 10,
+    "fiber": 0,
+    "kcal": 112,
+    "key": 698,
+    "name": "Sahne 10%",
+    "protein": 2.5,
+    "sugar": 3
+},{
+    "carbs": 3,
+    "fat": 20,
+    "fiber": 0,
+    "kcal": 202,
+    "key": 699,
+    "name": "Sahne 20%",
+    "protein": 2.5,
+    "sugar": 3
+},{
+    "carbs": 3,
+    "fat": 30,
+    "fiber": 0,
+    "kcal": 292,
+    "key": 700,
+    "name": "Sahne 30%",
+    "protein": 2.5,
+    "sugar": 3
+},{
+    "carbs": 22,
+    "fat": 10,
+    "fiber": 0,
+    "kcal": 186,
+    "key": 701,
+    "name": "Sahneies",
+    "protein": 2,
+    "sugar": 22
+},{
+    "carbs": 24,
+    "fat": 18.5,
+    "fiber": 0.4,
+    "kcal": 279,
+    "key": 702,
+    "name": "Sahnetorte",
+    "protein": 4,
+    "sugar": 8.4
+},{
+    "carbs": 0,
+    "fat": 2,
+    "fiber": 0,
+    "kcal": 93,
+    "key": 703,
+    "name": "Saibling",
+    "protein": 18.8,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 28,
+    "fiber": 0,
+    "kcal": 332,
+    "key": 704,
+    "name": "Salami",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 30,
+    "fat": 14,
+    "fiber": 3,
+    "kcal": 300,
+    "key": 705,
+    "name": "Salamipizza",
+    "protein": 12,
+    "sugar": 4.6
+},{
+    "carbs": 43.4,
+    "fat": 12,
+    "fiber": 19.1,
+    "kcal": 360,
+    "key": 706,
+    "name": "Salbei getrocknet",
+    "protein": 10,
+    "sugar": 1
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 0,
+    "key": 707,
+    "name": "Salz",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 70,
+    "fat": 5,
+    "fiber": 0.2,
+    "kcal": 368,
+    "key": 708,
+    "name": "Salzstangen",
+    "protein": 10.7,
+    "sugar": 3.5
+},{
+    "carbs": 5.1,
+    "fat": 6.7,
+    "fiber": 2.7,
+    "kcal": 92,
+    "key": 709,
+    "name": "Sanddorn",
+    "protein": 1.4,
+    "sugar": 4.7
+},{
+    "carbs": 42,
+    "fat": 28,
+    "fiber": 0.7,
+    "kcal": 445,
+    "key": 710,
+    "name": "Sandkuchen",
+    "protein": 6,
+    "sugar": 16
+},{
+    "carbs": 0,
+    "fat": 12,
+    "fiber": 0,
+    "kcal": 196,
+    "key": 711,
+    "name": "Sardinen",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 6,
+    "fat": 8.1,
+    "fiber": 0.2,
+    "kcal": 125,
+    "key": 712,
+    "name": "Sauce Bolognese",
+    "protein": 6.9,
+    "sugar": 4
+},{
+    "carbs": 0.9,
+    "fat": 54,
+    "fiber": 0,
+    "kcal": 501,
+    "key": 713,
+    "name": "Sauce Hollandaise",
+    "protein": 2.8,
+    "sugar": 0.9
+},{
+    "carbs": 9,
+    "fat": 0,
+    "fiber": 0.4,
+    "kcal": 40,
+    "key": 714,
+    "name": "Sauerkirschen",
+    "protein": 0.8,
+    "sugar": 8
+},{
+    "carbs": 12,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 48,
+    "key": 715,
+    "name": "Sauerkirschsaft",
+    "protein": 0,
+    "sugar": 12
+},{
+    "carbs": 0.8,
+    "fat": 0,
+    "fiber": 1.7,
+    "kcal": 15,
+    "key": 716,
+    "name": "Sauerkraut",
+    "protein": 2,
+    "sugar": 0.8
+},{
+    "carbs": 4,
+    "fat": 10,
+    "fiber": 0,
+    "kcal": 114,
+    "key": 717,
+    "name": "Sauerrahm",
+    "protein": 2,
+    "sugar": 3
+},{
+    "carbs": 0,
+    "fat": 25,
+    "fiber": 0,
+    "kcal": 305,
+    "key": 718,
+    "name": "Schafskäse",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 2,
+    "fat": 0,
+    "fiber": 1,
+    "kcal": 18,
+    "key": 719,
+    "name": "Schalotten",
+    "protein": 2,
+    "sugar": 2
+},{
+    "carbs": 0,
+    "fat": 1.2,
+    "fiber": 0,
+    "kcal": 91,
+    "key": 720,
+    "name": "Schellfisch",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 4,
+    "fiber": 0,
+    "kcal": 112,
+    "key": 721,
+    "name": "Schinken roh geräuchert",
+    "protein": 19,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 24,
+    "fiber": 0,
+    "kcal": 332,
+    "key": 722,
+    "name": "Schinkenspeck",
+    "protein": 29,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 22,
+    "fiber": 0,
+    "kcal": 246,
+    "key": 723,
+    "name": "Schinkenwurst",
+    "protein": 12,
+    "sugar": 0
+},{
+    "carbs": 2,
+    "fat": 30,
+    "fiber": 0,
+    "kcal": 286,
+    "key": 724,
+    "name": "Schlagsahne",
+    "protein": 2,
+    "sugar": 2
+},{
+    "carbs": 4,
+    "fat": 30,
+    "fiber": 0,
+    "kcal": 294,
+    "key": 725,
+    "name": "Schmand",
+    "protein": 2,
+    "sugar": 4
+},{
+    "carbs": 5,
+    "fat": 23,
+    "fiber": 0,
+    "kcal": 275,
+    "key": 726,
+    "name": "Schmelzkäse",
+    "protein": 12,
+    "sugar": 5
+},{
+    "carbs": 1.9,
+    "fat": 0.7,
+    "fiber": 2.4,
+    "kcal": 32,
+    "key": 727,
+    "name": "Schnittlauch",
+    "protein": 3.3,
+    "sugar": 1.9
+},{
+    "carbs": 55,
+    "fat": 14,
+    "fiber": 1,
+    "kcal": 368,
+    "key": 728,
+    "name": "Schokokuss",
+    "protein": 5,
+    "sugar": 52
+},{
+    "carbs": 22,
+    "fat": 8,
+    "fiber": 1,
+    "kcal": 174,
+    "key": 729,
+    "name": "Schokoladeneis",
+    "protein": 3,
+    "sugar": 22
+},{
+    "carbs": 19,
+    "fat": 2.5,
+    "fiber": 0.7,
+    "kcal": 113,
+    "key": 730,
+    "name": "Schokoladenpudding gekocht",
+    "protein": 3.3,
+    "sugar": 10
+},{
+    "carbs": 62,
+    "fat": 12,
+    "fiber": 8,
+    "kcal": 412,
+    "key": 731,
+    "name": "Schokomüsli",
+    "protein": 10,
+    "sugar": 23
+},{
+    "carbs": 60,
+    "fat": 24,
+    "fiber": 3,
+    "kcal": 498,
+    "key": 732,
+    "name": "Schokoriegel",
+    "protein": 9,
+    "sugar": 47
+},{
+    "carbs": 0,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 73,
+    "key": 733,
+    "name": "Scholle",
+    "protein": 16,
+    "sugar": 0
+},{
+    "carbs": 31.2,
+    "fat": 1.4,
+    "fiber": 2.1,
+    "kcal": 154,
+    "key": 734,
+    "name": "Schupfnudeln",
+    "protein": 3,
+    "sugar": 2.2
+},{
+    "carbs": 39.2,
+    "fat": 2.4,
+    "fiber": 6.4,
+    "kcal": 231,
+    "key": 735,
+    "name": "Schwarzbrot",
+    "protein": 10,
+    "sugar": 3.8
+},{
+    "carbs": 44,
+    "fat": 0.7,
+    "fiber": 16,
+    "kcal": 316,
+    "key": 736,
+    "name": "Schwarze Bohnen",
+    "protein": 25.4,
+    "sugar": 1
+},{
+    "carbs": 6.3,
+    "fat": 0.2,
+    "fiber": 3.8,
+    "kcal": 40,
+    "key": 737,
+    "name": "Schwarze Johannisbeeren",
+    "protein": 1.3,
+    "sugar": 4.4
+},{
+    "carbs": 3,
+    "fat": 0.1,
+    "fiber": 0,
+    "kcal": 13,
+    "key": 738,
+    "name": "Schwarzer Johannisbeersaft",
+    "protein": 0.1,
+    "sugar": 3
+},{
+    "carbs": 1.8,
+    "fat": 0.3,
+    "fiber": 4.1,
+    "kcal": 23,
+    "key": 739,
+    "name": "Schwarzwurzel",
+    "protein": 1.2,
+    "sugar": 0.8
+},{
+    "carbs": 0,
+    "fat": 36,
+    "fiber": 0,
+    "kcal": 400,
+    "key": 740,
+    "name": "Schweinebauch",
+    "protein": 19,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 111,
+    "key": 741,
+    "name": "Schweinebraten",
+    "protein": 21,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 4,
+    "fiber": 0,
+    "kcal": 116,
+    "key": 742,
+    "name": "Schweinefilet",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 111,
+    "key": 743,
+    "name": "Schweinegulasch",
+    "protein": 21,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 25,
+    "fiber": 0,
+    "kcal": 305,
+    "key": 744,
+    "name": "Schweinehackfleisch",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 18,
+    "fiber": 0,
+    "kcal": 250,
+    "key": 745,
+    "name": "Schweinehaxe",
+    "protein": 22,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 111,
+    "key": 746,
+    "name": "Schweinekotelett",
+    "protein": 21,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 5,
+    "fiber": 0,
+    "kcal": 125,
+    "key": 747,
+    "name": "Schweineleber",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 2.1,
+    "fiber": 0,
+    "kcal": 63,
+    "key": 748,
+    "name": "Schweinerücken",
+    "protein": 11,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 749,
+    "name": "Schweineschmalz",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 11,
+    "fat": 9.3,
+    "fiber": 0.8,
+    "kcal": 209,
+    "key": 750,
+    "name": "Schweineschnitzel paniert und gebraten",
+    "protein": 20,
+    "sugar": 0.2
+},{
+    "carbs": 0,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 111,
+    "key": 751,
+    "name": "Schweineschnitzel, roh",
+    "protein": 21,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 9,
+    "fiber": 0,
+    "kcal": 153,
+    "key": 752,
+    "name": "Schweineschulter",
+    "protein": 18,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 111,
+    "key": 753,
+    "name": "Schweinezunge",
+    "protein": 21,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 8,
+    "fiber": 0,
+    "kcal": 164,
+    "key": 754,
+    "name": "Schwertfisch",
+    "protein": 23,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 2.8,
+    "fiber": 0,
+    "kcal": 93,
+    "key": 755,
+    "name": "Seehecht",
+    "protein": 17,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0.8,
+    "fiber": 0,
+    "kcal": 79,
+    "key": 756,
+    "name": "Seelachs",
+    "protein": 18,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 69,
+    "key": 757,
+    "name": "Seeteufel",
+    "protein": 15,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 77,
+    "key": 758,
+    "name": "Seezunge",
+    "protein": 17,
+    "sugar": 0
+},{
+    "carbs": 12,
+    "fat": 2,
+    "fiber": 1,
+    "kcal": 368,
+    "key": 759,
+    "name": "Seitan",
+    "protein": 75,
+    "sugar": 0
+},{
+    "carbs": 4,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 87,
+    "key": 760,
+    "name": "Sekt, halbtrocken",
+    "protein": 0,
+    "sugar": 4
+},{
+    "carbs": 2,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 79,
+    "key": 761,
+    "name": "Sekt, trocken",
+    "protein": 0,
+    "sugar": 2
+},{
+    "carbs": 45.6,
+    "fat": 5.4,
+    "fiber": 2.3,
+    "kcal": 284,
+    "key": 762,
+    "name": "Semmelknödel",
+    "protein": 12,
+    "sugar": 1.4
+},{
+    "carbs": 6,
+    "fat": 3,
+    "fiber": 4,
+    "kcal": 76,
+    "key": 763,
+    "name": "Senf",
+    "protein": 4.3,
+    "sugar": 1
+},{
+    "carbs": 0.4,
+    "fat": 9,
+    "fiber": 0,
+    "kcal": 203,
+    "key": 764,
+    "name": "Serrano Schinken",
+    "protein": 30,
+    "sugar": 0
+},{
+    "carbs": 9,
+    "fat": 49,
+    "fiber": 10.9,
+    "kcal": 559,
+    "key": 765,
+    "name": "Sesam",
+    "protein": 15,
+    "sugar": 1
+},{
+    "carbs": 17,
+    "fat": 14,
+    "fiber": 17,
+    "kcal": 344,
+    "key": 766,
+    "name": "Sesammehl",
+    "protein": 29,
+    "sugar": 2
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 767,
+    "name": "Sesamöl",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 19.4,
+    "fat": 0.2,
+    "fiber": 1,
+    "kcal": 94,
+    "key": 768,
+    "name": "Shiitake Pilze frisch",
+    "protein": 3.2,
+    "sugar": 0.4
+},{
+    "carbs": 4,
+    "fat": 0.2,
+    "fiber": 0,
+    "kcal": 62,
+    "key": 769,
+    "name": "Skyr 0.2%",
+    "protein": 11,
+    "sugar": 4
+},{
+    "carbs": 20,
+    "fat": 2,
+    "fiber": 0,
+    "kcal": 106,
+    "key": 770,
+    "name": "Softeis",
+    "protein": 2,
+    "sugar": 20
+},{
+    "carbs": 10.1,
+    "fat": 7.1,
+    "fiber": 1.9,
+    "kcal": 170,
+    "key": 771,
+    "name": "Sojabohne",
+    "protein": 15.5,
+    "sugar": 2
+},{
+    "carbs": 3,
+    "fat": 20,
+    "fiber": 0,
+    "kcal": 340,
+    "key": 772,
+    "name": "Sojaflocken",
+    "protein": 37,
+    "sugar": 0
+},{
+    "carbs": 17,
+    "fat": 1.1,
+    "fiber": 0.5,
+    "kcal": 88,
+    "key": 773,
+    "name": "Sojajoghurt",
+    "protein": 2.4,
+    "sugar": 12
+},{
+    "carbs": 22.4,
+    "fat": 3,
+    "fiber": 15.5,
+    "kcal": 348,
+    "key": 774,
+    "name": "Sojamehl",
+    "protein": 50,
+    "sugar": 5
+},{
+    "carbs": 6,
+    "fat": 1.9,
+    "fiber": 0.5,
+    "kcal": 55,
+    "key": 775,
+    "name": "Sojamilch",
+    "protein": 3.3,
+    "sugar": 4
+},{
+    "carbs": 4.9,
+    "fat": 0.5,
+    "fiber": 0.4,
+    "kcal": 57,
+    "key": 776,
+    "name": "Sojasauce",
+    "protein": 8,
+    "sugar": 0.8
+},{
+    "carbs": 4.9,
+    "fat": 1.1,
+    "fiber": 2.5,
+    "kcal": 55,
+    "key": 777,
+    "name": "Sojasprossen",
+    "protein": 5,
+    "sugar": 2.1
+},{
+    "carbs": 32.5,
+    "fat": 5.1,
+    "fiber": 7.9,
+    "kcal": 216,
+    "key": 778,
+    "name": "Sonnenblumenbrot",
+    "protein": 6,
+    "sugar": 2.1
+},{
+    "carbs": 11.4,
+    "fat": 47,
+    "fiber": 6,
+    "kcal": 557,
+    "key": 779,
+    "name": "Sonnenblumenkerne",
+    "protein": 19,
+    "sugar": 2.9
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 780,
+    "name": "Sonnenblumenöl",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 260,
+    "key": 781,
+    "name": "Sorbit",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 21,
+    "fat": 5.4,
+    "fiber": 1.1,
+    "kcal": 171,
+    "key": 782,
+    "name": "Spaghetti Bolognese",
+    "protein": 9,
+    "sugar": 1.4
+},{
+    "carbs": 30,
+    "fat": 1,
+    "fiber": 1.8,
+    "kcal": 157,
+    "key": 783,
+    "name": "Spaghetti gekocht",
+    "protein": 6,
+    "sugar": 0.5
+},{
+    "carbs": 33,
+    "fat": 1,
+    "fiber": 1,
+    "kcal": 171,
+    "key": 784,
+    "name": "Spaghetti roh",
+    "protein": 7,
+    "sugar": 1
+},{
+    "carbs": 2,
+    "fat": 15.9,
+    "fiber": 0,
+    "kcal": 221,
+    "key": 785,
+    "name": "Spare Ribs mariniert",
+    "protein": 17.5,
+    "sugar": 1
+},{
+    "carbs": 2,
+    "fat": 0.2,
+    "fiber": 1.2,
+    "kcal": 20,
+    "key": 786,
+    "name": "Spargel",
+    "protein": 1.9,
+    "sugar": 2
+},{
+    "carbs": 0,
+    "fat": 85,
+    "fiber": 0,
+    "kcal": 785,
+    "key": 787,
+    "name": "Speck",
+    "protein": 5,
+    "sugar": 0
+},{
+    "carbs": 10,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 40,
+    "key": 788,
+    "name": "Spezi Mezzo Mix",
+    "protein": 0,
+    "sugar": 10
+},{
+    "carbs": 1,
+    "fat": 14,
+    "fiber": 0,
+    "kcal": 178,
+    "key": 789,
+    "name": "Spiegelei",
+    "protein": 12,
+    "sugar": 1
+},{
+    "carbs": 2,
+    "fat": 0.8,
+    "fiber": 1.7,
+    "kcal": 27,
+    "key": 790,
+    "name": "Spinat",
+    "protein": 2,
+    "sugar": 2
+},{
+    "carbs": 4,
+    "fat": 7,
+    "fiber": 1.7,
+    "kcal": 90,
+    "key": 791,
+    "name": "Spinat mit Rahm",
+    "protein": 2,
+    "sugar": 4
+},{
+    "carbs": 2.8,
+    "fat": 0.3,
+    "fiber": 2.6,
+    "kcal": 26,
+    "key": 792,
+    "name": "Spitzkohl",
+    "protein": 1.7,
+    "sugar": 2.7
+},{
+    "carbs": 9.1,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 36,
+    "key": 793,
+    "name": "Sprite",
+    "protein": 0,
+    "sugar": 9.1
+},{
+    "carbs": 25.6,
+    "fat": 1.8,
+    "fiber": 1.9,
+    "kcal": 138,
+    "key": 794,
+    "name": "Spätzle",
+    "protein": 3.8,
+    "sugar": 0
+},{
+    "carbs": 8,
+    "fat": 0.5,
+    "fiber": 3,
+    "kcal": 48,
+    "key": 795,
+    "name": "Stachelbeeren",
+    "protein": 1.4,
+    "sugar": 8
+},{
+    "carbs": 2,
+    "fat": 0.2,
+    "fiber": 2.7,
+    "kcal": 19,
+    "key": 796,
+    "name": "Stangensellerie",
+    "protein": 1,
+    "sugar": 0.7
+},{
+    "carbs": 2,
+    "fat": 0.2,
+    "fiber": 2.3,
+    "kcal": 18,
+    "key": 797,
+    "name": "Staudensellerie",
+    "protein": 1,
+    "sugar": 0
+},{
+    "carbs": 6,
+    "fat": 0.4,
+    "fiber": 1.4,
+    "kcal": 34,
+    "key": 798,
+    "name": "Steckrüben",
+    "protein": 1,
+    "sugar": 5.1
+},{
+    "carbs": 1,
+    "fat": 0,
+    "fiber": 5.5,
+    "kcal": 31,
+    "key": 799,
+    "name": "Steinpilze",
+    "protein": 4,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 0,
+    "key": 800,
+    "name": "Stevia",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 44,
+    "fat": 25,
+    "fiber": 2,
+    "kcal": 421,
+    "key": 801,
+    "name": "Stollen",
+    "protein": 4,
+    "sugar": 25
+},{
+    "carbs": 0.1,
+    "fat": 12,
+    "fiber": 0,
+    "kcal": 208,
+    "key": 802,
+    "name": "Stremellachs",
+    "protein": 25,
+    "sugar": 0.1
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 454,
+    "key": 803,
+    "name": "Stroh 80",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 45,
+    "fat": 26.8,
+    "fiber": 5.9,
+    "kcal": 485,
+    "key": 804,
+    "name": "Studentenfutter",
+    "protein": 13,
+    "sugar": 38
+},{
+    "carbs": 0,
+    "fat": 10,
+    "fiber": 0,
+    "kcal": 162,
+    "key": 805,
+    "name": "Suppenfleisch Rind",
+    "protein": 18,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 20,
+    "fiber": 0,
+    "kcal": 240,
+    "key": 806,
+    "name": "Suppenhuhn",
+    "protein": 15,
+    "sugar": 0
+},{
+    "carbs": 7,
+    "fat": 0.9,
+    "fiber": 0,
+    "kcal": 96,
+    "key": 807,
+    "name": "Surimi",
+    "protein": 15,
+    "sugar": 0
+},{
+    "carbs": 23.5,
+    "fat": 0.7,
+    "fiber": 0,
+    "kcal": 126,
+    "key": 808,
+    "name": "Sushi",
+    "protein": 6.5,
+    "sugar": 0
+},{
+    "carbs": 1.4,
+    "fat": 13,
+    "fiber": 0,
+    "kcal": 167,
+    "key": 809,
+    "name": "Sülze Hausmacher Art",
+    "protein": 11,
+    "sugar": 1.3
+},{
+    "carbs": 26.3,
+    "fat": 1.2,
+    "fiber": 2.1,
+    "kcal": 127,
+    "key": 810,
+    "name": "Süßkartoffeln",
+    "protein": 1.6,
+    "sugar": 6
+},{
+    "carbs": 14,
+    "fat": 0.2,
+    "fiber": 1.4,
+    "kcal": 65,
+    "key": 811,
+    "name": "Süßkirschen",
+    "protein": 1,
+    "sugar": 13.4
+},{
+    "carbs": 10,
+    "fat": 12,
+    "fiber": 2,
+    "kcal": 324,
+    "key": 812,
+    "name": "Süßlupinenmehl",
+    "protein": 43,
+    "sugar": 2
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 0,
+    "key": 813,
+    "name": "Süßstoff",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 7,
+    "fat": 3.5,
+    "fiber": 0,
+    "kcal": 69,
+    "key": 814,
+    "name": "Tabasco",
+    "protein": 2.4,
+    "sugar": 3
+},{
+    "carbs": 1,
+    "fat": 2,
+    "fiber": 0,
+    "kcal": 102,
+    "key": 815,
+    "name": "Tafelspitz mager roh",
+    "protein": 20,
+    "sugar": 1
+},{
+    "carbs": 21,
+    "fat": 54,
+    "fiber": 9,
+    "kcal": 656,
+    "key": 816,
+    "name": "Tahina Sesampaste",
+    "protein": 17,
+    "sugar": 0.5
+},{
+    "carbs": 10,
+    "fat": 1.2,
+    "fiber": 1.5,
+    "kcal": 60,
+    "key": 817,
+    "name": "Tamarillo",
+    "protein": 1.5,
+    "sugar": 8
+},{
+    "carbs": 65,
+    "fat": 0.5,
+    "fiber": 0,
+    "kcal": 272,
+    "key": 818,
+    "name": "Tamarinde",
+    "protein": 2,
+    "sugar": 57
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 0,
+    "key": 819,
+    "name": "Tee schwarz",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 49,
+    "fiber": 0,
+    "kcal": 489,
+    "key": 820,
+    "name": "Teewurst",
+    "protein": 12,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 2,
+    "fiber": 0,
+    "kcal": 114,
+    "key": 821,
+    "name": "Thunfisch",
+    "protein": 24,
+    "sugar": 0
+},{
+    "carbs": 1,
+    "fat": 26,
+    "fiber": 0,
+    "kcal": 326,
+    "key": 822,
+    "name": "Tilsiter Käse",
+    "protein": 22,
+    "sugar": 1
+},{
+    "carbs": 0,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 69,
+    "key": 823,
+    "name": "Tintenfisch",
+    "protein": 15,
+    "sugar": 0
+},{
+    "carbs": 30.4,
+    "fat": 11.7,
+    "fiber": 0,
+    "kcal": 248,
+    "key": 824,
+    "name": "Tiramisu",
+    "protein": 5.4,
+    "sugar": 18
+},{
+    "carbs": 49.4,
+    "fat": 1.6,
+    "fiber": 4,
+    "kcal": 248,
+    "key": 825,
+    "name": "Toastbrot",
+    "protein": 7,
+    "sugar": 3
+},{
+    "carbs": 2,
+    "fat": 4,
+    "fiber": 0.2,
+    "kcal": 76,
+    "key": 826,
+    "name": "Tofu",
+    "protein": 8,
+    "sugar": 0
+},{
+    "carbs": 4,
+    "fat": 0.3,
+    "fiber": 0.4,
+    "kcal": 24,
+    "key": 827,
+    "name": "Tomate",
+    "protein": 1,
+    "sugar": 3.4
+},{
+    "carbs": 15.9,
+    "fat": 5.4,
+    "fiber": 13.5,
+    "kcal": 163,
+    "key": 828,
+    "name": "Tomaten, getrocknet",
+    "protein": 5.9,
+    "sugar": 6
+},{
+    "carbs": 4,
+    "fat": 0.1,
+    "fiber": 2.4,
+    "kcal": 26,
+    "key": 829,
+    "name": "Tomaten, passiert",
+    "protein": 1,
+    "sugar": 4
+},{
+    "carbs": 7,
+    "fat": 0.2,
+    "fiber": 2.4,
+    "kcal": 41,
+    "key": 830,
+    "name": "Tomatenmark",
+    "protein": 1.6,
+    "sugar": 6
+},{
+    "carbs": 3.8,
+    "fat": 0.1,
+    "fiber": 0.4,
+    "kcal": 20,
+    "key": 831,
+    "name": "Tomatensaft",
+    "protein": 0.8,
+    "sugar": 3.6
+},{
+    "carbs": 7.1,
+    "fat": 0.4,
+    "fiber": 1.6,
+    "kcal": 40,
+    "key": 832,
+    "name": "Tomatensauce",
+    "protein": 1.2,
+    "sugar": 4
+},{
+    "carbs": 7,
+    "fat": 0.3,
+    "fiber": 0.5,
+    "kcal": 34,
+    "key": 833,
+    "name": "Tomatensuppe",
+    "protein": 0.7,
+    "sugar": 3.5
+},{
+    "carbs": 9,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 36,
+    "key": 834,
+    "name": "Tonic Water",
+    "protein": 0,
+    "sugar": 9
+},{
+    "carbs": 17,
+    "fat": 0,
+    "fiber": 12.5,
+    "kcal": 101,
+    "key": 835,
+    "name": "Topinambur",
+    "protein": 2,
+    "sugar": 10
+},{
+    "carbs": 45,
+    "fat": 7.2,
+    "fiber": 2,
+    "kcal": 305,
+    "key": 836,
+    "name": "Tortellini",
+    "protein": 14,
+    "sugar": 1
+},{
+    "carbs": 77,
+    "fat": 0.2,
+    "fiber": 0,
+    "kcal": 311,
+    "key": 837,
+    "name": "Tortenguss",
+    "protein": 0.2,
+    "sugar": 0
+},{
+    "carbs": 46,
+    "fat": 1,
+    "fiber": 2.4,
+    "kcal": 226,
+    "key": 838,
+    "name": "Tortilla",
+    "protein": 7,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 839,
+    "name": "Traubenkernöl",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 17,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 68,
+    "key": 840,
+    "name": "Traubensaft",
+    "protein": 0,
+    "sugar": 17
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 400,
+    "key": 841,
+    "name": "Traubenzucker",
+    "protein": 0,
+    "sugar": 100
+},{
+    "carbs": 14.7,
+    "fat": 3.5,
+    "fiber": 0,
+    "kcal": 100,
+    "key": 842,
+    "name": "Trinkschokolade",
+    "protein": 2.5,
+    "sugar": 13.4
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 0,
+    "key": 843,
+    "name": "Trinkwasser",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 31,
+    "fat": 1,
+    "fiber": 20,
+    "kcal": 313,
+    "key": 844,
+    "name": "Trockenhefe",
+    "protein": 35,
+    "sugar": 0
+},{
+    "carbs": 8,
+    "fat": 0.5,
+    "fiber": 0,
+    "kcal": 68,
+    "key": 845,
+    "name": "Trüffel",
+    "protein": 8,
+    "sugar": 1
+},{
+    "carbs": 6,
+    "fat": 7,
+    "fiber": 0,
+    "kcal": 101,
+    "key": 846,
+    "name": "Tzatziki",
+    "protein": 3.5,
+    "sugar": 1
+},{
+    "carbs": 20,
+    "fat": 1.5,
+    "fiber": 0,
+    "kcal": 106,
+    "key": 847,
+    "name": "Vanillepudding gekocht",
+    "protein": 3,
+    "sugar": 14
+},{
+    "carbs": 13,
+    "fat": 0.1,
+    "fiber": 0,
+    "kcal": 53,
+    "key": 848,
+    "name": "Vanilleschote",
+    "protein": 0.1,
+    "sugar": 13
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 400,
+    "key": 849,
+    "name": "Vanillezucker",
+    "protein": 0,
+    "sugar": 100
+},{
+    "carbs": 36,
+    "fat": 2.4,
+    "fiber": 7,
+    "kcal": 208,
+    "key": 850,
+    "name": "Vollkornbrot",
+    "protein": 7,
+    "sugar": 2
+},{
+    "carbs": 44,
+    "fat": 3,
+    "fiber": 7.3,
+    "kcal": 246,
+    "key": 851,
+    "name": "Vollkornbrötchen",
+    "protein": 7,
+    "sugar": 2
+},{
+    "carbs": 55,
+    "fat": 6.8,
+    "fiber": 11.7,
+    "kcal": 360,
+    "key": 852,
+    "name": "Vollkornhaferflocken",
+    "protein": 13.8,
+    "sugar": 1
+},{
+    "carbs": 65,
+    "fat": 1.6,
+    "fiber": 15.1,
+    "kcal": 341,
+    "key": 853,
+    "name": "Vollkornknäckebrot",
+    "protein": 9,
+    "sugar": 1.7
+},{
+    "carbs": 72,
+    "fat": 2,
+    "fiber": 3,
+    "kcal": 324,
+    "key": 854,
+    "name": "Vollkornreis roh",
+    "protein": 3,
+    "sugar": 2
+},{
+    "carbs": 36,
+    "fat": 3.4,
+    "fiber": 9,
+    "kcal": 221,
+    "key": 855,
+    "name": "Vollkorntoastbrot",
+    "protein": 7,
+    "sugar": 3
+},{
+    "carbs": 53,
+    "fat": 32,
+    "fiber": 1,
+    "kcal": 534,
+    "key": 856,
+    "name": "Vollmilchschokolade",
+    "protein": 8,
+    "sugar": 53
+},{
+    "carbs": 33,
+    "fat": 13.4,
+    "fiber": 12,
+    "kcal": 353,
+    "key": 857,
+    "name": "Wacholderbeeren",
+    "protein": 19,
+    "sugar": 1
+},{
+    "carbs": 15,
+    "fat": 30,
+    "fiber": 14,
+    "kcal": 478,
+    "key": 858,
+    "name": "Walnussmehl entölt",
+    "protein": 30,
+    "sugar": 7
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 859,
+    "name": "Walnussöl",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 12.4,
+    "fat": 64,
+    "fiber": 5.4,
+    "kcal": 678,
+    "key": 860,
+    "name": "Walnüsse",
+    "protein": 10.3,
+    "sugar": 5
+},{
+    "carbs": 25,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 100,
+    "key": 861,
+    "name": "Wassereis",
+    "protein": 0,
+    "sugar": 25
+},{
+    "carbs": 6,
+    "fat": 0,
+    "fiber": 0.4,
+    "kcal": 28,
+    "key": 862,
+    "name": "Wassermelone",
+    "protein": 0.8,
+    "sugar": 6
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 227,
+    "key": 863,
+    "name": "Weinbrand/Cognac (40%)",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 540,
+    "key": 864,
+    "name": "Weingeist/Sprit (95%)",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 1.9,
+    "fat": 0.5,
+    "fiber": 2,
+    "kcal": 22,
+    "key": 865,
+    "name": "Weinsauerkraut",
+    "protein": 1.5,
+    "sugar": 1.7
+},{
+    "carbs": 2,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 45,
+    "key": 866,
+    "name": "Weinschorle",
+    "protein": 0,
+    "sugar": 2
+},{
+    "carbs": 14,
+    "fat": 1,
+    "fiber": 1,
+    "kcal": 71,
+    "key": 867,
+    "name": "Weintrauben",
+    "protein": 1,
+    "sugar": 14
+},{
+    "carbs": 5.3,
+    "fat": 0.1,
+    "fiber": 0,
+    "kcal": 24,
+    "key": 868,
+    "name": "Weizenbier alkoholfrei",
+    "protein": 0.4,
+    "sugar": 3.6
+},{
+    "carbs": 2.3,
+    "fat": 1.4,
+    "fiber": 45,
+    "kcal": 171,
+    "key": 869,
+    "name": "Weizengras Pulver",
+    "protein": 14.7,
+    "sugar": 0
+},{
+    "carbs": 66,
+    "fat": 1,
+    "fiber": 6.4,
+    "kcal": 322,
+    "key": 870,
+    "name": "Weizengrieß",
+    "protein": 9,
+    "sugar": 0.8
+},{
+    "carbs": 0,
+    "fat": 100,
+    "fiber": 0,
+    "kcal": 900,
+    "key": 871,
+    "name": "Weizenkeimöl",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 12,
+    "fat": 4,
+    "fiber": 49.4,
+    "kcal": 256,
+    "key": 872,
+    "name": "Weizenkleie",
+    "protein": 18.3,
+    "sugar": 2
+},{
+    "carbs": 74,
+    "fat": 1.7,
+    "fiber": 5.8,
+    "kcal": 367,
+    "key": 873,
+    "name": "Weizenknäckebrot",
+    "protein": 11,
+    "sugar": 3
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 216,
+    "key": 874,
+    "name": "Weizenkorn",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 70.9,
+    "fat": 1,
+    "fiber": 3.5,
+    "kcal": 343,
+    "key": 875,
+    "name": "Weizenmehl 405",
+    "protein": 10.8,
+    "sugar": 1
+},{
+    "carbs": 88,
+    "fat": 1,
+    "fiber": 0.8,
+    "kcal": 366,
+    "key": 876,
+    "name": "Weizenstärke",
+    "protein": 0.8,
+    "sugar": 0
+},{
+    "carbs": 63.4,
+    "fat": 1.6,
+    "fiber": 9.5,
+    "kcal": 322,
+    "key": 877,
+    "name": "Weizenvollkornmehl",
+    "protein": 8.8,
+    "sugar": 0.7
+},{
+    "carbs": 5,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 47,
+    "key": 878,
+    "name": "Weißbier Weizenbier",
+    "protein": 0,
+    "sugar": 3
+},{
+    "carbs": 52,
+    "fat": 1.9,
+    "fiber": 3,
+    "kcal": 251,
+    "key": 879,
+    "name": "Weißbrot",
+    "protein": 5,
+    "sugar": 2
+},{
+    "carbs": 16,
+    "fat": 0.3,
+    "fiber": 3.5,
+    "kcal": 96,
+    "key": 880,
+    "name": "Weiße Bohnen roh",
+    "protein": 5.5,
+    "sugar": 4
+},{
+    "carbs": 65,
+    "fat": 30,
+    "fiber": 0,
+    "kcal": 546,
+    "key": 881,
+    "name": "Weiße Schokolade",
+    "protein": 4,
+    "sugar": 65
+},{
+    "carbs": 5,
+    "fat": 0,
+    "fiber": 3,
+    "kcal": 30,
+    "key": 882,
+    "name": "Weißkohl",
+    "protein": 1,
+    "sugar": 5
+},{
+    "carbs": 4,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 88,
+    "key": 883,
+    "name": "Weißwein",
+    "protein": 0,
+    "sugar": 4
+},{
+    "carbs": 1,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 5,
+    "key": 884,
+    "name": "Weißweinessig",
+    "protein": 0.2,
+    "sugar": 0.1
+},{
+    "carbs": 2,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 44,
+    "key": 885,
+    "name": "Weißweinschorle",
+    "protein": 0,
+    "sugar": 2
+},{
+    "carbs": 0,
+    "fat": 25,
+    "fiber": 0,
+    "kcal": 265,
+    "key": 886,
+    "name": "Weißwurst",
+    "protein": 10,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 12,
+    "fiber": 0,
+    "kcal": 183,
+    "key": 887,
+    "name": "Welsfilet",
+    "protein": 18.7,
+    "sugar": 0
+},{
+    "carbs": 36,
+    "fat": 5,
+    "fiber": 5.5,
+    "kcal": 232,
+    "key": 888,
+    "name": "Weltmeisterbrot",
+    "protein": 8,
+    "sugar": 3
+},{
+    "carbs": 0,
+    "fat": 2.7,
+    "fiber": 0,
+    "kcal": 364,
+    "key": 889,
+    "name": "Whey Protein natur",
+    "protein": 85,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 227,
+    "key": 890,
+    "name": "Whisky (40% Vol.)",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 13,
+    "fat": 11,
+    "fiber": 1.2,
+    "kcal": 233,
+    "key": 891,
+    "name": "Wiener Schnitzel gebr.",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 0.2,
+    "fat": 22,
+    "fiber": 0,
+    "kcal": 243,
+    "key": 892,
+    "name": "Wiener Würstchen",
+    "protein": 11.1,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 8.7,
+    "fiber": 0,
+    "kcal": 122,
+    "key": 893,
+    "name": "Wildente",
+    "protein": 11,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 3,
+    "fiber": 0,
+    "kcal": 99,
+    "key": 894,
+    "name": "Wildlachs",
+    "protein": 18,
+    "sugar": 0
+},{
+    "carbs": 27,
+    "fat": 0.5,
+    "fiber": 2.1,
+    "kcal": 138,
+    "key": 895,
+    "name": "Wildreis gekocht",
+    "protein": 5.4,
+    "sugar": 0.6
+},{
+    "carbs": 77,
+    "fat": 2,
+    "fiber": 4,
+    "kcal": 370,
+    "key": 896,
+    "name": "Wildreis gemischt roh",
+    "protein": 9,
+    "sugar": 0
+},{
+    "carbs": 73,
+    "fat": 1,
+    "fiber": 6,
+    "kcal": 369,
+    "key": 897,
+    "name": "Wildreis roh",
+    "protein": 14,
+    "sugar": 2
+},{
+    "carbs": 0,
+    "fat": 7,
+    "fiber": 0,
+    "kcal": 147,
+    "key": 898,
+    "name": "Wildschwein",
+    "protein": 21,
+    "sugar": 0
+},{
+    "carbs": 27,
+    "fat": 18.4,
+    "fiber": 0.4,
+    "kcal": 294,
+    "key": 899,
+    "name": "Windbeutel",
+    "protein": 5,
+    "sugar": 4.2
+},{
+    "carbs": 2,
+    "fat": 0.1,
+    "fiber": 3,
+    "kcal": 23,
+    "key": 900,
+    "name": "Wirsing",
+    "protein": 2,
+    "sugar": 2
+},{
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 227,
+    "key": 901,
+    "name": "Wodka (40% Vol.)",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 3.4,
+    "fat": 30.4,
+    "fiber": 0,
+    "kcal": 298,
+    "key": 902,
+    "name": "Wurstsalat",
+    "protein": 2.6,
+    "sugar": 0.8
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 240,
+    "key": 903,
+    "name": "Xylit",
+    "protein": 0,
+    "sugar": 0
+},{
+    "carbs": 0,
+    "fat": 1,
+    "fiber": 0,
+    "kcal": 89,
+    "key": 904,
+    "name": "Zander",
+    "protein": 20,
+    "sugar": 0
+},{
+    "carbs": 45,
+    "fat": 30,
+    "fiber": 10,
+    "kcal": 498,
+    "key": 905,
+    "name": "Zartbitterschokolade 50%",
+    "protein": 7,
+    "sugar": 45
+},{
+    "carbs": 28,
+    "fat": 41,
+    "fiber": 4,
+    "kcal": 523,
+    "key": 906,
+    "name": "Zartbitterschokolade 75%",
+    "protein": 8.5,
+    "sugar": 28
+},{
+    "carbs": 19,
+    "fat": 50,
+    "fiber": 4,
+    "kcal": 574,
+    "key": 907,
+    "name": "Zartbitterschokolade 85%",
+    "protein": 10,
+    "sugar": 13
+},{
+    "carbs": 14,
+    "fat": 55,
+    "fiber": 5,
+    "kcal": 601,
+    "key": 908,
+    "name": "Zartbitterschokolade 90%",
+    "protein": 10,
+    "sugar": 7
+},{
+    "carbs": 3.5,
+    "fat": 12.7,
+    "fiber": 0,
+    "kcal": 164,
+    "key": 909,
+    "name": "Ziegenfrischkäse",
+    "protein": 9,
+    "sugar": 3.5
+},{
+    "carbs": 0,
+    "fat": 26,
+    "fiber": 0,
+    "kcal": 324,
+    "key": 910,
+    "name": "Ziegenkäse",
+    "protein": 22.4,
+    "sugar": 0
+},{
+    "carbs": 30,
+    "fat": 1.2,
+    "fiber": 53,
+    "kcal": 253,
+    "key": 911,
+    "name": "Zimt",
+    "protein": 4,
+    "sugar": 2.2
+},{
+    "carbs": 3,
+    "fat": 0.6,
+    "fiber": 5,
+    "kcal": 33,
+    "key": 912,
+    "name": "Zitrone",
+    "protein": 1.4,
+    "sugar": 3
+},{
+    "carbs": 25.3,
+    "fat": 0.5,
+    "fiber": 1.9,
+    "kcal": 116,
+    "key": 913,
+    "name": "Zitronengras",
+    "protein": 1.5,
+    "sugar": 3
+},{
+    "carbs": 2.4,
+    "fat": 0.2,
+    "fiber": 0.4,
+    "kcal": 13,
+    "key": 914,
+    "name": "Zitronensaft",
+    "protein": 0.3,
+    "sugar": 1.7
+},{
+    "carbs": 2,
+    "fat": 0,
+    "fiber": 1,
+    "kcal": 22,
+    "key": 915,
+    "name": "Zucchini",
+    "protein": 3,
+    "sugar": 2
+},{
+    "carbs": 100,
+    "fat": 0,
+    "fiber": 0,
+    "kcal": 400,
+    "key": 916,
+    "name": "Zucker",
+    "protein": 0,
+    "sugar": 100
+},{
+    "carbs": 81,
+    "fat": 0.1,
+    "fiber": 0,
+    "kcal": 329,
+    "key": 917,
+    "name": "Zuckerrübensirup",
+    "protein": 1,
+    "sugar": 79
+},{
+    "carbs": 9,
+    "fat": 1,
+    "fiber": 1,
+    "kcal": 63,
+    "key": 918,
+    "name": "Zuckerschoten",
+    "protein": 4,
+    "sugar": 8
+},{
+    "carbs": 72,
+    "fat": 10,
+    "fiber": 2.4,
+    "kcal": 423,
+    "key": 919,
+    "name": "Zwieback",
+    "protein": 10,
+    "sugar": 12
+},{
+    "carbs": 6,
+    "fat": 0,
+    "fiber": 2.3,
+    "kcal": 33,
+    "key": 920,
+    "name": "Zwiebel",
+    "protein": 1,
+    "sugar": 4
+},{
+    "carbs": 12,
+    "fat": 13.4,
+    "fiber": 1.4,
+    "kcal": 199,
+    "key": 921,
+    "name": "Zwiebelkuchen",
+    "protein": 6.9,
+    "sugar": 1
+},{
+    "carbs": 0,
+    "fat": 25,
+    "fiber": 0,
+    "kcal": 285,
+    "key": 922,
+    "name": "Zwiebelmettwurst",
+    "protein": 15,
+    "sugar": 0
+}
+]

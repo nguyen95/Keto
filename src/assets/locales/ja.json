@@ -1,0 +1,464 @@
+{
+   "title": "健康食品",
+   "custom": {
+      "backToNow": "今に戻る",
+      "back": "戻って",
+      "next": "次",
+      "cancel": "キャンセル",
+      "lipid": "Tỉ lệ mỡ cơ thể",
+      "estimatedLifespan": "推定寿命",
+      "estimatedLifespanSub": "推定寿命を計算してみてください！",
+      "lifeCheckTitle": "平均余命の計算",
+      "lifeCheckSub": "以下の6つのカテゴリーの質問に応じて、あなたの習慣や特性に基づいて年齢を計算し始めます。生活習慣、心理状態、配偶者の有無、仕事の状況、環境条件、遺伝的素因。質問に真摯に向き合うことが大切です。"
+   },
+   "sub": {
+      "title": "Premium",
+      "des": "Upgrade to Premium User with",
+      "benefit1": "Remove all ads",
+      "benefit2": "Use all features in app",
+      "perMonth": "per month",
+      "upgrade": "Upgrade Now!",
+      "term": "Terms & Conditions",
+      "policy": "Privacy policy"
+   },
+   "user": {
+      "title": "ユーザー",
+      "tabbarTitle": "私に",
+      "statisticsWeekly": "カロリーの追跡",
+      "currentlyPlan": "現在の計画",
+      "recentRecipes": "最近のレシピ",
+      "savedReceipes": "保存されたレシピ",
+      "yourSavedRecipes": "保存したレシピ",
+      "view": "見る",
+      "logoutTitle": "ログアウト",
+      "logoutMsg": "あなたがログアウトしてもよろしいですか？",
+      "ok": "OK",
+      "shoppingList": "買い物リスト",
+      "viewShoppingList": "ビューの買い物リスト",
+      "weekday": {
+         "monday": "月曜",
+         "tuesday": "火曜日",
+         "wednesday": "水曜日",
+         "thursday": "木曜日",
+         "friday": "金曜日",
+         "saturday": "土曜日",
+         "sunday": "日曜日"
+      },
+      "weekdayShorten": {
+         "monday": 2,
+         "tuesday": 3,
+         "wednesday": 4,
+         "thursday": 5,
+         "friday": 6,
+         "saturday": 7,
+         "sunday": "su"
+      },
+      "time": {
+         "tomorrow": "明日",
+         "nextTime": "次回",
+         "yesterday": "昨日",
+         "dayAgo": "数日前",
+         "lastWeek": "先週",
+         "weeksAgo": "何週間前",
+         "lastMonth": "先月",
+         "monthsAgo": "数か月前",
+         "lastYear": "昨年",
+         "yearsAgo": "数年前"
+      }
+   },
+   "statistics": {
+      "title": "活動グラフ",
+      "caloriesChartTitle": "カロリー摂取量",
+      "nutritionAverage": "今週中に栄養平均",
+      "waterChartTitle": "給水口",
+      "thisweek": "今週",
+      "prevweek": "7日前まで",
+      "week": {
+         "title": "日々",
+         "nutritionAverage": "今週中に栄養平均",
+         "currentstate": "今週",
+         "prevstate": "7日前まで"
+      },
+      "two_weeks": {
+         "title": "ウィークリー",
+         "nutritionAverage": "この2週間で栄養平均",
+         "currentstate": "最後の14日間",
+         "prevstate": "14日前"
+      },
+      "month": {
+         "title": "月次",
+         "nutritionAverage": "今月中に栄養平均",
+         "currentstate": "最後の30日間",
+         "prevstate": "30日前"
+      }
+   },
+   "plan": {
+      "title": "予定",
+      "tabbarTitle": "予定",
+      "yourPlan": "あなたの計画",
+      "viewPlan": "ビュープラン",
+      "detailPlan": "詳細計画",
+      "startPlan": "スタート計画",
+      "msgSelectPlan": "あなたの計画を更新",
+      "detail_plan": {
+         "onThisPlan": "この計画では",
+         "about": "関して",
+         "whatYouEat": "あなたが食べれます",
+         "benefits": "利点"
+      }
+   },
+   "tabbar": {
+      "home": "家",
+      "yourMeal": "君の食事",
+      "user": "私に"
+   },
+   "recipes": {
+      "title": "レシピ",
+      "tabbarTitle": "レシピ",
+      "msgAddRecipe": "最近のレシピに追加",
+      "clickMore": "詳細>",
+      "detailRecipe": "詳細レシピ",
+      "iHavedTryThis": "私はこれを試してみました",
+      "ingredients": "材料",
+      "instruction": "説明書",
+      "textNumberPeople": "利用不可",
+      "recipeName": {
+         "breakfast": "朝ごはん",
+         "lunch": "ランチ",
+         "dinner": "晩ごはん",
+         "others": "他人"
+      }
+   },
+   "login": {
+      "signinWithGoogle": "Googleアカウントでサインイン",
+      "signinWithEmail": "メールアカウントでサインイン",
+      "signinWithFacebook": "Facebookのアカウントでログイン",
+      "signinWithApple": "アップルでサインイン",
+      "loginErrorMsg": "ログインエラー",
+      "loginSignupEmail": {
+         "title": "電子メールでログイン",
+         "email": "Eメール",
+         "password": "パスワード",
+         "login": "ログイン",
+         "createAnAccount": "アカウントを作成する",
+         "createAccount": "アカウントを作成する",
+         "haveAnAccount": "アカウントを持っています？ログイン",
+         "verifyYourAccount": "あなたのアカウントを確認します",
+         "msgLinkVerifySent": "アカウントを確認するためのリンクを電子メールに送信されました",
+         "dismiss": "退出させる",
+         "passNotEmpty": "パスワードが空にすることはできません",
+         "enterInvalidEmail": "無効なメールアドレスを入力します。",
+         "enterInvalidEmailFormat": "無効な電子メールの形式"
+      },
+      "signInByEmailErrMesg": {
+         "ERROR_INVALID_EMAIL": "あなたのメールアドレスは、不正な形式ているように見えます。",
+         "ERROR_WRONG_PASSWORD": "パスワードが間違っています。",
+         "ERROR_USER_NOT_FOUND": "このメールを持つユーザーは存在しません。",
+         "ERROR_USER_DISABLED": "このメールを持つユーザーが無効になっています。",
+         "ERROR_TOO_MANY_REQUESTS": "あまりにも多くのリクエスト。あとでもう一度試してみてください。",
+         "ERROR_OPERATION_NOT_ALLOWED": "電子メールとパスワードを使って署名が有効になっていません。",
+         "UNKNOWN": "未定義のエラーが起こりました。"
+      },
+      "signUpByEmailErrMesg": {
+         "ERROR_INVALID_EMAIL": "あなたのメールは無効です。",
+         "ERROR_OPERATION_NOT_ALLOWED": "匿名アカウントが有効になっていません",
+         "UNKNOWN": "未定義のエラーが起こりました。",
+         "ERROR_WEAK_PASSWORD": "あなたのパスワードは安全度が低いです",
+         "ERROR_EMAIL_ALREADY_IN_USE": "メールは別のアカウントで既に使用されています",
+         "ERROR_INVALID_CREDENTIAL": "あなたのメールは無効です。"
+      }
+   },
+   "nutritions": {
+      "title": "栄養",
+      "subTitle": "（一食当たり）",
+      "kcal": "キロカロリー",
+      "carbs": "炭水化物",
+      "protein": "タンパク質",
+      "fat": "太い",
+      "fiber": "ファイバ",
+      "sugar": "シュガー"
+   },
+   "shoppingList": {
+      "title": "買い物リスト",
+      "delete": "[削除]",
+      "done": "完了",
+      "removeItem": "このレシピを削除します",
+      "doneMsg": "終わった",
+      "linkToRecipe": "レシピに行きます>",
+      "addAllToShoppingList": "+買い物リスト"
+   },
+   "BMR": {
+      "title": "BMR",
+      "titleUpdateBRM": "更新BMR",
+      "buttonChangeGoals": "あなたの目標を変更",
+      "BMI": "BMI",
+      "male": "男性",
+      "female": "女性",
+      "height": "高さ",
+      "weight": "重量",
+      "age": "年齢",
+      "gender": "性別",
+      "activityLevel": "活動レベル",
+      "calories": "カロリー",
+      "tdee": "毎日の総エネルギー消費量（TDEE）",
+      "today": "今日",
+      "kCalDay": "キロカロリー/日",
+      "kCalLeft": "キロカロリー左",
+      "caculateBMR": "計算BMR",
+      "yourResult": "あなたの結果",
+      "reCaculate": "再計算",
+      "gotIt": "とった",
+      "continue": "継続する",
+      "personal": "個人的な",
+      "howToContinue": "右のボタン（+）をタップして検索を続けます",
+      "howToContinueMeal": "右のボタン（+）をタップして検索を続けます",
+      "tipOfTheDay": "DAY OFヒント",
+      "dateUpdateWeight": "ボディスマートスケールで",
+      "save": "セーブ",
+      "nutritionSettings": "栄養の設定",
+      "nutritionSettingsTitle": "比正しくありません",
+      "nutritionSettingsError": "総栄養率は100％に等しくありません",
+      "bmiComment": {
+         "UNDERWEIGHT": "重みで",
+         "NORMAL": "健康的な体重。",
+         "OVERWEIGHT": "太りすぎ。",
+         "OBESE": "肥満。"
+      },
+      "activityLevelMsg": {
+         "littleOrNoExercise": {
+            "title": "とても低い",
+            "subtitle": "いいえ、毎日の活動に少し。銀行出納係、デスクの仕事。空き時間にテレビを見てビデオゲームをプレイ読書、"
+         },
+         "lightExercise": {
+            "title": "低いです",
+            "subtitle": "光毎日の活動1-3時間/週"
+         },
+         "moderateExercise": {
+            "title": "適度",
+            "subtitle": "光毎日の活動3-5時間/週"
+         },
+         "veryActive": {
+            "title": "高い",
+            "subtitle": "一日を通して身体活動。郵便配達員、waitstaff。空いた時間にアクティブであります"
+         },
+         "extraActive": {
+            "title": "非常に高い",
+            "subtitle": "物理的には、毎日の活動を要求。建設工事、自転車メッセンジャー。空いた時間での激しい毎日の活動"
+         }
+      },
+      "trackingActivity": {
+         "title": "週のあなたの活動",
+         "spentTime1DayAmout": "分/日",
+         "spentTime1Day": "分",
+         "spentTimes1WeekAmount": "日/週",
+         "spentTimes1Week": "日々",
+         "validateMinsError": "正しくない分",
+         "validateDaysError": "正しくない日"
+      },
+      "drinkWater": {
+         "dailyGoal": "毎日の目標飲料水",
+         "lastDrink": "最終ドリンク",
+         "weWillNoti": "通知を無効",
+         "enableNoti": "通知を有効にします",
+         "mlDay": "ミリリットル/日",
+         "needToDrink": "水",
+         "title": "水を飲む",
+         "notificationTitle": "水を飲む",
+         "notificationSub": "ドリンク水のための時間",
+         "requirePermissions": "この機能を使用するには、通知の許可に同意してください。"
+      },
+      "eating": {
+         "notificationTitle": "7:00に朝食の準備をする",
+         "notificationSub": "エネルギーに満ちた素晴らしい一日を！"
+      },
+      "yourGoals": {
+         "title": "あなたの目標",
+         "recommendTitle": "推薦します",
+         "question": "あなたの目標は何ですか？",
+         "loseWeightTitle": "体重が減る",
+         "loseWeightSubTitle": "賢く食べることによって、あなたの体重を管理します",
+         "maintainWeightTitle": "体重を維持します",
+         "maintainWeightSubTitle": "あなたの幸福を最適化",
+         "gainWeightTitle": "体重が増加する",
+         "gainWeightSubTitle": "高タンパク質食品とビルドの強さ",
+         "errMsgTitle": "あなたの目標エラー",
+         "gainWeightErrMsg": "あなたの現在の体重オーバーの目標重量必見",
+         "loseWeightErrMsg": "目標体重は、あなたの現在の体重を下げる必要があります",
+         "suggestMeal": "おすすめメニュー"
+      },
+      "weightStat": {
+         "popupTitle": "トラックの重量",
+         "popupBtnTitle": "更新",
+         "popupBtnSkipeTitle": "スキップ",
+         "history": "歴史",
+         "dailyStaticTitle": "最後の30日間",
+         "weeklyStaticTitle": "最後の28日間",
+         "monhtlyStaticTitle": "過去60日間",
+         "startingWeight": "体重を開始",
+         "currentWeight": "電流",
+         "gapWeight": "ギャップ"
+      },
+      "greetings": {
+         "morning": "おはようございます",
+         "afternoon": "こんにちは",
+         "evening": "こんばんは"
+      }
+   },
+   "calo": {
+      "measurement": "カロリー",
+      "searchHint": "探す...",
+      "howtoBurn": "どのように燃焼させます",
+      "addToDiary": "日記に追加",
+      "updateToDiary": "日記の更新",
+      "kcalRemaining": "残り",
+      "caloEaten": "食べ",
+      "caloBurned": "焼け",
+      "dailyGoals": "毎日の目標",
+      "time": "時間",
+      "simpleCalo": {
+         "title": "シンプルなカロリーを追加",
+         "defaultName": "シンプルなカロリー",
+         "hintTitle": "タイル",
+         "hintkcal": "キロカロリー（必須）",
+         "hintCarbs": "炭水化物",
+         "hintFat": "太い",
+         "hintPro": "タンパク質"
+      }
+   },
+   "food": {
+      "cannotFoundFoodTitle": "見つかりません",
+      "cannotFoundFoodSubTitle": "食品]ボタンをクリックして、あなたのための新しい簡単な食べ物を作成してください！",
+      "simpleFood": {
+         "title": "簡単な食品を追加",
+         "defaultName": "シンプルな食べ物",
+         "hintTitle": "食品名",
+         "hintkcal": "キロカロリー（必須）",
+         "hintCarbs": "炭水化物",
+         "hintFat": "太い",
+         "hintPro": "タンパク質"
+      },
+      "new": {
+         "title": "新しい食べ物を作成します。",
+         "basic": {
+            "title": "基本情報",
+            "nameTitle": "食べ物の名前",
+            "barcodeTitle": "バーコード"
+         },
+         "servingSize": {
+            "title": "サービング",
+            "defaultServing": "デフォルトのサービング",
+            "customServing": "カスタムサービス提供",
+            "name": "サービス提供の名前"
+         },
+         "contentPerServing": {
+            "gram": "グラム（g）の",
+            "ml": "ミリリットル（ml）の"
+         },
+         "nutrition": {
+            "title": "栄養成分表示",
+            "additionTitle": "追加データ"
+         }
+      },
+      "barCode": {
+         "barCodeBtn": "バーコードをスキャン",
+         "popupCoonfirmTitle": "要求されたバーコードは、私達のデータベースではなく、",
+         "popupCoonfirmContent": "ヘルプには、既存のアイテムにスキャンしたバーコードを接続します"
+      }
+   },
+   "favMeal": {
+      "title": "君の食事",
+      "buttonTracking": "新しい食事を作成します。",
+      "canotFoundTitle": "見つかりません",
+      "canotFoundSubTitle": "好きなボタンをクリックします（💙）とあなたのための新しい食事を作成してください！",
+      "msgConfirm": "新しい食事を作成したいでしたか？",
+      "msgDeleteConfirm": "あなたは食事を削除したいでしたか？",
+      "new": {
+         "title": "食事を作成します。",
+         "info": {
+            "title": "食事情報",
+            "name": "食事の名前",
+            "photo": "食事の写真",
+            "hintRequired": "必須",
+            "hintOptional": "オプショナル",
+            "validateMsg": "値は空にすることはできません",
+            "validateInfo": "必要な情報を入力してください"
+         },
+         "content": {
+            "title": "食事内容",
+            "buttonTitle": "食事に食品を追加"
+         }
+      },
+      "tracking": {
+         "title": "詳細食事",
+         "infoHeader": "食事情報"
+      },
+      "cell": {
+         "serving": "サービング"
+      },
+      "addButtonTitle": "新しい食事を追加します。",
+      "addFoodButtonTitle": "食事に食品を追加"
+   },
+   "activityBurnCalo": {
+      "swimming": "水泳",
+      "walking": "ウォーキング",
+      "running": "ランニング",
+      "riding": "ライディング",
+      "time": "分"
+   },
+   "exercise": {
+      "title": "運動",
+      "deleteMsg": "削除エクササイズ",
+      "addMsg": "エクササイズを追加",
+      "canotFoundTitle": "見つかりません",
+      "canotFoundSubTitle": "おっと！私たちはあなたの検索を見つけることができません。あなたが行使たちと共有することができます"
+   },
+   "setting": {
+      "title": "設定",
+      "restorePurchase": "購入商品を復元する",
+      "dataLocale": "あなたのためのセットアップデータベース",
+      "updateBMR": "更新BMR",
+      "nutrition": "栄養の設定",
+      "help": "助けて",
+      "feedBack": "フィードバック",
+      "moreApp": "より多くのアプリケーション",
+      "inviteFriend": "友人を招待",
+      "inviteFriendMsg": "クリーンを食べるための最高のアプリ",
+      "rateTheApp": "アプリを評価",
+      "term": "規約と条件",
+      "policy": "個人情報保護方針",
+      "signOut": "サインアウト"
+   },
+   "ratingPopup": {
+      "title": "あなたは我々のアプリについてどう思いますか",
+      "message": "評価を残してください",
+      "child": "OK"
+   },
+   "showcase": {
+      "todayPage": {
+         "nextButton": {
+            "title": "翌日",
+            "subtitle": "次の日に移動するにはタップ"
+         },
+         "todayButton": {
+            "title": "今日",
+            "subtitle": "今日戻ってリロードするタップ"
+         },
+         "floatingButton": {
+            "title": "カロリーを追跡",
+            "subtitle": "カロリーの追跡を開始するタップ"
+         }
+      },
+      "mealPage": {
+         "addMeal": {
+            "title": "新しい食事を作成します。",
+            "subtitle": "あなたのための新しいカスタム食事を作成するために、タップ"
+         }
+      }
+   },
+   "measurement": {
+      "gram": "g",
+      "calo": "kcal",
+      "kg": "kg",
+      "cm": "cm"
+   }
+}
