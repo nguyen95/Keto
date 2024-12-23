@@ -67,7 +67,7 @@ export default class SubStore {
               if (receipt) {
                 try {
                   this.isVip = true;
-                  finishTransaction(purchase, false);
+                  finishTransaction({purchase, isConsumable: false});
                 } catch (ackErr) {
                   console.error('ackErr', ackErr);
                 }
@@ -85,7 +85,7 @@ export default class SubStore {
 
     try {
       if (itemSubs) {
-        this.arrSubscriptions = await RNIap.getSubscriptions(itemSubs);
+        this.arrSubscriptions = await RNIap.getSubscriptions({skus: itemSubs});
       }
     } catch (err) {
       console.warn(err.code, err.message);
@@ -116,7 +116,7 @@ export default class SubStore {
   purchase = async (sub_type: SUB_TYPE) => {
     try {
       if (sub_type === SUB_TYPE.MONTH && subMonth) {
-        await RNIap.requestSubscription(subMonth);
+        await RNIap.requestSubscription({sku: subMonth});
       }
     } catch (err) {
       Alert.alert(err.message);
